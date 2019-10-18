@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Appearance Changing
+//  ocr_cnv_cl_nxt
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Remake Cloak - Next Mode
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+  RemakeCloak(oPC,0);
+}

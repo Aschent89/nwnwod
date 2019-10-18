@@ -1,0 +1,122 @@
+{
+  "__data_type": "UTT ",
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Place this around an area where you'd like PC's to be able to jump over obstacles.  By default, a PC will end up back where they started.  For a different destination - say, the bottom of a pit - use a Failed Jump Start Location and a matching Jump Waypoint."
+  },
+  "Cursor": {
+    "type": "byte",
+    "value": 0
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "HighlightHeight": {
+    "type": "float",
+    "value": 0.0
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedToFlags": {
+    "type": "byte",
+    "value": 0
+  },
+  "LoadScreenID": {
+    "type": "word",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 14759,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Jump Animation Trigger"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 6
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 0
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "ScriptOnEnter": {
+    "type": "resref",
+    "value": "_mdrn_tt_jumpen"
+  },
+  "ScriptOnExit": {
+    "type": "resref",
+    "value": "_mdrn_tt_jumpex"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_tt_jump"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_tt_jump"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Type": {
+    "type": "int",
+    "value": 0
+  }
+}

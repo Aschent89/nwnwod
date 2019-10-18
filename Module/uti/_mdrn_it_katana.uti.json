@@ -1,0 +1,120 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 120
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 41
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 200
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "In the strictest sense, the term katana in Japanese is applied to any kind of single-edged sword, of any origin, and does not necessarily refer to a Japanese sword.\n\n\"Katana\" was originally used as a general term for a single-edged sword having a \"sori\" or curvature of the blade. While the \"sugata\" or form can take many shapes, including double edged, the term is now used incorrectly to describe nihonto that are 2 shaku (606 mm / 24 in) and longer, also known as \"dai\" or \"daito\" among Western sword enthusiasts."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "In the strictest sense, the term katana in Japanese is applied to any kind of single-edged sword, of any origin, and does not necessarily refer to a Japanese sword.\n\n\"Katana\" was originally used as a general term for a single-edged sword having a \"sori\" or curvature of the blade. While the \"sugata\" or form can take many shapes, including double edged, the term is now used incorrectly to describe nihonto that are 2 shaku (606 mm / 24 in) and longer, also known as \"dai\" or \"daito\" among Western sword enthusiasts."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 1535,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 81
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 81
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 81
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 194
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 26
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 82
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 301
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_katana"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_katana"
+  }
+}

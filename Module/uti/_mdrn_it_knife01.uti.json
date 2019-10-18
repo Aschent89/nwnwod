@@ -1,0 +1,122 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 35
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 0
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 55
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The machete is a large cleaver-like cutting tool. In tropical and subtropical countries it is frequently used to cut through undergrowth and for agricultural purposes. Besides this it is not uncommon to see a machete being used for such household tasks as cutting large foodstuffs or to perform crude cutting tasks such as making simple wooden handles for other tools. It is also common to see people using machetes for their odd jobs such as splitting open coconuts, working the lawns, clearing brush, even shaving, or other related activities. Consequently, it is often the weapon of choice for uprisings."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The machete is a large cleaver-like cutting tool. In tropical and subtropical countries it is frequently used to cut through undergrowth and for agricultural purposes. Besides this it is not uncommon to see a machete being used for such household tasks as cutting large foodstuffs or to perform crude cutting tasks such as making simple wooden handles for other tools. It is also common to see people using machetes for their odd jobs such as splitting open coconuts, working the lawns, clearing brush, even shaving, or other related activities. Consequently, it is often the weapon of choice for uprisings."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 106,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Machete"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 71
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 71
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 190
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 26
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 82
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 301
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_knife01"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_knife01"
+  }
+}

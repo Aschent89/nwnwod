@@ -1,0 +1,144 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 311
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Auspex-\n Level one- This power sharpens your senses so that you can hear, see, feel, taste and smell more. It would allow a person to hear another beings heart beat or even notice weak floor boards giving under the weight of a person.\n\nLevel 2- Aura Preception This allows the user to be able to tell the aura's of beings mortal and supernatual alike.  To use this RP power it is the users will against the targets will. Sucess means the user can see the color of a person's aura and detrermine their race, ie... garou, Human, Vampire, Mage No other information can be gleened from this power. This power takes 3 tries to be able to fully assess the race of said being. Inquisitors can never be told apart from normal humans.\n\nLevel 3- Spirit Touch This allows a user to gain information on the item last weilder. But the information is hardly clear. It would come across as a picture breifly of the person as well as prehaps the action they were doing with it. It is asked not to try and use this power without a dm involved as this power yeilds much information that should not be known and it is the GM/ DM's decision how much you learn as well as the difficulty\n\nLevel 4- Telepathy-  This allows you to either pull a single thought from a mortal's mind or to send a message to another. There are exceptions trying to use this power to try and use such a power on a garou or mind mage to pull information you must make a will check. On a garou you must make a dc 10+20+ their int modifier to not be dazed and taken off by their rage, a 1 means you are so taken by their rage you frenzy yourself. When confronted with a mind mage ie a mage that has the mind sphere level 1 you must roll a will save vs their will save and success means you gleen a small thought along the lines you are looking for. Should a Mind mage have level 4 you find they are a blank empty blackness to you. Level 5 mind mage your own probing returns to you as an echo will save needed vs your own will failure means you forget what you were doing and why.\n\nLevel 5- Psychic Projection- This can be done but requires extended periods of a torpor state while using it. It can be RPed as seeing an event happen happened Will save dc 30 to return to your body un scathed by the action of Projecting. Failure means you are unable to return to your body thus unable to act.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Vampire- Auspex 3: Ecstatic Agony"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 30
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 178
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 8
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "vamp_ausp_3"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "vamp_ausp_3"
+  }
+}

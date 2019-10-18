@@ -1,0 +1,234 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 4800
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 6
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: Cryo Canon Pack\n\nThe perfection of cryogenic technology finally reaches its most portable form in the Energy Age. A cryonic weapon draws power from a canister of compressed mutagen, which is transmitted, via an energy beam into the target. The cryonic beam deals cold damage.\n\nThis energy canon not only damages anything it directly hits, but the blast is intense enough to affect creatures and other objects close to it's original target. (4d6 on hit with 2d6 to targets within 3m/10ft)\n \nCryonic weapons do not use ammunition, but are instead powered by special power packs."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: Cryo Pack (High Power)\n\nThe perfection of cryogenic technology finally reaches its most portable form in the Energy Age. A cryonic weapon draws power from a canister of compressed mutagen, which is transmitted, via an energy beam into the target. The cryonic beam deals cold damage.\n\nThis pulse rifle is a fully automatic assault weapon capable of firing a rapid barrage of cryonic rounds. The pulse rifle is a specialist weapon only issued to elite soldiers of the Energy Age.\n\nPulse weapons do not use ammunition, but are instead powered by power packs."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 173,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Cryonic Pulse Rifle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 171
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 200
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 35
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 47
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_cryrifl"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_cryrifl"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "805"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nMdrnPlasma"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Electronic"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      }
+    ]
+  }
+}

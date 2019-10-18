@@ -1,0 +1,83 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This is an out-of-game item to represent a one-time Wealth bonus."
+    }
+  },
+  "Description": {
+    "id": 13315,
+    "type": "cexolocstring",
+    "value": {
+      "0": "This is an out-of-game item to represent a one-time Wealth bonus."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13314,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Wealth from Major Breakthrough"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 117
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 115
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_ot_majw"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_ot_majw"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 6300
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 6
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 6500
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: T61 Incendiary Rocket\n\nBazooka is the common name for a man-portable recoilless rocket antitank weapon, widely fielded by the US Army. Also referred to as the \"Stovepipe\", the innovative bazooka was amongst the first-generation of rocket propelled anti-tank weapons used in infantry combat. Featuring a solid rocket motor for propulsion, it allowed for high explosive and high-explosive anti-tank warheads to be delivered against armoured vehicles, machine gun nests, and fortified bunkers at ranges beyond that of a standard thrown grenade or mine.\n\nBy late 1942, the improved Rocket Launcher, M1A1 was introduced. The forward hand grip was deleted, and the design simplified. The ammunition for the original M1 launcher was the M6, which was notoriously unreliable. The M6 was improved and designated M6A1, and the new ammunition was issued with the improved M1A1 launcher. After the M6, several alternative warheads were introduced. The 2.36-Inch Smoke Rocket M10 and its improved subvariants used the rocket motor and fin assembly of the M6A1, but replaced the anti-tank warhead with a white phosphorus smoke head. This not only acts as a visible screen, but its burning particles can cause burns on human skin. The 2.36-Inch Incendiary Rocket T31 was an M10 variant with an incendiary warhead designed to ignite fires in enemy-held structures and unarmored vehicles, or to destroy combustible supplies, ammunition, and material.\n\nT61 rounds damage the immediate target physically and through fire, but also cause fire damage to targets in the immediate vicinity."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: T61 Incendiary Rocket\n\nBazooka is the common name for a man-portable recoilless rocket antitank weapon, widely fielded by the US Army. Also referred to as the \"Stovepipe\", the innovative bazooka was amongst the first-generation of rocket propelled anti-tank weapons used in infantry combat. Featuring a solid rocket motor for propulsion, it allowed for high explosive and high-explosive anti-tank warheads to be delivered against armoured vehicles, machine gun nests, and fortified bunkers at ranges beyond that of a standard thrown grenade or mine.\n\nBy late 1942, the improved Rocket Launcher, M1A1 was introduced. The forward hand grip was deleted, and the design simplified. The ammunition for the original M1 launcher was the M6, which was notoriously unreliable. The M6 was improved and designated M6A1, and the new ammunition was issued with the improved M1A1 launcher. After the M6, several alternative warheads were introduced. The 2.36-Inch Smoke Rocket M10 and its improved subvariants used the rocket motor and fin assembly of the M6A1, but replaced the anti-tank warhead with a white phosphorus smoke head. This not only acts as a visible screen, but its burning particles can cause burns on human skin. The 2.36-Inch Incendiary Rocket T31 was an M10 variant with an incendiary warhead designed to ignite fires in enemy-held structures and unarmored vehicles, or to destroy combustible supplies, ammunition, and material.\n\nT61 rounds damage the immediate target physically and through fire, but also cause fire damage to targets in the immediate vicinity."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 173,
+    "type": "cexolocstring",
+    "value": {
+      "0": "M1A1 \"Bazooka\" Rocket Launcher"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 121
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 200
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 47
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 1
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_m1bazka"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_m1bazka"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "905"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      }
+    ]
+  }
+}

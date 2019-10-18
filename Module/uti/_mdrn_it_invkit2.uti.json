@@ -1,0 +1,148 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 207
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 500
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Law enforcement agencies around the world use generally the same tools to gather evidence. Having an evidence kit does not grant access to a law enforcement agency's crime lab; it merely assists in the proper gathering and storing of evidence for use by such a lab. Without an evidence kit, a character receives a -4 penalty on the Investigate skill.\nBasic: A basic evidence kit includes clean containers, labels, gloves, tweezers, swabs, and other items to gather bits of physical evidence and prevent them from becoming contaminated.\nDeluxe: A deluxe kit includes all the materials in a basic kit, plus supplies for analyzing narcotic substances at the scene and for gathering more esoteric forms of physical evidence such as casts and molds of footprints or vehicle tracks, as well as chemical residues and organic fluids. It also contains the necessary dusts, sprays, brushes, adhesives, and cards to gather fingerprints. It grants a +2 equipment bonus on Investigate checks."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Law enforcement agencies around the world use generally the same tools to gather evidence. Having an evidence kit does not grant access to a law enforcement agency's crime lab; it merely assists in the proper gathering and storing of evidence for use by such a lab. Without an evidence kit, a character receives a -4 penalty on the Investigate skill.\nBasic: A basic evidence kit includes clean containers, labels, gloves, tweezers, swabs, and other items to gather bits of physical evidence and prevent them from becoming contaminated.\nDeluxe: A deluxe kit includes all the materials in a basic kit, plus supplies for analyzing narcotic substances at the scene and for gathering more esoteric forms of physical evidence such as casts and molds of footprints or vehicle tracks, as well as chemical residues and organic fluids. It also contains the necessary dusts, sprays, brushes, adhesives, and cards to gather fingerprints. It grants a +2 equipment bonus on Investigate checks."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Evidence Kit (Deluxe)"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 2
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 109
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_investigatekit"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_invkit2"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "SkillBonus"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Skill"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 46
+        }
+      }
+    ]
+  }
+}

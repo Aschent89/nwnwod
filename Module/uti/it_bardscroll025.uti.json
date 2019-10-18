@@ -1,0 +1,144 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 9997
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Caster Level(s): Bard 1\nDescriptor(s):\nComponent(s): Verbal\nRange: Personal\nArea of Effect / Target: Large\nDuration: Instant\nAdditional Counter Spells:\nSave: None\nSpell Resistance: No\n\nThis infernal cacophony of jarring sylables and sounds has been proven as the quickest way to empty a performance hall. Each verse inflicts sonic damage, increasing in power with each succession.\n\nThe singer makes a perform check with each attempt. On failure, the singer is silenced for 10 rounds while her voice recovers. There is only a limited amount of time after the first verse before the rising loses it's effect and the singer needs to start over.\n\n1d6 DMG (DC: 12)  6d6 DMG (DC 42)\n2d6 DMG (DC: 16)  7d6 DMG (DC 47)\n3d6 DMG (DC: 20)  8d6 DMG (DC 52)\n4d6 DMG (DC: 24)  9d6 DMG (DC 57)\n5d6 DMG (DC: 28) 10d6 DMG (DC 62)\n\n11d6   (DC 82)   16d6   (DC 132)\n12d6   (DC 88)   17d6   (DC 139)\n13d6   (DC 94)   18d6   (DC 146)\n14d6   (DC 100)  19d6  (DC 153)\n15d6   (DC 106)  20d6  (DC 160)\n\n21d6   (DC 192)\n22d6   (DC 200)\n23d6   (DC 208)"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Curse Song: Unceremonius Rhapsody"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 15
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 26
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 13
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 63
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "it_bardscroll"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "it_bardscroll025"
+  }
+}

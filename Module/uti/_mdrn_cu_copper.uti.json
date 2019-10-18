@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 215
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Since the beginning of civilisation, copper has been used to make coins for currency. The ancient Romans recognised the value of this material and used a wide variety of copper coins. Centuries later, the Gold Standard gave way to the Copper Standard for coins of all values due to copper's long-lasting properties. Even today, when consumers are surveyed about copper, the most popular association comes with currency and coins. Anglo-Saxon countries like England and the United States have long used copper for their most popular coins, such as the penny.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Since the beginning of civilisation, copper has been used to make coins for currency. The ancient Romans recognised the value of this material and used a wide variety of copper coins. Centuries later, the Gold Standard gave way to the Copper Standard for coins of all values due to copper's long-lasting properties. Even today, when consumers are surveyed about copper, the most popular association comes with currency and coins. Anglo-Saxon countries like England and the United States have long used copper for their most popular coins, such as the penny.\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Copper Coin"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 2
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 127
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 100
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_cu_copper"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_cu_copper"
+  }
+}

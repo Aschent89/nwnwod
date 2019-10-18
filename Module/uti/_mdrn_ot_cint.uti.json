@@ -1,0 +1,148 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 206
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "About the size of a small briefcase, a cellular interceptor can detect and monitor a cell phone conversation within a 5-mile area by listening in on the cellular service's own transmitters. Intercepting the calls of a particular cell phone requires a Computer Use check (DC 35); if the user knows the phone number of the phone in question, the DC drops by 10. Obviously, the phone must be in use for someone to intercept the call. A cellular interceptor cannot be used to intercept regular (ground line) phone connections."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "About the size of a small briefcase, a cellular interceptor can detect and monitor a cell phone conversation within a 5-mile area by listening in on the cellular service's own transmitters. Intercepting the calls of a particular cell phone requires a Computer Use check (DC 35); if the user knows the phone number of the phone in question, the DC drops by 10. Obviously, the phone must be in use for someone to intercept the call. A cellular interceptor cannot be used to intercept regular (ground line) phone connections."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Cellular Interceptor"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 28
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 108
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 2
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_ot_cint"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_ot_cint"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 30
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      }
+    ]
+  }
+}

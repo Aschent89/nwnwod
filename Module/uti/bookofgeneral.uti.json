@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 501
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "General Rules\n\nOlander/Manwe/Varda is the Server Admin. Any complaints against DMs....including me....send my way. PM me in the Forum and/or send me an email (available in the Forum). I will take care of it right away. If the issue is with me....we can discuss it and it will get resolved.\n\nNote: For many punishments to be carried out some sort of evidence must be required by the DM. This evidence may be material, logical or otherwise, but the DM has the full liberty to decide what is sufficient evidence to carry out a punishment. \n\nThe most important thing a player can do is use common sense. A simple ability, yet neglected by many! \n\n-------\n\nSaving more than 5 Skill Points after Levelling up is Frowned Upon. This is a minor game exploit to 'Dump' earned Skill Points into some skill you don't currently have (Like Tumble).\n\nGetting caught for abusive Skill Dumping will get you 15 Levels Lost.\n\n------- \n\nYou MAY NOT transfer items to another of your characters. Things like giving gear to your friends, logging off, then logging on with your other character will be considered cheating. \n\nPunishment: We shall take this in a case by case basis. Let's just not get to this point shall we? \n\n------- \n\nNOTE: There are MANY gaming exploits! You may or may not know them. There are TOO MANY for Rules to be made for all of them and the fact that if a Rule exists it will only encourage irresponsible people to try to get away with it. Again....this is simply Common Sense....use it and all is fine. \n\n------- \n\nYou should not attack PC or NPC of the same alignment. The main purpose here is killing friendlies to gain XP.....the cheap and easy kill so you don't have to roam anywhere to gain XP. Serious stuff. \n\nPunishment: You will be warned first and thereafter will receive a Death Deed.....basically your character is permently dead. Continued abuse and your IP gets banned from the server.....we don't want your kind here. \n\n------- \n\nCrafting Feats.....Brew Potion, and Craft Wand have been disabled.....DO NOT take these feats if they show up in the feat choices! No Relevel will be given.\n\nNOTE: Scribe Scroll is a handy Feat for Casters and is Available. \n\n------- \n\nDo not shout unless it is a world event. It must be something all players need to hear. If a DM is running a quest, sometimes shouting is the only option he/she has. Do not forget, you can block shouts. Simple right click on your message bar and exclude all shouts. Use tells to respond to shouts as well. \n\nPunishment: Continuing to shout after being asked to stop will be means for lightning bolts up yer arse. Don't use the shout channel as your main speech....=) . This is not a serious offense.....unless you are shouting retribution and revenge.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of General Rules"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 13
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "LibraryBook"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bookofgeneral"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 440
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 11
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 500
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "John Tompson founded the Auto Ordnance corp. in 1916, and began his developments in submachine guns with purchase of John Blish patent (1915), that described a delayed blowback automatic firearm. This patent described delayed blowback breech system in which a sloping metal wedge interlocked the breech block with the gun body. Under high pressure, as when the cartridge fired, the angle of the slope was such that the mating faces jammed solid. As the pressure dropped, the faces were able to slip across each other, the wedge moved up due to the slope, and the breech unlocked. This idea was used in all Thompson submachineguns except for M1 and M1A1 (those were simply blowback operated). \n\nThe first Thompson SMG appeared in 1919. The first serial manufactured model appeared in 1921 and was manufactured by Colt, as well as latest M1927 and M1928 models. 1928A1 & M1 series were manufactured by Auto-Ordnance and Savage, and licensed copies were manufactured by B.S.A. in Great Britain. \nCurrently, Auto-Ordnance (a part of the Kahr company) manufactures semi-auto only Tommy guns with lenghtened to 16\" (405 mm) barrels for civilian market. \n\nIn general, all Tommy guns may be described as a select-fire, delayed blowback or simply blowback (M1) operated firearms. All tommy guns featured all-steel, high quality construction. Barrels are partially ribbed for better cooling. \n\nThommy guns became famous through \"roaring twenties\" in the USA, when, during the Prohibition times, many Tommy guns were used by both Police and criminals to spread the death across the enemies. The Hollywood made the Tommy gun the sign of the 1920's in the USA. But this gun was also widely used during the WW2 and later in Korean war, and proved itself as a reliable and powerful firearm. The main drawbacks of the Tommy guns were short effective range, heavy weight and high cost of manufacture. \n\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 171,
+    "type": "cexolocstring",
+    "value": {
+      "0": "ZLEGACY Thompson SMG"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 101
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 114
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 31
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 20
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 60
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 20
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "NW_WBWSH001"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_smarms011"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "450"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Appearance Changing
+//  ocr_cnv_sd_prv
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Remake Shield - Previous Mode
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+  RemakeShield(oPC,1);
+}

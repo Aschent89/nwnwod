@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 501
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Herbology\n\nLore Based Skill (DC Varies Per Recipe)\n\n- To Brew Elixirs from Herbs Found in Nature\n- Set up a Campfire then click on it. You can set up the Cook Pot to Brew your Elixirs.\n- To Find Herbs you have to Prospect for them. When you think you have spotted an Herb, Open the ORM and choose the Prospecting option. If you have enough Lore Skill you will indentify all Herbs within 5 Meters.\n\nNOTE: The Campfire Pot will stay locked for 10 Seconds.\n\nThe Herbs:\n- Mountainous\nGinseng - Used to make tea.\nArchangel - Ground and mixed with oils to help wounds.\nPennyroyal - Purifies the blood. Internally digested.\n\n- Prairie\nValerian - The root's many uses strengthens one's body.\nSuma - A common grass that helps endurance.\nHenbane - Cleanses the body. Internally digested.\nCohosh - Cleanses the spirit. Internally digested.  \n\n- Forest\nWormwood - Small shade flower\nWintergreen - Small green plant abundant in forests. Mint.\nEyebright - Abundant in Forests.\nDigitalis - Grows freely in wooded areas.\nMilfoil - Ground and boiled to help reduce bleeding. Internal.\nWild Indigo - Ground and mixed with oils to help wounds.\nTansy - Ground and mixed with oils to help wounds.\n\n- Rocky (Hot Regions)\nCereus - A sweet scented cactus.\n\n- Desert\nDarkmous - A rare cactus.\n\n- Waters\nSumach - A tall shrub cultivated for it's leaves and fruit.  (Found Near Streams/Rivers)\nSpoonwort - The plant's leaves and roots have a stimulating effect. (Found Near Ponds/Marshes)\n\n- Cliffs and Rock Outcrops\nMaidenhair - Used for external healing.\nPinang - Cleanses the mind. Internally digested.\n\n\nThe Recipes:\n\nBandage\nLore Skill 5\n1x Wool Pads\n5x Milfoil\n5xWild Indigo\n5x Archangel\n5x Tansy\n5x Maidenhair\n\nElixir of Antidote\nLore Skill 7\n1x Glass Vial\n5x Digitalis\n5x Henbane\n5x Pennyroyal\n\nElixir of Lesser Restoration\nLore Skill 20\n1x Glass Vial\n5x Spoonwort\n5x Henbane\n5x Pinang\n5x Cohosh\n\nElixir of Restoration\nLore Skill 30\n1x Glass Vial\n10x Spoonwort\n5x Henbane\n5x Pinang\n5x Cohosh\n5x Pennyroyal\n\nElixir of Aid\nLore Skill 20\n1x Glass Vial\n10x Wintergreen\n5x Cohosh\n\nElixir of Quickness\nLore Skill 30\n1x Glass Vial\n10x Ginseng\n10x Sumach\n5x Cohosh\n\nElixir of Strength\nLore Skill 15\n1x Glass Vial\n10x Valerian\n5x Suma\n5x Cohosh\n\nElixir of Dexterity\nLore Skill 15\n1x Glass Vial\n10x Sumach\n5x Ginseng\n5x Cohosh\n\nElixir of Endurance\nLore Skill 15\n1x Glass Vial\n10x Suma\n5x Spoonwort\n5x Maidenhair\n\nElixir of Intelligence\nLore Skill 15\n1x Glass Vial\n10x Wormwood\n5x Wild Indigo\n5x Pinang\n\nElixir of Wisdom\nLore Skill 15\n1x Glass Vial\n10x Darkmous\n5x Tansy\n5x Cohosh\n\nElixir of Beauty\nLore Skill 15\n1x Glass Vial\n10x Eyebright\n5x Spoonwort\n5x Henbane\n\nElixir of Clarity\nLore Skill 30\n1x Glass Vial\n5x Wormwood\n5x Cereus\n5x Darkmous\n5x Pinang"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of Herbology"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 20
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "BookofHerbology"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bookofherbolog"
+  }
+}

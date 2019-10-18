@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 501
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Combat Tips in Middle Earth Role Play\n\nLearn HOW to stay alive longer!\n\nCredits to  Mrwakka for providing this.\n\nSo you simply want to know if you have a chance before you enter into combat, well theres several ways really i have of telling what i face: \n\nI: How far am i from a 'safe' area? generally (and not always it should be stressed) the further you are from starter towns and low level areas, the more powerful the enemies \n\nII: Watch them a bit, do they move around alot, how fast do they move, can you out run them if they are to strong? generally if they are fast and i don't think i could out run them, i don't fight them. This also can give you a hint to their stats, if they move faster then they should they may well be perma-hasted. \n\nIII: What else is around here? if theres a bunch of level 1 creatures then again, in general but not always, its reasonable to assume that they would be of a close level, the reverse is true as well, if its several very strong spawns, this one likely is to. \n\nIV: The name can also be telling, 'Peons' for instance are obviously weaker then 'Elites', reading the creatures name can tell you alot about a character, that realistically, you wouldn't know, a Goblin ritualist for instance is likely a caster of some sort. \n\nV: What are they wearing? obviously this only works on creatures with dynamic appearances, if you look in stores you can see what the +1 - +4 items look like, and unless the NPC has special gear, you can tell if they have weapons or armor that are stock gear, and if so how good it likely is. (more common with weapons.) further by dress you can again guess at a class. \n\nIn Use: \n\nI walk into a area dominated by a goblin fortress, outside the gate seems to be a group of guards, by their names im guessing the goblin ritualist is a caster, and the peons holding crossbows are of little danger at my own level of 19, since the ritualist seems to be in a robe hes likely not a cleric, and my guess would be a wizard or sorc, since rarely do you ever see druids used as NPC enemies. Theres also an Elite gate guardian and a goblin matriarch, these two would give me pause, the matriach also looks to be in a robe, and could be a 'unique'* and though her name tells me nothing of her skills, being in a robe i would guess a caster, and since i fear casters far more then something that just tries to hit you with a wooden stick i will be cautious. \n\nAs of this point im feeling comfortable, the peons look easy, sporting what looks like regular crossbows (though crossbows are hard to tell apart) and the general area im in has spawns i can kill, if im careful, so after getting a good look and noting normal movement speed i decide to pull one and see if i can take them. \n\nPulling is a key skill, the ability to get one NPC to chase you away from the pack so that you may face it one on one, its risky with casters however, as you never know what spells they may have available to them. \n\nI wait until one walks slightly away from the group then walk closer until i get its attention, i run back, preferably around a corner if its a caster or ranged attacker, and wait. As it turns the corner i whack it until it falls limp, its head mush, based on this encounter i now have a better idea of how hard the group is as a whole, i then continue pulling until the group is destroyed, preferably leaving the matriarch for last. \n\nOnce i have all but the greatest threat dealt with i make a choice, had the elite been very hard, i likely wouldn't mess with the matriarch, as it is though he was easy prey and i feel confident enough to face the matriarch. She falls easily and i move into the fortress (likely far to cocky) and lay waste with little worry until i see something new, that sounds tougher, or see something thats named. \n\nIn general, don't be afraid to try new enemies, simply be cautious, and be smart, and always when in doubt pull a single one first, chances are you can escape one and live to tell the tale. (unless its a caster, and i would highly suggest you never pull an obvious caster if your unsure how strong something is.)\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of Combat Tips"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 96
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "LibraryBook"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bookofcombatt"
+  }
+}

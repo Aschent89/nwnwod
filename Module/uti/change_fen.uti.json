@@ -1,0 +1,299 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Use this item to shift into the wolf form you desire. Make sure you read your journal when you shift into any shape they all have there own rules to keep in the spirit of good role play.\n                       \nThe mission set before us by Great Fenris is not easy, nor should it be. We have made our lives into a conquest of any tribe too weak to stop us, and our brutal ways have made us strong. While other tribes ran and hid, we always stood ready to face the enemies of Gaia, and we have watched those enemies fall. We have challenged all of the other tribes, and we have seen the ones that are weak: the Wendigo, the Black Spiral Dancers, the Glass Walkers and Bone Gnawers. They fear us because we are strong. They accuse us of brutality because they are unprepared for the challenges we set before them, because we alone refuse to hide from combat when the time comes for bloodshed.\n\nThe other tribes claim that we are mindless killing machines, but they spend too much time scheming in dark rooms and trying to sneak past the Wyrm instead of simply tearing Jormangundr's putrid heart from his chest! The Warriors of Gaia must never be weak. Even as we long for peace we must call for war. Let the other tribes play their foolish political games, let them thrive like cockroaches in the hearts of the Scabs, growing soft because they no longer understand the need to hunt and to kill. Let them breed with weaker races and raise their young as \"civilized people\". In the end they will understand that we are right, that there can be no peace without sacrifice, that there can be no pleasure without pain.\n\nWe lead them in battle and they will follow us as they always have,, fearing the threats we know are commonplace because they have never sought the Wyrm in its own foul nest.\n\nWe will bring war to them. We will call them forth for Ragnarok and show them the ways of combat. We will watch them run and hide, fearing their worthless hides while we bathe in the blood of the Wyrm and feast on the entrails of Jormangundr's followers. Those few who are worthy will fight with us, and we will accept them as family. Those who die a coward's death shall lay unburied in the fields of battle, reviled and despised as weaklings.\n\nRagnarok is upon us, and the time for friendship is past. Those who would flee from us must be destroyed, for surely they would fall to Jormangundr's wiles. Those that would fight us must be taught the error of their ways, and those who ignore us must be made to remember that we are here, no matter the cost. Those who would be our leaders must prove themselves in honorable combat.\n\nHave no fear of death, for beyond death there is Valhalla. Valhalla, where Fenris waits for us, calling to his Get and sharpening the weapons that will help us in the final conflict. For each of us that falls, Ragnarok comes one moment closer. Do not fear Ragnarok. Instead, prepare for it. Know that Ragnarok is your destiny and the final time when Jormangundr will fall before our might.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Rage- Fenrir"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 67
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 13
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 5
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 6
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "change_fen"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "change_fen"
+  }
+}

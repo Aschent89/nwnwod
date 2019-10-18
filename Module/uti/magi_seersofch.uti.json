@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Seers of Chronos\nMany other Traditions write the Seers of Chronos off as losers with eyes full of stars and heads full of drugs. They miss, however, the method behind the Cult's apparent madness: that only by transcending every barrier -- social, theological, even temporal -- can you truly reach beyond your own inner walls. Other mages frown upon the Time Master's so-called \"vices,\" but the Seers themselves realize that sex, dance and drugs are time-honored, if risky, roads to transcendence.\nThe Cult has a rich history. From arboreal visionquests to Dionysian revels, mystics throughout history have sought to sidestep the mundane by altering their perceptions and thus their conceptions of what is and is not real. The Cult itself rose from organized bands of Ecstatics who pursued enlightenment through any means necessary. Through their experiments, they discovered ways to slip past the boundaries of Time. This feat, coupled with the eloquence of the founding members, won the Seers their Council seat. Other wizards looked askance at the tripping mysticks but no one could deny the success of their methods.\nTime is this Tradition's forte; the very existence of this Art is often credited to the early Seers, who looked -- and sometimes even jumped -- across the time stream. Although other groups have accepted such feats, no one has been able to beat the Seers for sheer mastery of the temporal. Many Seerers are adept at perception magicks also. Ecstatics are usually known for their faraway gaze. Most outsiders attribute this to excessive drug use, but wise mages recognize the effects of time sight. After all, if you always saw past, present and future as one, you'd look pretty stoned too.\nThe stereotypical Cultist bears little resemblance to his more respectable forbears; he is usually unkempt, rebellious, contemptuous of authority and perpetually stoned. In truth, the hippie weirdo is only the most obvious face of this diverse Tradition. While more conservative mages shake their heads at the \"degeneration\" of the Cult, those who understand realize that any sort of conformity or regulation runs counter to the group's whole philosophy -- to obliterate all barriers in pursuit of the higher self. The Cult is a \"Tradition\" in name only; they are united only under a common philosophy and code of ethics.\nStrange as it may seem to some, Chronos mages are generally responsible. Since so much of their code is based on the sacred passions, acts which violate one's self -- suicide, murder, rape, addiction and other forms of oppression and self-destruction -- are the worst kind of crimes. Contrary to popular belief, the Cult on the whole rarely participates in the sex industry or drug trade, the exploitations to which these \"institutions\" often sink goes against the Tradition's grain. Few Cultists will ever try to force a Sleeper to Awaken. Some folks, they know, should remain asleep.\nThe code of the Seers stresses individual freedom, tempered with a responsibility to those who do not understand. Like the Akashic Brothers and Verbena, Seers attune themselves to the energies within. Such energies are then stimulated with drugs, sexual arousal, music and other activities to bring on an altered state. Most Seers vary their chosen \"vices\" often, since any form of stimulation loses its potency with overuse. Addiction to a certain vice, or to overstimulation in general, spells doom for the foolish. Cultists walk a very thin line.\nMusic is the most powerful Seers tool. Strong rhythms and complex harmonies unlock and channel the sacred inner passions. Few Seers work their magick without some form of chant, dance, drumming, or song. The Tradition's greatest achievement was perhaps the popularization of rock music. Whether the pioneers of rock-n-roll were Awakened or mundane is open to debate, but no one can debate the influence the Seers has had on rock's diversity and forms -- or its popularity. Concerts, particularly those which stir up lots of raw emotion, are common Seers hangouts.\n\nPhilosophy: Tune in to the song within yourself. Stretch your fingers past the bars of your private cage, and lift yourself beyond the limits. Anything is possible! Life is a gift, and most poor bastards never get past the wrapping paper.\n\nStyle: The Seers's magicks comes from sidestepping limitations both within and without. As soon as you believe a given set of rules, they teach, you must break them to gain further enlightenment. This rebellious credo allows Seer mages to advance quickly and spectacularly, though Paradox picks off the careless ones. Their Arts usually involve perception (and the twisting of same) through tapping into the sacred passions.\n\nSphere: Time\n\nCommon Foci: Dance, music, sex and sensuality, drugs (usually natural, not man-made), incense, candles, art.\n\nOrganization: Nomadic and anarchistic, Seers of Chronos wander the world in search of new thrills and converts. Concerts, tribal gatherings and raves are common meeting sites. Rank is an informal matter; status is based on mutual respect. Large meetings are unusual and often serious affairs. Though pigeonholed as unreliable, an Chronos mage is perfectly reasonable about attending Chantry meetings -- as there's a reason for one.\n\nInitiation: Likely candidates are usually offered a chance at enlightenment, anything from a peyote visionquest to a prolonged hike or lodge sweat. Their reactions are watched afterward, and Awakened visionaries are asked to join. Recruits are chosen for commitment, principles, and often talent or looks.\n\nAcolytes: Groupies, entertainers. thrill-seekers, hippie-types.\n\nConcepts: Musician, dancer, Deadhead, medievalist, vagabond, modern primitive\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Magi Seers of Chronos"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 3
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "magi_seersofch"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "magi_seersofch"
+  }
+}

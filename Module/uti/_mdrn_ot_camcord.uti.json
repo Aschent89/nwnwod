@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 650
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 15
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 650
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A video camera or camcorder is generally identified as a portable device primarily designed for the capture and recording of moving images and sound. This is a small, readily portable and relatively cheap version produced for the wider consumer market.\n\nEarly models employed analog recording onto videotape. For later, more spophisticated models digital recording has become the norm, and  storage media consists of optical disks, hard disk drives and solid state flash memory. These may be removable or built in."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A video camera or camcorder is generally identified as a portable device primarily designed for the capture and recording of moving images and sound. This is a small, readily portable and relatively cheap version produced for the wider consumer market.\n\nEarly models employed analog recording onto videotape. For later, more spophisticated models digital recording has become the norm, and  storage media consists of optical disks, hard disk drives and solid state flash memory. These may be removable or built in."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Portable Video Camera"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 23
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 107
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_ot_camcord"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_ot_camcord"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 20
+        }
+      }
+    ]
+  }
+}

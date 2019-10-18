@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 501
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of Gem Cutting\n\nLore Based Skill DC25 to Cut Gems from Ore (D20 plus Lore)\n\n- Gem Cutting  will make you a substantial amount of gold if you are diligent about your business. It will also in the end help you stay alive longer. The rare gems called Guldur Stones (Ioun Stones) can be enchanted to your gear to make it better. Ioun Stones can be found naturally in Gem Ore or in the well guarded protections of someone or something's treasure.\n- To Find Gem Ore you have to Prospect for it. When you think you have found some Ore, Open the ORM and choose the Prospecting option. If you have enough Lore Skill you will indentify all Ore within 5 Meters.\n\n\nHow to gather ore:\nOnce you have identified an Ore you will have to put your back to work. There are many different types of Gem Ore for you to find.\n\nYou will need the right tool for the right job. The Gem Cutter is what you need to carefully dislodge the precious stones in the ore. Available at a general supply store. These will break every so often.\n\nEach ore has a damage requirement that continues to add with every stroke you hit it. Overcome this requirement and you will receive an ore chunk. If you have the Mining Pick (Large one) you can gain an additional chunk 50% of the time.\n\nIt would be recommendable to get yourself a Pack Animal to help carry your heavy burdens.\n\nCutting the gems from the Ore:\nOnce you have gathered ore...place ONE chunk of Gem Ore on the Gem Cutting Table.  It will take a little time to extract the gem. If you have enough Lore Skill and a d20 Roll to beat a DC of 25 you will successfully craft a gem. When successful there is a chance to find an Ioun Stone while crafting the gem.\n\nNOTE: The Gem Cutting Table will stay locked for 5 Rounds."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of Gem Cutting"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 91
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "BookofGemCutting"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bookofgemcutt"
+  }
+}

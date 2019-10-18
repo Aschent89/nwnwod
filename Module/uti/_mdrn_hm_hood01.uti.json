@@ -1,0 +1,107 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 17
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cloth1Color": {
+    "type": "byte",
+    "value": 23
+  },
+  "Cloth2Color": {
+    "type": "byte",
+    "value": 14
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Keeps the rain off, but is pretty good at keeping eyes off too."
+    }
+  },
+  "Description": {
+    "id": 16807847,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Keeps the rain off, but is pretty good at keeping eyes off too."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "Leather1Color": {
+    "type": "byte",
+    "value": 45
+  },
+  "Leather2Color": {
+    "type": "byte",
+    "value": 45
+  },
+  "LocalizedName": {
+    "id": 16807676,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Hood (Black)"
+    }
+  },
+  "Metal1Color": {
+    "type": "byte",
+    "value": 35
+  },
+  "Metal2Color": {
+    "type": "byte",
+    "value": 35
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 33
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 120
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_hm_hood01"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_hm_hood01"
+  }
+}

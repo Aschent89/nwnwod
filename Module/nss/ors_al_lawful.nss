@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems Alignment Shift
+//  ors_al_lawful
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Called from XP Giver Convo
+//
+////////////////////////////////////////////////////////////////////////////////
+
+void main()
+{
+    object oPC = GetPCSpeaker();
+    AdjustAlignment(oPC, ALIGNMENT_LAWFUL, 5);
+}

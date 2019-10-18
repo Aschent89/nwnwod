@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Appearance Changing
+//  ocr_cnv_ar_prv
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Remake Armor - Previous Mode
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+  RemakeArmor(oPC,1);
+}

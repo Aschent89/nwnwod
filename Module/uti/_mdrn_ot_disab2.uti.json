@@ -1,0 +1,148 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 3000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 207
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This collection of hand tools and small parts typically includes a variety of pliers, drivers, cutting devices, fasteners, power tools, and leads and wires.  It allows the use of Disable Device to disable traps and the use of Repair to fix electronic devices without penalty.\n\nDeluxe: This kit consists of a number of specialized diagnostic and repair tools as well as thousands of spare parts. It grants a +2 equipment bonus on Repair checks."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This collection of hand tools and small parts typically includes a variety of pliers, drivers, cutting devices, fasteners, power tools, and leads and wires.  It allows the use of Disable Device to disable traps and the use of Repair to fix electronic devices without penalty.\n\nDeluxe: This kit consists of a number of specialized diagnostic and repair tools as well as thousands of spare parts. It grants a +2 equipment bonus on Repair checks."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Electrical Toolkit (Deluxe)"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 3
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 109
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 3
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_ot_disable"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_ot_disab2"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "SkillBonus"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Skill"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 64
+        }
+      }
+    ]
+  }
+}

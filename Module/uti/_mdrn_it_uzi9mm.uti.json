@@ -1,0 +1,234 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 1050
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 8
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1200
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 9mm\n\nThe UZI submachine gun was developed in Israel bu Usiel Gal, and manufactured by IMI. UZI had been adopted by police and military of more than 90 countries, including Israel (now only in reserve), Germany, Belgium. More compact versions, Mini and Micro UZI, are adopted by many police, special operations and security units around the world, including Israeli Isayeret, US Secret Service etc. \n\nUZI had been developed on the basis of the Czech M23 and 25 submachine gun, utilising its overall design and many features, but with completely different receiver (rectangular instead of round in cross-section) and other changes. \nUZI is a recoil-operated, select fire submachine gun, firing from the open bolt. The bolt \"sleeves\" around the rear part of the barrel to decrease overall lenght of the gun. UZI (as well as Mini and Micro versions) features safety/fire selector switch on the left side of the receiver, along with automated safety on the rear side of the handle. Charging handle is located at the top of the receiver and does't move when firing. The receiver is made from the stamped steel.\nThe UZI is equipped with folding stock, made from stamped steel (early variants were also equipped with fixed wooden stock); The Mini and Micro variants featured side-folding stocks made from steel wire. All versions may be equipped with silencers.\nSome sources also reported that IMI developed a variant of Micro-UZI with charging handle located at the left side of the receiver and the picatinny-style rails on the top and on the bottom of the receiver. The rals are used to mount sights, tactical flashlights and laser aiming modules. These variants are used by Israeli special forces. \n\nThe Uzi and its variants are simply the most popular SMGs in the world, being manufactured in great numbers (probably, more that 10 millions manufactured around the world until today)."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 9mm\n\nThe UZI submachine gun was developed in Israel bu Usiel Gal, and manufactured by IMI. UZI had been adopted by police and military of more than 90 countries, including Israel (now only in reserve), Germany, Belgium. More compact versions, Mini and Micro UZI, are adopted by many police, special operations and security units around the world, including Israeli Isayeret, US Secret Service etc. \n\nUZI had been developed on the basis of the Czech M23 and 25 submachine gun, utilising its overall design and many features, but with completely different receiver (rectangular instead of round in cross-section) and other changes. \nUZI is a recoil-operated, select fire submachine gun, firing from the open bolt. The bolt \"sleeves\" around the rear part of the barrel to decrease overall lenght of the gun. UZI (as well as Mini and Micro versions) features safety/fire selector switch on the left side of the receiver, along with automated safety on the rear side of the handle. Charging handle is located at the top of the receiver and does't move when firing. The receiver is made from the stamped steel.\nThe UZI is equipped with folding stock, made from stamped steel (early variants were also equipped with fixed wooden stock); The Mini and Micro variants featured side-folding stocks made from steel wire. All versions may be equipped with silencers.\nSome sources also reported that IMI developed a variant of Micro-UZI with charging handle located at the left side of the receiver and the picatinny-style rails on the top and on the bottom of the receiver. The rals are used to mount sights, tactical flashlights and laser aiming modules. These variants are used by Israeli special forces. \n\nThe Uzi and its variants are simply the most popular SMGs in the world, being manufactured in great numbers (probably, more that 10 millions manufactured around the world until today)."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Uzi 9mm Submachine Gun"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 71
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 13
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 201
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 33
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 20
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_uzi9mm"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_uzi9mm"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "900"
+        }
+      }
+    ]
+  }
+}

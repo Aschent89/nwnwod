@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 299
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 205
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 300
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "These devices allow a character to listen to conversations over a particular phone line. This tap can be attached to a phone line at any point between a phone and the nearest junction box (usually on the street nearby). Installing it requires a Repair check (DC 15). It broadcasts all conversations on the line over a radio frequency that can be picked up by any professional walkie-talkie. Detecting a line tap by using a tap detector requires a Computer Use check (DC 25)."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "These devices allow a character to listen to conversations over a particular phone line. This tap can be attached to a phone line at any point between a phone and the nearest junction box (usually on the street nearby). Installing it requires a Repair check (DC 15). It broadcasts all conversations on the line over a radio frequency that can be picked up by any professional walkie-talkie. Detecting a line tap by using a tap detector requires a Computer Use check (DC 25)."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Telephone Line Tap"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 9
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 108
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_ttap"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_ttap"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 25
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      }
+    ]
+  }
+}

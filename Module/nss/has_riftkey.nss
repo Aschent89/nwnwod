@@ -1,0 +1,18 @@
+//::///////////////////////////////////////////////
+//:: FileName has_riftkey
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 8/11/2010 7:07:28 AM
+//:://////////////////////////////////////////////
+#include "nw_i0_tool"
+
+int StartingConditional()
+{
+
+	// Make sure the PC speaker has these items in their inventory
+	if(!HasItem(GetPCSpeaker(), "key_riftden"))
+		return FALSE;
+
+	return TRUE;
+}

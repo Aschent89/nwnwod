@@ -1,0 +1,122 @@
+{
+  "__data_type": "UTT ",
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "A trigger surrounding a container to retrieve or place a\r\npersistant container creature for the container at a given waypoint.\r\n\r\nWaypoint tag must be cc_<tag of container>\r\n\r\nTrigger and container must have the same tag.\r\n"
+  },
+  "Cursor": {
+    "type": "byte",
+    "value": 0
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "HighlightHeight": {
+    "type": "float",
+    "value": 0.0
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedToFlags": {
+    "type": "byte",
+    "value": 0
+  },
+  "LoadScreenID": {
+    "type": "word",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 14759,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Persistant Container Creature Creator"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 6
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 0
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "ScriptOnEnter": {
+    "type": "resref",
+    "value": "perst_trigcont"
+  },
+  "ScriptOnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "perst_cc_create"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "perst_cc_create"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Type": {
+    "type": "int",
+    "value": 0
+  }
+}

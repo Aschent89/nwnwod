@@ -1,0 +1,14 @@
+//::///////////////////////////////////////////////
+//:: FileName give_metis_1
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 5/15/2009 12:22:24 PM
+//:://////////////////////////////////////////////
+void main()
+{
+    // Give the speaker the items
+    CreateItemOnObject("garou_metis_1", GetPCSpeaker(), 1);
+       CreateItemOnObject("hlslang_11", GetPCSpeaker(),1);
+
+}

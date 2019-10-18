@@ -1,0 +1,108 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 17
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cloth1Color": {
+    "type": "byte",
+    "value": 129
+  },
+  "Cloth2Color": {
+    "type": "byte",
+    "value": 117
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 40673,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Headwear that offers little protection but does help fade into the background. \n"
+    }
+  },
+  "Description": {
+    "id": 40672,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Headwear that offers little protection but does help fade into the background. "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "Leather1Color": {
+    "type": "byte",
+    "value": 0
+  },
+  "Leather2Color": {
+    "type": "byte",
+    "value": 8
+  },
+  "LocalizedName": {
+    "id": 40671,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Camo Helmet /w Mask (Khaki)"
+    }
+  },
+  "Metal1Color": {
+    "type": "byte",
+    "value": 43
+  },
+  "Metal2Color": {
+    "type": "byte",
+    "value": 40
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 35
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 120
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_hm_camo03"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_hm_camo03"
+  }
+}

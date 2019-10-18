@@ -1,0 +1,299 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Use this item to shift into the wolf form you desire. Make sure you read your journal when you shift into any shape they all have there own rules to keep in the spirit of good role play.\n                     \nThe Wanders of Men see the city as just another kind of wilderness: the concrete jungle of the future. They feel that the city has a spirit and life all its own, and they seek to explore the diversity that this new wilderness provides. Maybe no other Tribe can begin to understand this except the Bone Gnawers. \nThe Wanders of Men originated in Mesopotamia, where they split with the Garou and came to live in the cities despite the proscriptions against doing so. They became enforcers and mercenaries for merchants in the Middle Ages and allied with guilds and the like. They were at the forefront of technological change during the Renaissance and later in the Industrial Revolution, learning that everything has spirits, even great steam engines and assembly lines. \nThe Wanders of Men developed Mafia ties as a result of their enforcer past, and in the '20s, Wanders of Men gangs provided muscle to many Mob actions. With the advent of computers, the Wanders of Men learned about a new kind of spirit... the Net-Spiders, the computer spirits. Befriending these spirits, they found themselves in control of spirits that could alter and gather information from computers all over the world. The Wanders of Men believe it is their duty to guide the cities and technology of the world to a path allied with Gaia. Indeed, they see Gaia as a part of the city itself. \nWanders of Men view themselves as the next stage in Garou evolution. They believe that Gaia is leading them to be the rulers of a new world where the Weaver is an ally of the Wyld, not an enemy. They believe that they can help humanity and the Garou survive the coming Apocalypse by providing them with the technology and spiritual wisdom to survive. Because of this, they are often criticized as arrogant. \nThey are almost as subtle and crafty as their rival Shadow Lord cousins. Indeed, many conflicts between the Wanders of Men and the Shadow Lords are like great chess games using the other Garou as pieces. Their irreverence for tradition has earned them many enemies among more traditional Garou. Many of them prefer their homid names to their Garou names, and may use their traditional names only in communication with other tribes or in formal ritual. Indeed Lupus Wanders of Men are much more rare than Metis, another sore point for traditionalists. \nMany Wanders of Men packs have a strong corporate hierarchy, and the Kinfolk are the bottom row on that org chart. They get a lot of the work done, and Wanders of Men respect that about as much as your average upper manager. They understand that the lower ranks need to have their morale maintained, because higher morale workers are workers that are more productive. Other packs have a distinct Mafioso feel, or can be as freeform as a group of hackers. \nThe Wanders of Men are often criticized for their traffic with Weaver spirits, as more rural Garou see it as a taint that weakens their bond to Gaia. But more disturbing is the constant presence of the Wyrm in the cities that the Wanders of Men control. Many Wanders of Men say there is too much for them to constantly combat the Wyrm, for they would be worn down and slain, and Gaia would lose her defenders. Instead, they choose their Wyrm-riddled targets for the maximum effect as compared to Garou loss.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Rage- Warders of Men "
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 67
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 13
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 5
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 6
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "change_ward"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "change_ward"
+  }
+}

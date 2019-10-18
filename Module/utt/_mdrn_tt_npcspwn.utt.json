@@ -1,0 +1,277 @@
+{
+  "__data_type": "UTT ",
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Spawn in area commoners at a waypoint with tag WP_<tag of trigger>. The waypoint needs to be in the same area and the tag of the trigger and waypoint changed to match as indicated for the script to work.\r\n\r\nVariables needing to be set on the trigger are:\r\n\r\nNum: The amount of NPCs to place.\r\nMax: The maximum number of blueprints for this type of NPC.\r\nMove: 1 for wandering animations and 0 for standing animations.\r\nNewName: Any new name you want to assign all the NPCs created.\r\nNoEmote: If set to one means NPCs do not perform animations at all.\r\nNoDupe: Set to 1 if the blueprints should not be duplicates.\r\nSit: 1 for the NPCs to try to sit 0 for standing. Note, do not use wandering animations for sitting NPCs as they will stand.\r\nUnequip: Set to the name of the slot to empty], e.g. Right for Right hand, Left for Left hand, Hands for both, Chest for torso, Head for helmet.\r\nType: The leading characters to the tag of type of NPCs to place WITHOUT the numbers at the end, e.g. Type is set to _mdrn_cr_secgd as this is the beginning the blueprints all have in common. So the resrefs of the NPC blueprints should be _mdrn_cr_secgd01, _mdrn_cr_secgd02, and _mdrn_cr_secgd03 (as here 3 is the maximum) with no gaps. If there are accidental gaps the script won't be able to place the one it calculates but should still work for others. The tag and resref of the creatures should be exactly the same or the movement setting will not work."
+  },
+  "Cursor": {
+    "type": "byte",
+    "value": 0
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "HighlightHeight": {
+    "type": "float",
+    "value": 0.0
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedToFlags": {
+    "type": "byte",
+    "value": 0
+  },
+  "LoadScreenID": {
+    "type": "word",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 14759,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Spawn Generic NPCs"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 6
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 0
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "ScriptOnEnter": {
+    "type": "resref",
+    "value": "_mdrn_ts_npcspwn"
+  },
+  "ScriptOnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_tt_npcspwn"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_tt_npcspwn"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Type": {
+    "type": "int",
+    "value": 0
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Done"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Num"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Type"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "_mdrn_cr_secgd"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Move"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Max"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 3
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Sit"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "NoDupe"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "NewName"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "NoEmote"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Unequip"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": ""
+        }
+      }
+    ]
+  }
+}

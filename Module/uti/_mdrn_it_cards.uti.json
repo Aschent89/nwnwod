@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 600
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 206
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 600
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A pack of playing cards in the traditional style, little changed since the 15th century. Four suites with the familiar notations of hearts, clubs, spades and diamonds, and thirteen cards per suite from an ace to a king.\n\nThe icons have changed to fit current design concepts, and the reverse reflects personal preference in it's pattern or theme, all printed on a thin material with  a durable finish. However they remain an effective means of personal or social entertainment."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A pack of playing cards in the traditional style, little changed since the 15th century. Four suites with the familiar notations of hearts, clubs, spades and diamonds, and thirteen cards per suite from an ace to a king.\n\nThe icons have changed to fit current design concepts, and the reverse reflects personal preference in it's pattern or theme, all printed on a thin material with  a durable finish. However they remain an effective means of personal or social entertainment."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Playing Cards"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 79
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 112
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_cards"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_cards"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 25
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      }
+    ]
+  }
+}

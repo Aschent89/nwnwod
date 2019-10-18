@@ -1,0 +1,202 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 8
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 150
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The Minimi light machine gun was developed by the famous Belgian company FN Herstal, in the late 1970s and early 1980s. Mass production began in 1982 in Belgium, and at about the same time it has been adopted by the US Armed forces as the M249 Squad Automatic Weapon (SAW). Since its introduction Minimi has seen widespread service, and numerous variations have been developed. First, the Para (Paratroop) version came out, with shorter barrel and tubular telescoped butt. This gun traded off some of the range and firepower for compactness and maneuverability. Quite recently, an SPW version was developed, which featured a Para-type buttstock, a barrel of intermediate length (between standard and Para models), and a Picatinny-type rail mount, which allows a wide variety of sights and scopes to be mounted. To save weight, the magazine feed option of the standard and para models has been discarded. This version, in a slightly modified form, was adopted by the US Special Forces Command (US SOCOM) as the Mk.46 model 0 light machine gun. \n\nThe FN Minimi has an excellent reputation on reliability and firepower, and the latest reports on failures of M249 SAW weapons in Iraq are attributed to the age of the weapons used - most of the current issue M249 in US Army are more than 10 years old and quite worn out.\n\nTechnical description.\nThe FN Minimi / M249 SAW is an air cooled, gas operated, belt fed, automatic weapon. The Minimi is operated using conventional gas action with the gas piston located below the barrel, and the barrel is locked using the traditional rotary bolt. The barrel is quick-detachable, and has a carrying handle attached to it, to help for quick replacement procedure. The M249 has an alternative feed system, which allows to use disintegrating metallic belts as a primary feed option, or M16-type box magazines as a back-up feed option. The belt is feed using the top feed unit, the magazines are inserted through the magazine port, located at the left side of the receiver and angled down. The Flip-up dust cover closes the magazine port when it is not in use, serving also as a belt guide. When magazine is in place, this cover raises up and closes the belt-way to avoid dual feeds and jams. Since the belt feed uses additional power to pull the belt through the gun, the rate of fire with the belt is somewhat slower (~ 750 rpm) than the rate of fire with magazine feed (~ 1000 rpm). The latest SPW and Mk.46 mod.0 versions of the Minimi have no magazine feed module as a weight-saving measure. The belts are fed from special 200 rounds plastic boxes that can be clipped beneath the receiver. All Minimi versions fire from open bolt to ensure optimal barrel cooling between bursts.\n\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 170,
+    "type": "cexolocstring",
+    "value": {
+      "0": "ZLEGACY M 249 SAW"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 101
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 114
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 32
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 30
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 3
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "NW_WBWLN001"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_smarms020"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "556"
+        }
+      }
+    ]
+  }
+}

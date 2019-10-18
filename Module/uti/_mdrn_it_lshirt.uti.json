@@ -1,0 +1,150 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 155
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 21
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 300
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 67773,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Designed for deep undercover work in which it's critical that the wearer not appear to be armed or armored, this garment consists of a T-shirt with a band of light protective material sewn in around the lower torso.\n\nNote - This item requires Light Armour feat to receive the full benefit. Non-profficiency reduces the AC bonus to 1."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Designed for deep undercover work in which it's critical that the wearer not appear to be armed or armored, this garment consists of a T-shirt with a band of light protective material sewn in around the lower torso.\n\nNote - This item requires Light Armour feat to receive the full benefit. Non-profficiency reduces the AC bonus to 1."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 67772,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Light Undercover Shirt"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 62
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 118
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 1
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_lshirt"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_lshirt"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "ARMOR"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 20
+        }
+      }
+    ]
+  }
+}

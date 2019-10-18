@@ -1,0 +1,142 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 189850
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Forces: This Sphere provides its students command over the fundamental forces of the universe.  Electromagnetism, fire, gravity, kinetic energy and nuclear power are all within its purview.\n\nSpecialty: Order of Hermes\n\n1 - Perceive Forces\n\n2 - Control Minor Forces\n\n3 - Transmute Minor Forces\n\n4 - Control Major Forces\n\n5 - Transmute Major Forces\n\n \n\nForces is the study of rapidly changing Patterns - energies that are in constant, complex motion.\n\n \n\nForces is a very powerful Sphere, but also somewhat limited.  It encompasses the most common effects of mystic wizards - throwing fireballs, conjuring lightning, lifting things with the power of your mind.  Yet, their flashy nature makes these Rotes prone to Paradox, and more importantly, there are many problems that can't be solved just by throwing sunfire at them.\n\n \n\nForces cannot create forces from nothing - to do so requires the Prime Sphere, and Quintessence.  (However, there is usually enough energy around the Mage to fuel all but the largest effects without needing to create more from nothingness.)  Forces cannot make minute or precise changes without the aid of Mind to coordinate the effects (such as telekinetically building a clock).  Range is limited without Correspondence, and a Mage cannot affect the forces in an object or living being without Matter or Life.\n\n \n\nApprentice Forces: Perceive Forces\n\nDeveloping senses he never knew existed, the Mage can now tune himself in to forces - seeing electricity, hearing magnetism, tasting radioactivity.  With properly focused Rotes, the Mage can learn to see in spectrums other than visual light, able to see in the dark.  A Mage can watch where forces come from and where they go, although he cannot yet interact with them.  However, this Sphere alone does not allow the Mage to intercept and understand the forces he sees - electricity is still moving at the speed of light, radio at the speed of sound.  Sorry, but you won't be watching TV in your head just yet.\n\n \n\nInitiate Forces: Control Minor Forces\n\nThe Mage can now control the forces around him, although in a clumsy fashion.  Precision is out of the question, but a Mage can still make an effective shield against bullets - or radioactivity, light, or heat.  He can lengthen shadows or bend light by playing with that realm of forces, or cause radiation to turn harmlessly away.  At this level, the Mage can only affect one type of force at a time, and only on a personal level - any forces bigger than the Mage are uncontrollable.  The Mage cannot yet make forces from nothingness.\n\n \n\nDisciple Forces: Transmute Minor Forces\n\nFinally able to grasp and twist the Patterns of forces, a skilled Mage can convert forces to other types, shift their intensity, or create and banish them at will.  He can give motion to an object, make a fire burn cold or cause shadows to explode into burst of light.  Mages at this level can fly, hurl lightning, and perform other dramatic feats.  With other Spheres, the Mage might even mold the forces into an object or creature.  However, the scale is still limited to the minor, personal level.  A Mage of this level can set a person ablaze, but could not do the same to an entire building at once.  At this point, a Mage could create illusions of light - but would need Matter or Life to arrange an illusion of those Patterns, and Mind to orchestrate anything complex.\n\n \n\nAdept Forces: Control Major Forces\n\nThe Mage has overcome his own boundaries, and can now affect force on a much greater scale.  Anything that was possible with Control Minor Forces is now possible on a large scale - shielding a bus or turning a building invisible.  But the same limitations apply - he cannot make Major Forces from nothing, and cannot change one type of force to another.  His work with Major Forces is still very imprecise.\n\n \n\nMaster Forces: Transmute Major Forces\n\nThe Master of Forces now has nearly unlimited power.  He can change one form of force to another - on any scale - and create massive forces from nothingness (with Quintessence).  He can create storms of fire, massive bursts of electricity, shadows that blot out city blocks, or turning night to day.  Or he could perform effects with finesse and precision, carving mountains into his likeness with a thought.  These effects are incredibly Paradoxical, but incredibly deadly.  When a Master of Forces combines the Sphere with others, the carnage is nearly unlimited - but the Paradox grows even worse.\n\n \n\nForces\n\nSpecialties: Motion, Primal Elements (Fire, Lightning, Radiance, Cold, etc.), Physics, Technology, Weather\n\nIn the physical universe, science postulates the existence of two disparate states: matter and energy. Hermetic theory purports different levels of energetic states, from fire to frost. Primal religions cast natural and elemental forces into powerful, sometimes divine, roles. Through Forces, the universe manifests impersonal energies. Those energies follow rules, though, and the mage with command of Forces can command the elements, be it through quantum mechanics, electronic devices, mystical dances or chants to the patrons of primal archetypes.\n\nNatural forces manifest through energetic Patterns, constructs of Quintessence in motion. Every force has its own unique properties, but they all share the common root of Prime swirling through a Pattern. By manipulating that Pattern, the mage can turn forces into other forces, negate various forces, increase or decrease their power or even create and banish energy from nothingness. Every magical style has a different means of addressing these forces. Science considers certain forces to be the absence of others, while mystical Traditions usually consider negative and positive forces - heat and cold, light and dark, motion and stillness - to be opposite but independent entities. Regardless, the understanding of Forces lets the mage manipulate all of them equally.\n\nFor the mage who indulges in flashy displays and destructive power, Forces presents mastery of the most vibrant magical power. Thunder waits in the hand of the mage of Forces, and flame dances at his command. Naturally, such pyrotechnic displays are often vulgar, but the world is surrounded by forces constantly, and the mage can manipulate them as easily as he can create his own. Apprentices and Disciples can see attacks coming with Forces and defend themselves against all manner of strikes, while Masters can summon up legendary storms, hails of fire and walls of darkness. The unleashed power of agitated Quintessence lets Force Patterns unleash themselves in forms more blatantly destructive than any other Sphere. By itself, study of Forces is not a particularly broad area of influence - Combined with the other Elemental Spheres, Forces allow the mage to master the entirety of the material world. With the ephemeral Spheres, the mage can influence the very concepts of Forces, their release and transmission and their spiritual energies. This Sphere is not subtle, and its effects can be both long-ranging and devastating.\n\nMages who study Forces tend to carry with them an aura of sheer energetic power: a barely felt wave of heat, an electrical flash to the eyes, the clinging of passing shadows. Like Forces Effects themselves, such manifestations are often more noticeable than the results of other Spheres. The precise sort of manifestation often depends upon the wizard's specialty. A magician who toys with kinetic motion may almost look like he hovers off the ground whilst a mage of darkness is constantly enshrouded in shade. Since they are both noticeable and Paradox-prone, other mages respect and fear such wizards. Forces are blatant and destructive, but most mages are not known for using Forces subtly or to many and varied Effects.\n\no Perceive Forces \n\nA mage must first understand what he wishes to control, and the apprentice of Forces learns to sense different Force Patterns, read their intensity and learn of the distinctions between different variants of Forces. The mage can sense positive and negative Forces, watch them interact, see where they emanate and where they go. He can determine the intensity of a light source as easily as he can determine the presence of radiowaves or radiation.\n\nCombined with other Elemental (Pattern) Spheres, Forces senses let the mage see how other Patterns interact with or create Forces. With ephemeral Spheres, the mage can see the Quintessence that flows to form forces, examine the spiritual archetypes of Forces, determine the origin of various forces and figure out where they're going.\n\no o Control Minor Forces\n\nEnergy can always be diverted, and the Disciple who understands Forces can influence its direction and intensity. The mage can affect various Patterns easily, altering their direction, changing their qualities and controlling their dispersio n. The mage cannot yet create forces from nothingness or change forces into different states, but he can manipulate how the forces interact with the rest of the world.\n\nBy diverting a force, the mage can cause kinetic energy to change direction, thus changing an object's course. He can make fires dance according to specific images and spread to (or avoid) certain areas. He can lengthen shadows or bend light so that images reach different destinations. He can even reroute the passage of electricity or cause radiation to avoid him. The mage can thus render himself or someone else invisible, cause sound to manifest somewhere other than its origin, and otherwise protect an area from interaction with forces.\n\nA mage can affect only individual Patterns offered at this level, and only on a scale that he can encompass himself. Thus, the mage could render a single individual invisible, but he couldn't cause an entire building to vanish. He could make a flame flicker with a particular image, but he couldn't control the course of a forest fire. Simply directing a force away is much easier than actually taking total control of the force and directing it with precision, but as long as the mage can reasonably influence the minor force, he can take total control of its direction and focus with enough effort. \n\nCombining control of minor forces with other Pattern Spheres, the mage can give a certain item properties that repel or attract forces, make an object or pathway more susceptible to forces or shield part of an individual from interaction with a specific force. With the ephemeral Spheres, the mage can freeze a force in place while allowing it to continue to expend its energy, cause a force to affect a location far distant from its actual position or redirect spiritual energies.\n\n\no o o Transmute Minor Forces\nFinally able to grasp and twist the Patterns of forces, a skilled mage can convert forces into other types, shift their intensity radically or even create force from nothing (and banish it to oblivion as well). Although he is still able to affect only individual small Patterns of force, the mage can cause the elements to dance at his whim. He can impart motion into an object, make a fire that burns cold or cause shadows to explode into bursts of light. Mages can use this power to fly, hurl lightning, pulse out electronics and perform similarly dramatic feats. The mage cannot create force from nothing without the use of Quintessence, but he can turn minor forces to his own advantage.\n\nIn conjunction with Pattern magic, the mage can convert a force into an object or even a creature, or disperse a material into raw energy. He can easily weave telekinetic controls around a creature or object, and he can cause his attacks to pass through objects or creatures harmlessly on their way to the target. Similarly, with the ephemeral Spheres he can transmute a pure idea into a construct of force, lay waste to a distant location or set up a special attack that waits until an appropriate time or event comes to pass.\n\no o o o Control Major Forces\nThe Adept of Forces can spread his knowledge to encompass entire groups of force and Patterns that exceed his own scale. With enough effort, he can redirect massive energies, bring disaster crashing down across a great area or shield entire groups of people from outside elements. Anything that is possible with control over minor forces is possible on a large scale now, with the mage able to focus great energy into a single point or disperse massive powers across a wide area. The Adept still cannot transm ute large scale forces except a little bit at a time, but he can at least divert major forces to gain time necessary to affect them later. Such massive Effects are usually vulgar, but sometimes there's no choice and you just have to rely on the big guns. In combination with the other Spheres, Adept understanding of Forces lets the mage do many of the things that he could do with lesser forces on a much broader scale. He can insulate a whole building or area of forest from fire and electricity, divert light into a series of rooms, banish all sound from a huge cavern or render a Chantry invisible to normal sight. He can defend against the storms of power that sweep through the spirit world and redirect massive forces to other places and times.\n\no o o o o Trans mute Major Forces\nThe Master of Forces is not to be trifled with. Through exertion and will, he can create power on an incredible scale, creating Effects that include storms of fire, massive charges of electricity, shadows that blot out entire city blocks and typhoons even in the midst of a calm day. The mage can disperse such forces as well, dousing a forest fire or bathing an entire area in light at night by transmuting darkness to illumination, Although conjuring or banishing forces from nothingness still requires Quintessence, the mage can easily turn any existing force to his own ends with his knowledge of forces alone. Incredibly Paradoxical, such Master strokes can unleash force on a tremendous scale, capable of laying waste to entire cities. Mystical sorcerers command the hand of nature, ride the winds and rip light and darkness alike from the moment of inspiration.\n\nTechnocrats bring forces to heel with containment fields, magnetic bottles and the power of the atom.\nWhen a Master of forces combines his power with other Effects, the carnage is unlimited. A Master can create an Effect in a distant place or one that hangs and explodes outward at a later time. He can create the forces from nothingness with Prime energy and set up strokes that befall only specific victims or unfortunates. These mages are the terror of their enemies, for their mighty forces can destroy whole cabals. Few Masters of Forces survive to an old age.\n\nForces Effects\n\no Darksight - In the absence of visible light, the mage can shift his perceptions up or down the spectrum of electromagnetic radiation. This allows him to view infrared or ultraviolet light, radio waves, X-rays, etc. He won't be able to discern colors, but he may read other interesting perceptions from the various spectra - X-rays would allow him to see an object's underlying structure, and he could see in the dark using infrared.\n\nVirtual Adepts and Sons of Ether tend to use special visual lenses, filter programs or goggles for this Effect, and they look through scientific spectra. Mystical magicians use this power to see by heat or sound, often mimicking natural creatures that can do the same.\n\no Quantify Energy - By invoking this Effect, a mage can sense the type and amount of energy at work around her. She can easily translate her perceptions into accurate measurement units such as volts, amps and teslas. Note that this quantification includes kinetic energy, which allows a mage to determine an object's speed in relation to her if she knows the object's mass.\nJust because a mage can sense and quantify energy doesn't necessarily let her make sense of it. A mage could note the presence of radio waves, but he might not be able to translate and hear them immediately.\n\no o Electrical Chaos - Virtual Adepts in need of a quick diversion often sabotage Technocratic equipment with a sudden electrical pulse.\n\nAkashic Brothers and Hermetic mages sometimes concentrate electricity around themselves or their weapons and use it to shock the enemy. Either way, the mage simply diverts the flow of electricity, causing it to concentrate in one area or discharge in another. Such an Effect is a damaging attack, striking against a .living opponent or a device susceptible to electrical damage.\n\no o Energy Shield - By bulwarking against certain forces, it's possible to not only defend against many attacks, but also to create a variety of interesting exceptions to \"natural law.\" Bending away light makes a mage invisible, but it also means that she can't see. She must rely on other senses or use Correspondence to sense other locations. Pushing away sound renders the mage completely silent; the mage could also concentrate sound into an area, drawing in sound from around her and keeping it from being heard elsewhere. It's a simple matter to protect against electrical or fire attacks, too. Altering the direction of incoming kinetic energy allows the mage to stop or deflect bullets. By deflecting gravity, the mage can make himself essentially weightless, able to float or levitate, even controlling direction by allowing forces from certain directions to interact with her. Such a shield could also be helpful in repelling radiation or other esoteric sorts of rays.\n\nNote that most mages only maintain a shield against one or two types offerees at a time. It's nearly impossible to make a shield that hedges out all incoming forces.\n\no o o Friction Curse - Turning a subject's motion into heat energy, the mage not only renders the subject unable to move, but causes the victim to heat up until he bursts into flame! This Effect essentially turns the subject's movement into damage, so faster objects are more susceptible. A modified version can cause the subject's own breathing action to create cold, freezing the subject in place and encasing him in a block of ice. Partial successes negate some motion and impart some heat; multiple successes can transform motion into damage. Better still, since the target can't move, he is hard-pressed to dodge the ensuing eruption of fire or cold.\n\no o o Telekinesis - At low levels of skill, a mage can perform rudimentary telekinesis by altering the directions of motive forces on an object. With the ability to transmute forces, though, the mage can easily turn body heat, a shout, even ambient light into a push that controls or moves an object. (With Prime magic the mage could create telekinetic force from nothing.) It's easier to manipulate smaller objects, of course, and fine control is quite difficult. The mage must also have a constant source of force. If no outside force influences the subject, there's nothing to transform into kinetic control. On the other hand, since people generate all manner of forces, it's usually a simple matter to hinder an enemy's movements.\n\nSome mages focus telekinesis by using dolls or representations of the subject, while others just use transformative runes or phrases to direct the motion. In many cases, mages find it easier to telekinetically manipulate the subject if they can act out the motion, but that action isn't always necessary.\n \no o o o Embracing the Earth Mother - The Earth Mother sleeps only fitfully, and the Dreamspeakers can cause Her to stir in Her slumber with their drums and calls. The weight of Gaia's attention draws around the target, focusing gravity about him. Virtual Adepts and Sons of Ether perform similar feats technologically, by concentrating and redirecting gravitons. Euthanatos sometimes freeze their targets in place with the \"weight of terror.\"\n\nSuccesses scored on such a result focus the force of gravity around the target, making the victim seem to weigh more. A good guideline is that each success beyond the initial casting requirements increases gravity around the subject by one g (Earth gravity), so with four extra successes a subject would feel five g's (normal gravity plus four). Thus, a 75 kilo man would feel as if he were a whopping 375 kilograms! (That's about a 165 pound man to an 825 pound man, for all you English weight system users.) The character can probably stand in g forces up to his strength rating. Beyond that, he's reduced to hugging the ground, and if the forces exceed twice his Strength rating, he starts taking damage from his own body weight - excess levels of gravity score damage on the damage chart normally.\nHermetic mages are known to concentrate surrounding forces like fires and electricity into their opponents as well, diverting massive power to strike their enemies.\n\no o o o Storm Watch - By redirecting wind forces and heat patterns, the mage can bring rapid change to the weather. Verbena and Dreamspeakers in particular perform such rituals with dances, sympathetic magic or paeans. The mage can banish wind, bring up or disperse clouds and cause the surroundings to become hotter or colder. With two successes, die mage could perhaps stir up a light breeze or cool off a hot day, while with 10 successes, the mage could generate a heat wave or bring in rapidly moving clouds over a small area.\n\no o o o o Inferno - By sucking all the light and sound out of an area and transforming it into heat, the mage can cause a small area (like a person or building) to suddenly burst into all-consuming flames. If the mage spends several turns gathering the Effect, the subject may notice an odd darkening and silence, almost as if doom itself hovers over him. Once released, the Effect raises the subject's temperature rapidly, causing it to explode or melt. Naturally, this Effect is vulgar as all hell, but it still scores damage normally. Plus, it's aggravated to boot.\n\no o o o o Tempest in a Teapot - The stormwives of the Verbena use this magic to harness the pull of the moon and the flow of the tides and brew a tempest, using a small copper kettle inscribed with runes and a length of cord as their foci. Multiple witches may act in concert, dancing around a larger cauldron. The Verbena of England claim that the storm that wrecked the Spanish Armada was their doing. Existing storms may be called and controlled with Forces 4, but with this level, the witch weaves the tempest out of the energy of the moon herself.\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Mage Sphere Forces 5"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 46
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 181
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 8
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 530
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "mage_forc_5"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "mage_forc_5"
+  }
+}

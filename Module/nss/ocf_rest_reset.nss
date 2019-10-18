@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Camping and Resting
+//  ocf_rest_reset
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Used in Rest Menu Conversation
+//
+////////////////////////////////////////////////////////////////////////////////
+
+void main()
+{
+    object oPC = GetPCSpeaker();
+
+    SetLocalInt(oPC,"REST_MENU",0);
+    SetLocalInt(oPC, "REST_ALLOWED", FALSE);
+}

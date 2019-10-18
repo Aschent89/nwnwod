@@ -1,0 +1,234 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 590
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 11
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 650
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: .22\n\nThe Beretta 92 pistols were developed by the italian company Armi Pietro Beretta Spa. Original pistol, Beretta 92, entered production in 1976 and was based on early Beretta pistol, model 1951. Model 92 was adopted by Italian army and also manufactured under licence in Egypt. Later, the model 92 became the subject for many modifications that are listed below. \n\nBeretta 92S - Model 92 with modified safety: frame mounted safety was replaced by slide mounted hammer drop safety/decocker lever. In all other aspects the model 92S is similar to early model 92. Model 92S has been used by Italian Army and police, as well as by other forces. No longer in production.\n\nBeretta 92F - also known as model 92SB-F. Developed in 1983, this model is a further modification of the model 92SB, that featured slightly re-shaped grip, plastic grip panels and new, more durable finish. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: .22\n\nThe Beretta 92 pistols were developed by the italian company Armi Pietro Beretta Spa. Original pistol, Beretta 92, entered production in 1976 and was based on early Beretta pistol, model 1951. Model 92 was adopted by Italian army and also manufactured under licence in Egypt. Later, the model 92 became the subject for many modifications that are listed below. \n\nBeretta 92S - Model 92 with modified safety: frame mounted safety was replaced by slide mounted hammer drop safety/decocker lever. In all other aspects the model 92S is similar to early model 92. Model 92S has been used by Italian Army and police, as well as by other forces. No longer in production.\n\nBeretta 92F - also known as model 92SB-F. Developed in 1983, this model is a further modification of the model 92SB, that featured slightly re-shaped grip, plastic grip panels and new, more durable finish. "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 171,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Beretta 92FS .22"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 53
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 202
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 31
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 15
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "d20_smarms001"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_smarms001"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "220"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Dual"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "_mdrn_it_92dual"
+        }
+      }
+    ]
+  }
+}

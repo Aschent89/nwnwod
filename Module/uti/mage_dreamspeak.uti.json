@@ -1,0 +1,115 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 79
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1001
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*This small statue has the following some how carved into it.*\n\nDreamspeakers\n\n\"I walk where the Dream is real.\nI dance to the heartbeat of the World.\nI am one with nature -- the wolf, the bear, the owl.\nYour world is blind, your spirit dying.\nCome with me to the heart of nature.\nShare our dreams, and you shall live.\"\n\n\nBorn before time, this primordial Tradition now stands for the dispossessed, for those whose cultures have been overthrown like the land itself. These shamans, joined in a marriage of convenience, find a common cause in the fate of the spirit landscape -- a fate their own people understand. Some Traditions battle the Technocracy out of idealism. For the Dreamspeakers, the fight is personal.\nWhen the convocation was called, searchers went out to the farthest lands. There they found people who had achieved balance with the spirits of nature. Though few of these believed in the Technocratic threat, some had experienced visions that convinced them to join the strangers' cause. Because of these visions, those who came back to Horizon were christened \"Those-Who-Speak-With-Dreams.\" Then the troubles began. No one knew their languages or their cultures. At a loss, the Council appointed the newcomers a few leaders and left them to figure things out themselves. By the time these leaders had overcome tribal rivalries, language barriers and xenophobia, the rest of the council treated them all as one group, renamed the Dreamspeakers.\nThis Tradition's people have had a rough time. Their lands were seized and stripped during the Age of Exploration. When European mages pontificated about \"progress,\" many Dreamspeakers went back home or grew bitter with their counterparts. Even today, a bitter undercurrent exists between the native Dreamspeakers and the people whose ancestors stole their lands. Despite this, the Tradition's fortunes have recently risen. As industry gobbles up nature, even Sleepers return to the old ways. As the most primal Tradition, the Dreamspeakers have attracted many followers. The Earth, however, is ailing, and the shamans know Her pain all too well. Beyond the Gauntlet, they can see the spiritual scars that \"progress\" sets in motion. Many of these shamans are angry, and that fury guides their Art.\nEven less militant members defend their lands. To this Tradition, all things are sacred and alive. They see the spirits, and they know. Dreamspeakers retain their ancestral ways and often live among their native people -- Africans, native Americans, Aborigines and more \"backward\" Europeans and Asians who remember the times before cities and lords. Because of their rustic nature and clannish habits, most outsiders dismiss them as throwbacks. This Tradition's loose structure and leadership doesn't help to dismiss these impressions.\nOf all Traditions, the Dreamspeakers are perhaps the most diverse; this is both a strength and a liability. Because they have no internal politics to worry about and no leaders to strike at, the Dreamspeakers are a resilient bunch. The same disunity that led to their land's conquest makes it hard to work lasting changes. Some Dreamspeakers are kindly visionaries, but some never leave the warpath. All share a common bond with the Earth and Her spirit children, an Art that relies more on visions and prayers than on skill and power, and a dream of rebirth when their people will grow strong again.\nPhilosophy: This wasteland you call the \"real world\" is merely a phantasm, a transient whisper of the spirits. We know the Earth for what she is -- a mother whose children have grown too proud. Someone must take care of Her, and that's our task. We seek the pathways beyond what you call dreams, for our people's wisdom predates your wonder-machines and will survive after they are gone.\n\nStyle: Dreamspeakers believe their Art comes entirely from the Dreamers, or spirits; thus, their foci call such spirits and ready the mind to speak with them. Their Arts are stronger in lands where the Technomancers' paradigm has not yet taken root; the jungles of South America and Africa, the wilds of Siberia, Inner Asia and Australia. In the modern world, where the Gauntlet stands firm, their magick weakens.\n\nSphere: Spirit\n\nCommon Foci: Bones, feathers, dances, music and song, ordeals, prayers, images, natural things.\n\nOrganization: Very loose; many Dreamspeakers are nomadic and solitary. others claim certain areas as their protectorates and ally with shapeshifters to defend them. Rank, such as it is, is based on respect and occasional votes, not on titles or power. Sometimes, tribal rivalries begin again, and other Dreamspeakers must step in and stop the fighting. In midsummer and in bad times, this Tradition calls gatherings to exchange news and insights, settle disputes, and celebrate. \n\nInitiation: Initiation is in many ways the pinnacle of the Dreamspeaker path. Spirits choose most shamans -- those who seek such destiny rarely find it. Dreamspeakers on the cusp of Awakening often seem unstable; they see glimpses of the Umbra and visions of hidden truth. Initiation is often personal; one goes or is taken on a visionquest where he undergoes hardships both real and spiritual. Many times, he dies and is reborn. Sometimes other shamans observe the newcomer, but the visionquest is often suffered alone. When it ends, the Avatar often takes the form of some patron spirit, often an animal with some significance to the mage, and guides him to others of his kind. \n\nAcolytes: Garou, environmentalists, neo-shaman, native activists.\n\nConcepts: Shaman, hermit, ecologist, visionary, warrior.\n\n\n\n\n\n"
+    }
+  },
+  "Description": {
+    "id": 12973,
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 12972,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Mage: Focus- Dreamspeakers"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 181
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "mage_dreamspeak"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "mage_dreamspeak"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Euthanatos\n\"Why do you hold on so tightly to yourself?\nIt is only a shell, and shells crack.\nYour spirit is the true immortal.\"\nFrom the moment of our births, we die. Slowly, painfully, joyfully, we rejoin the great unmaking which breaks us down, obliterates our individuality, and sends us back, perhaps, for another trip. The concept terrifies most Westerners. This dread explains some of the Euthanatos' bad reputation.\nAlthough the Euthanatos do not glory in death, the \"brief death\" of their initiation has left its mark on them. Most outsiders lay charges of murder, torture, genocide, necromancy, vampirism and other horrors at this Tradition's door. There are many misconceptions, and some truths, behind these rumors.\nAn amalgam of Greek, Hindu and heretical Arab beliefs, this Tradition has had problems since its beginning. Three hundred years before Christ's birth, Euthanatos forerunners, the Handura, Bhowana and Dacoits, battled Akashic missionaries over differences of doctrine. Although both groups believed in reincarnation and the Avatar's upward progression, the \"death mages\" sought human progress through reincarnation, weeding out corruption wherever they found it. To the Akashics, these sects impeded the cycle of Drahma. To the thanatoic sects, their practice, the \"good death,\" was merely pragmatic, given India's living conditions even then. The Euthanatos claimed they saw misery and stagnation and took care of it the most direct way possible. In the modern world, they still pursue that legacy with grim determination.\nContrary to belief, few Euthanatos go about their task coldly. Outsiders mistake their tight emotional control, so necessary for such a task, for bloodlust. This is rarely true; they simply bear the burden destiny has given them. Though most Euthanatos display a great interest in the moments surrounding death, this fascination is not as morbid as it seems. To them, death is only a step in the journey, not an ending.\nNeither are the Euthanatos careless. Most employ their magick to research the causes of decay, pinpoint the sources and hunt them down. Most will make some attempt to reform their targets before the Good Death, a killing designed to send the victim back into the karmic cycle, is applied. Some offenders recant and change their ways; the foolhardy join the great unmaking.\nSadly, the times appear to have surpassed them. The miseries of the modern world are beyond any Tradition's ability to prevent. Some extreme sects have urged a global purging to bring on a new beginning. This suggestion has not met with much approval, for obvious reasons. Despite the seeming kinship between the Good Death's objective and the Nephandic ideal, no Tradition battles the fallen ones with more fervor, as the end of everything leaves nothing for rebirth. Euthanatos are, in their own way, optimists; they believe in an eventual dawn to the current night.\nThrough their connection with the Great Cycle, the Euthanatos understand the ups and downs of probability better than any other group. They study the effects of death and rebirth through dark seeking and short trips into the Shadowlands. games of chance and even physical ordeals are common teaching tools. Understanding the Cycle gives them power over reality.\nEuthanatos are a pragmatic lot; they study weapons, poisons, dark magicks and vampirism as closely as they can. Though most pity the restless dead for remaining trapped within their identities, few hesitate to use a ghost for their own ends. Yet they are know throughout the Council for their fairness and compassion for those that deserve it. Many work as doctors or healers, assisting those they can save and helping on those whom they cannot. For them, Kali, the Dark Mother, is a perfect symbol. She gives life, and she takes it away.\n\nPhilosophy: Things fall apart. Night descends over day. Everyone dies, even us. The Wheel weeps for no one. But morning always comes. That's part of the deal. It all comes around again. How can you doubt that this is natural? Death is only a brie sleep. We're just trying to wake the Sleepers up before it's too late.\n\nStyle: Euthanatos magick flows from their attunement to the Great Cycle, or Wheel, which they often personify as any number of birth/death deities (Kali, Persephone and Baron Samedi being the most common). Some draw upon this cycle by entering a mild trance or focusing their will through cards, dice, or lots. A few modern Euthanatos use the trappings of mortality -- bones, skulls, graveyard dirt, etc. -- while others work through purified weapons.\n\nSphere: Entropy\n\nCommon Foci: Dancing, dice, cards, weapons, bones, incense, song, candles, meditation.\n\nOrganization: Fairly loose and democratic; most Marabouts (Chantries) maintain autonomy and decide all policy from within. Meetings are held on the first day of every month. An enforcer group, the Freedom Razor, is said to police the Tradition for Nepandic taint and supposedly answers to the mysterious Consanguinity of Eternal Joy. Another faction, the White Band, administers to the needs of those Sleepers that can be saved.\n\nInitiation: All new members must undergo the agama (\"short death\"), a near-death experience which takes them into the Underworld for a long moment to savor mortality and the wisdom of the great unmaking. From there, initiates either decide to stay or come back to join the Tradition.\n\nAcolytes: Occultists, right-to-die activists, doctors, nurses, detectives.\n\nConcepts: Assassin, vigilante, health care worker, wandering priest(ess).\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Magi Euthanatos"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 3
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "magi_euthanatos"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "magi_euthanatos"
+  }
+}

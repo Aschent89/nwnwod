@@ -1,0 +1,19 @@
+//::///////////////////////////////////////////////
+//:: FileName pc_is_level6
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 11/20/2011 12:12:16 PM
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+	// Restrict based on the player's class
+	int iPassed = 0;
+	if(GetHitDice(GetPCSpeaker()) >= 6)
+		iPassed = 1;
+	if(iPassed == 0)
+		return FALSE;
+
+	return TRUE;
+}

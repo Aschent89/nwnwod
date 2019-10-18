@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Appearance Changing
+//  ocr_cnv_wp_prv
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Remake Weapon - Previous Mode
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+  RemakeWeapon(oPC,1);
+}

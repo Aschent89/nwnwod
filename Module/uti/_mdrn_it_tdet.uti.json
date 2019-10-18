@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 49
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 205
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Plug this into a telephone line between the phone and the outlet, and it helps detect if the line is tapped. To detect a tap, make a Computer Use check (the DC varies according to the type of telephone tap used). With a success, the tap detector indicates that a tap is present. It does not indicate the type or location of the tap however. Also, it can't be used to detect a lineman's buttset."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Plug this into a telephone line between the phone and the outlet, and it helps detect if the line is tapped. To detect a tap, make a Computer Use check (the DC varies according to the type of telephone tap used). With a success, the tap detector indicates that a tap is present. It does not indicate the type or location of the tap however. Also, it can't be used to detect a lineman's buttset."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Tap Detector"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 10
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 108
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_tdet"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_tdet"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 20
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      }
+    ]
+  }
+}

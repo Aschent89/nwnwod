@@ -1,0 +1,299 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Use this item to shift into the wolf form you desire. Make sure you read your journal when you shift into any shape they all have there own rules to keep in the spirit of good role play.\n                       \nThe Fianna claim to be the second Tribe, after the Silver Fangs. It is said that the first Fianna was the first Garou to sing, the first to howl her joy into the air, the first to give in to her passions and breathe beauty into the world. While other Tribes may dispute this claim, they rarely do so to the face of a Fianna. \n\nThe Fianna are a moody lot. While other Tribes have an overall mood, the Fianna seem to embrace all moods. The Get of Fenris rage against their place in the world, and the Bone Gnawers brood over their lot in life, but the Fianna throw themselves into both extremes, often within seconds of each other. Fianna love deeply, and hold grudges beyond their deaths, and suck more marrow out of life than most people can even imagine. \n\nWhile most Fianna come from Ireland or Scotland, others do come from other Celtic groups in Europe. Romania, Spain, anywhere that the Celts roamed is home to the Fianna. But most Fianna look to Ireland as their spiritual homeland. \n\nThe Fianna once shared Ireland with the White Howlers, until that tribe was destroyed by the Wyrm. The White Howlers followed the Wyrm into the bowels of the Earth, fighting it into its lair. No one knows exactly what happened to them down there, but those that came back were foul travesties of Garou. They had become the Black Spiral Dancers, monstrosities serving the Wyrm. These days, Fianna will proudly trace part of their lineages to White Howler families. They will drink a beer and weep bitter tears at their cousins' fates. And they will put aside decade old grudges to join each other in hunting down a Black Spiral Dancer and erasing its hateful visage from the Earth.  Other creatures of the Wyrm suffer the same doom - the Fianna will take the battle to the Wyrm more vigorously than any other tribe. \n\nThe Fianna have a deep connection to the Fey. In the past, Faerie and Fianna intermarried, and many a Fianna can claim direct descent from the Tuatha de Danaan. But these days, the connection is more spiritual than lineal. Few Garou can honestly claim to have met a Faerie, and fewer still have spoken with one. But the Fianna keep their memory alive, out of a sense of respect and obligation, and in the hopes that some day the Fey will return to Earth. \n\nAmong the Garou, the Fianna have the closest ties to their Kinfolk. While most Tribes try to hide their Garou heritage from their relatives, the Fianna are fairly open about it with theirs. This provides the Fianna with a secure foundation from which to battle the Wyrm. Kinfolk ensure that their feckless Garou cousins always have a job available. They comfort them and bring them out of the depths of Harano. And they proudly talk of them after their heroic deaths. \n\nOn the other hand, this close tie with their Kinfolk can also place the Fianna in a precarious position. Looking too closely into the Garou flame can cause Kinfolk to turn to the Wyrm in order to match that flame. Love of their Kinfolk can be used to pressure a Fianna into unwise courses of action. And the loss of a beloved relative can depress a Garou unto suicide.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Rage- Fianna"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 67
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 13
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 5
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 6
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "change_fia"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "change_fia"
+  }
+}

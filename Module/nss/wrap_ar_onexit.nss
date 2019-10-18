@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Wrapper
+//  wrap_ar_onexit
+//  by Don Anderson
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "spawn_functions"
+
+void main()
+{
+
+    ExecuteScript("lc_area_exit",OBJECT_SELF); //area clean up script
+    ExecuteScript("ors_area_onexit",OBJECT_SELF); //Area Exit Stuff
+
+
+
+}

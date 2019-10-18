@@ -1,0 +1,266 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 946
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 7
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1500
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 5.56mm\n\nThe F2000 is a modular weapon system, developed by FN Herstal, Belgium, and introduced in 2001. \n\nThe F2000 system consist of the F2000 rifle and some add-on modules, that can be installed and removed quicky and without any tools. \n\nThe F2000 rifle is a gas operated, rotating bolt, select-fire weapon. F2000 features polymer stock with bull-pup layout. The stock has built-in standart rails on the top of the weapon (for different sights and scopes etc) and mounting point ahead of triggerguard, where additional modules may be installed (such as grenade launchers, non-lethal modules etc). In the basic configuration, the upper rails mounts 1.6X magnification optical sights, and the lower mounting point is covered by removable handguard. The unique feature of the F2000 rifle is its' patented front ejection systems: the spent cases, extracted from the chamber, travel from the rear part of the gun to the ejection port near the muzzle via special ejection tube and falls out of the gun at the safe distance from the shooters' face. The details of this system is still unclear, but when combined with completely ambidextrous controls (FN P90 style), this makes the F2000 100% ambidextrous, any time. \n\nAt the current time, the F2000 rifle may be upgraded, depending on the mission, with FN's 40mm low-velocity grenade launcher (on the lower mount, instead of the handguard), or with XM303 non-lethal module (fires 12Ga BBs with paint or tear gas by the means of the pre-charged air cartridge); other options are handguards with built-in laser pointers or flashlights. \n\nThe standart low-maginfication combat scope may be replaced by any other scope on WEAVER-style mount, or with FN's proprietary computerized fire control module with laser rangefinder, that calculates the point of aim (and sets the sight reticle) for both the rifle and 40mm grenade launcher."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 5.56mm\n\nThe F2000 is a modular weapon system, developed by FN Herstal, Belgium, and introduced in 2001. \n\nThe F2000 system consist of the F2000 rifle and some add-on modules, that can be installed and removed quicky and without any tools. \n\nThe F2000 rifle is a gas operated, rotating bolt, select-fire weapon. F2000 features polymer stock with bull-pup layout. The stock has built-in standart rails on the top of the weapon (for different sights and scopes etc) and mounting point ahead of triggerguard, where additional modules may be installed (such as grenade launchers, non-lethal modules etc). In the basic configuration, the upper rails mounts 1.6X magnification optical sights, and the lower mounting point is covered by removable handguard. The unique feature of the F2000 rifle is its' patented front ejection systems: the spent cases, extracted from the chamber, travel from the rear part of the gun to the ejection port near the muzzle via special ejection tube and falls out of the gun at the safe distance from the shooters' face. The details of this system is still unclear, but when combined with completely ambidextrous controls (FN P90 style), this makes the F2000 100% ambidextrous, any time. \n\nAt the current time, the F2000 rifle may be upgraded, depending on the mission, with FN's 40mm low-velocity grenade launcher (on the lower mount, instead of the handguard), or with XM303 non-lethal module (fires 12Ga BBs with paint or tear gas by the means of the pre-charged air cartridge); other options are handguards with built-in laser pointers or flashlights. \n\nThe standart low-maginfication combat scope may be replaced by any other scope on WEAVER-style mount, or with FN's proprietary computerized fire control module with laser rangefinder, that calculates the point of aim (and sets the sight reticle) for both the rifle and 40mm grenade launcher. "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 174,
+    "type": "cexolocstring",
+    "value": {
+      "0": "FN2000 5.56mm Assault Rifle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 73
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 204
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 56
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 32
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 30
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_fn2000"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_fn2000"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "556"
+        }
+      }
+    ]
+  }
+}

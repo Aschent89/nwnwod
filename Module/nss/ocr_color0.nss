@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems Crafting
+//  ocr_color0
+//  By Don Anderson
+//
+//  Called from Appearance Mirror Conversation
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+    object oPC = GetPCSpeaker();
+
+    SetLocalInt(oPC, "ColorToDye", 0);
+    ColorItem(oPC);
+}

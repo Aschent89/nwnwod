@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems Crafting
+//  ocr_cloth1
+//  By Don Anderson
+//
+//  Called from Appearance Mirror Conversation
+//
+////////////////////////////////////////////////////////////////////////////////
+
+void main()
+{
+    object oPC = GetPCSpeaker();
+
+    SetLocalInt(oPC, "MaterialToDye", ITEM_APPR_ARMOR_COLOR_CLOTH1);
+}

@@ -1,0 +1,157 @@
+{
+  "__data_type": "UTT ",
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "This can be placed in an area where you want a Knowledge-type skill bonus.  Just identify the skill by using the String variable SKILL - the name should be Research, Decipher Script, Computer Use, Gather Information, Investigate, Arcane Lore, Art, Behavioral Sciences, Business, Civics, Current Events, Earth And Life Sciences, History, Physcial Sciences, Popular Culture, Business, Tactics, Technology, or Theology.\r\n\r\nThen identify the amount using the Int variable BONUS"
+  },
+  "Cursor": {
+    "type": "byte",
+    "value": 0
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "HighlightHeight": {
+    "type": "float",
+    "value": 0.0
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedToFlags": {
+    "type": "byte",
+    "value": 0
+  },
+  "LoadScreenID": {
+    "type": "word",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 14759,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Skill Bonus"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 6
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 0
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "ScriptOnEnter": {
+    "type": "resref",
+    "value": "_mdrn_en_bskill"
+  },
+  "ScriptOnExit": {
+    "type": "resref",
+    "value": "_mdrn_ex_bskill"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_tt_skbonus"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_tt_skbonus"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Type": {
+    "type": "int",
+    "value": 0
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "SKILL"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Research"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "BONUS"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 4
+        }
+      }
+    ]
+  }
+}

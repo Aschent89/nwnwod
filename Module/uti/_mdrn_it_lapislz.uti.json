@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 150
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 150
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "id": 13309,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Lapis lazuli,sometimes abbreviated to lapis, is a relatively rare, semi-precious stone that has been prized since antiquity for its intense blue color.\n\nThe finest color is intense blue, lightly dusted with small flecks of golden pyrite. Stones with no white calcite veins and only small pyrite inclusions are more prized."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13308,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Gem, Lapiz Lazuli"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 92
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 112
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_lapislz"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_lapislz"
+  }
+}

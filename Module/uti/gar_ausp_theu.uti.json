@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Theurges, Garou born under crescent moon, are given the destny of a shaman.\n\nWhile in the real world, rational-thinking sceptics may think that the shaman is nothing more than a primitive clergyman, deranged herbalist or spooky crook, this is not so in the World of Darkness. While every Garou can deal with spirits, only Theurges enjoy especially close relationship with them. Because of that they are natural mystics, soothsayers, healers, pardoners and magicians - all with real power."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*Garou Auspice: Theurge"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 97
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gar_ausp_theu"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gar_ausp_theu"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Use this item to shift into the wolf form you desire. Make sure you read your journal when you shift into any shape they all have there own rules to keep in the spirit of good role play.\n                  \nWolves are creatures of dominance and submission, mastery and servitude. The Shadow Lords take this quite literally and strive to master all they survey. Shadow lords see the Garou as the ultimate life form on the planet. Therefore, the Garou are the obvious rulers. Furthermore, as far as they're concerned, there is no tribe greater than the Shadow Lords. With that in mind, it doesn't take a genius to figure out the tribe's agenda. In the end, the only thing the Shadow Lords respect from Garou of other tribes is power. Even so, they are always ready to displace their rivals at the slightest sign of weakness. \n\nThough some argue that knowing too well the lures and seductions of the Wyrm beats a quick path to corruption, the Shadow Lords cultivate a unique perspective on the Wyrm that few Garou share. After all, how better to understand its method and madness than to skirt around its edges, learning its scent? Experience not withstanding, the Shadow Lords recognize the enemy's face and understand is intentions better than most Garou - a strength of immeasurable value when resources are slight. Moreover, from their insights stem truly terrifying Shadow Lord Gifts. However, the Shadow Lords must be careful not to drink too deeply of the Urges, lest their dark strengths can become their greatest weaknesses. Their pride and arrogance is easily warped by the Wyrm into full-blown megalomania. \n\nThe Shadow Lords boast a chain of command that would make any corporate division proud. No member is ignorant of his position, power, or more importantly, responsibilities. At the lower end, eager young pups stand ready to fill any vacancy that opens up in the ranks, including vacancies that they sometimes create. Those already in positions of power are constantly on guard against capable upstarts. All in all, the Shadow Lord drive for dominance creates a constant current of change and uncertainty, as those in power inevitably miss a step sooner or later and are brought down. The Shadow Lords' believe in the right to rule through outmaneuvering, outgunning, overpowering, backstabbing and/or assassination - and the right to keep a position in the same ways. \n\nIt is the custom among them to undergo a tribe/pack Rite of Passage beyond that normally instituted by the Sept. Such ordeals are usually designed by the alpha of the pack to put the young Garou in a compromising situation in effort to acquaint him or her with the darker emotions of desperation. \n\nWhen it comes to dealing with the Wyrm, the Shadow Lords use deception and trickery first, only putting themselves in physical harm when it seems that all other options have been expended. This strategy allows them to develop and maintain some indirect relationships with those elements that are close to the vampire and Black Spiral Dancer communities, manipulating them so that they may encourage the Wyrm's resources to destroy itself. They also possess a more intimate knowledge of Wyrm spirits and Banes and are usually best at noticing and tracking their scent. However, when Shadow Lords do resort to direct confrontation, they tend to organize very complete and deadly raids, designed to leave little trace of their involvement (which helps them maintain their contacts for future use)\n\nNo tribe or pack controls their families as strictly as the Shadow Lords. Though their brutal treatment of Kinfolk at times has raised the attentions of other tribal leaders, the Shadow Lords have maintained (albeit it not well received) obedience and submission. Problem elements within the family are quickly subdued most often through physical or social means. It is well known that the Shadow Lords have been trying for many years to produce as many offspring as possible. To this end, as soon as Shadow Lord Kinfolk become fertile, they are arranged to mate with members of the tribe.\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Rage- Shadowlord "
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 67
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 13
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 5
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 64
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 6
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "change_shad"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "change_shad"
+  }
+}

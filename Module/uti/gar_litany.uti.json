@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "These are the laws of Gaia, The Litany, and you as her child should adhear to them or be willing to face the punishment for breaking them. \n\n-Garou shall not mate with Garou\n\n-Combat the Wyrm wherever is it found and wherever it breeds\n\n-Respect the Terratory of another\n\n-Accept an honorable surrender\n\n-Submission to those above you in station\n\n-The first part of the kill for the greatest in station\n\n-Ye shall not eat the flesh of humans\n\n-You shall show respect for those below you in station - all are of Gaia\n\n-The Veil shall not be lifted\n\n-Do not suffer thy people to tend thy sickness in death\n\n-The leader shall not be challenged in time of war\n\n-You shall take no action that causes a caern to be violated\n\n\n\nWe are Garou, \nwerewolves,  shapeshifters.\nWe are creatures of  human folklore, their nightmares and their legends.\nBut we are not who they believe us to be. We walk between worlds. The worlds of humankind and our Mother Earth. The worlds of flesh and spirit. \nThe worlds of rage and reason.\nThroughout history, our brothers and sisters have fought with fang,  claw and spirit to protect Gaia -the Earth Mother. This is Her final hour - our Apocalypse.\nThis is your legend.                                                                                                                ::How to play a werewolf::                                 Werewolfs are not mindless beast who cant control there rage. Well they can if there not in crinos form to long. A werewolf is a protector of the earth called mother Gaia. Try to not let people know you are a werewolf. Dont run around the city in crinos form and dont kill commoners they are part of Gaia and your here to protect them. As for the vampire they are not and should be killed on sight only a werewof can tell if someone is a vampire on sight becuse of your sence the undead gift that Gaia gave you as a pup. People are not turned into werewolfs you are born that way! Warlocks and witchs are not better than a vampire becuse of there plans to raise the undead and build armies to serve them is a stane on your beloved eather. Hunters are not your enemy all thoe we dont want them to know we are werewolfs we try to let them do there job. They are out to kill the vampire and warlocks as you are. Yet they shouldnt get in your way of what you are doing. There is no Werewolf vampire mix in this mod if you ever let a vampire turn you I will trash your char and that vampire char. Werewolfs are mostly good alignment some nutrail and few evil the evil ones are no accept by the rest and should be put to death when the rest of the pack finds them.                 "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": " - Garou Litany"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 50
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gar_litany"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gar_litany"
+  }
+}

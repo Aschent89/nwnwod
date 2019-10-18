@@ -1,0 +1,83 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Basic Driving:\nf - change direction to forward\nb - change direction to reverse\na - accelerate\nd - decelerate\nr - turn right\nl - turn left\nx - exit vehicle\n\n\nCamera:\nce - External Camera (default)\ncs - Straight First Person Camera\ncl - Left Camera\ncr - Right Camera\ncu - Camera Up\ncd - Camera Down\n\nSpecial Actions:\nattack - shoot equipped or vehicle-mounted weapon against nearest enemy.\nmissile - fire missile\nheavymissile - fire heavy missile\nbomb - drop bomb\nland - land a ship\nlaunch - launch a ship\n\nVisual Actions (no effect; must be at zero speed):\nrollr - roll to the right\nrolll - roll to the left\nspin - spin end-over-end\n\nInstructions:\nTo use the system, you should say your commands out loud, on either the Talk or DM channel.  Quickslot these with /dm command, like /dm a or /dm d - it's a LOT easier!  Nearby NPC's (including your vehicle) will interpret the commands.  Your vehicle will drive in a stright line, at a constant speed, unless commanded otherwise.  \nIn forward motion, you must use a and d to speed up or slow down.  You can only switch to reverse motion when at ZERO forward speed.\nIn reverse motion, you move at a slow constant speed.\nYou can only turn while moving.\nNote that turns and decelerations require Drive or Pilot checks that may fail - turn DC is based on speed (so turn at slow speeds!).\n\nDM Commands:\nbeamhit - make a beam weapon hit nearest target\nmissile - missile effect on nearest target\nbeammiss - beam weapon that misses\nfly - have ship fly up and disappear\njump - ship flies up and then lands at stored location chosen with FX wand"
+    }
+  },
+  "Description": {
+    "id": 13026,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Basic Driving:\nf - change direction to forward\nb - change direction to reverse\na - accelerate\nd - decelerate\nr - turn right\nl - turn left\nx - exit vehicle\n\n\nCamera:\nce - External Camera (default)\ncs - Straight First Person Camera\ncl - Left Camera\ncr - Right Camera\ncu - Camera Up\ncd - Camera Down\n\nSpecial Actions:\nattack - shoot equipped or vehicle-mounted weapon against nearest enemy.\nmissile - fire missile\nheavymissile - fire heavy missile\nbomb - drop bomb\nland - land a ship\nlaunch - launch a ship\n\nVisual Actions (no effect; must be at zero speed):\nrollr - roll to the right\nrolll - roll to the left\nspin - spin end-over-end\n\nInstructions:\nTo use the system, you should say your commands out loud, on either the Talk or DM channel.  Quickslot these with /dm command, like /dm a or /dm d - it's a LOT easier!  Nearby NPC's (including your vehicle) will interpret the commands.  Your vehicle will drive in a stright line, at a constant speed, unless commanded otherwise.  \nIn forward motion, you must use a and d to speed up or slow down.  You can only switch to reverse motion when at ZERO forward speed.\nIn reverse motion, you move at a slow constant speed.\nYou can only turn while moving.\nNote that turns and decelerations require Drive or Pilot checks that may fail - turn DC is based on speed (so turn at slow speeds!).\n\nDM Commands:\nbeamhit - make a beam weapon hit nearest target\nmissile - missile effect on nearest target\nbeammiss - beam weapon that misses\nfly - have ship fly up and disappear\njump - ship flies up and then lands at stored location chosen with FX wand"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13025,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Driver's Manual"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 39
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 114
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_drmanual"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_drmanual"
+  }
+}

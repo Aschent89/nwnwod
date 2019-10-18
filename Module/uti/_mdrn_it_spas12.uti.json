@@ -1,0 +1,266 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 750
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 7
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 900
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: Shotgun\n\nThe SPAS-12 was designed in the late 1970s by the Italian company Luigi Franchi Spa as a special purpose, military and police close combat weapon (actually, SPAS stands for Sporting Purpose Automatic Shotgun, or Special Purpose Automatic Shotgun, depending on the source). It featured a selective action for greater versatility, and can be used as a gas operated semi-automatic repeater or as a manually operated pump action repeater, depending on the mission and ammunition used. Since its introduction SPAS-12 became a very popular police and special forces weapon, being versatile, reliable and with good firepower. On the other hand, it is heavier than most other similar shotguns and quite complicated, which results in relatively high prices. \n\nSPAS-12 utilizes somewhat traditional for shotguns gas system with annular gas piston locating around the underbarrel magazine tube. It operates the bolt with vertically tilting locking lug that engages the barrel extension to lock. SPAS-12 can be switched between gas operated self-loading mode and manually operated pump mode by pressing and holding a button at the bottom of the forearm and pulling the forearm slightly forward for AUTOMATIC mode or backward for PUMP (or MANUAL) mode. Earlier models of the SPAS-12 had the lever type safety at the front of the triggerguard, but due to some deficiencies this was latter replaced by the push-button (cross-bolt) safety at the same place.  \n\nSPAS-12 could be fitted with stamped metallic buttstock that folds to the top of the receiver when not in use, and with a pistol grip made of plastic. Alternatively, solid plastic buttstocks with pistol grips are available. Barrel has cylinder bore with screw-on muzzle devices (cokes of flash hiders). Sights usually are of rifle type, with post front and open notch rear sight. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: Shotgun\n\nThe SPAS-12 was designed in the late 1970s by the Italian company Luigi Franchi Spa as a special purpose, military and police close combat weapon (actually, SPAS stands for Sporting Purpose Automatic Shotgun, or Special Purpose Automatic Shotgun, depending on the source). It featured a selective action for greater versatility, and can be used as a gas operated semi-automatic repeater or as a manually operated pump action repeater, depending on the mission and ammunition used. Since its introduction SPAS-12 became a very popular police and special forces weapon, being versatile, reliable and with good firepower. On the other hand, it is heavier than most other similar shotguns and quite complicated, which results in relatively high prices. \n\nSPAS-12 utilizes somewhat traditional for shotguns gas system with annular gas piston locating around the underbarrel magazine tube. It operates the bolt with vertically tilting locking lug that engages the barrel extension to lock. SPAS-12 can be switched between gas operated self-loading mode and manually operated pump mode by pressing and holding a button at the bottom of the forearm and pulling the forearm slightly forward for AUTOMATIC mode or backward for PUMP (or MANUAL) mode. Earlier models of the SPAS-12 had the lever type safety at the front of the triggerguard, but due to some deficiencies this was latter replaced by the push-button (cross-bolt) safety at the same place.  \n\nSPAS-12 could be fitted with stamped metallic buttstock that folds to the top of the receiver when not in use, and with a pistol grip made of plastic. Alternatively, solid plastic buttstocks with pistol grips are available. Barrel has cylinder bore with screw-on muzzle devices (cokes of flash hiders). Sights usually are of rifle type, with post front and open notch rear sight. "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 174,
+    "type": "cexolocstring",
+    "value": {
+      "0": "SPAS 12-gauge Shotgun"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 62
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 204
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 31
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 31
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 8
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_spas12"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_spas12"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "201"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Tribe: Red Talons\nTotem: Griffin\n\nThey are the only tribe among the Garou that is exclusively lupine in nature, shunning humanity completely as a blight on the Earth.\n\nIntroduction \n\nWalk through a city some night, and look up at the sky. Try and find a star, any star. You´re lucky if you can even see Luna herself up there. Imagine you had the power to punish the people concealing the pure sky from you. Here is the source of the Red Talons´ rage. They can see the pure sky; they live in pure, clean, wild lands, but every day some idiot ape bulldozes another hundred acres to put up another 200 cookie-cutter suburban homes. The answer is obvious to the Red Talons: kill some homids. Yet this is precisely what the other tribes refuse to do. \n\nThe Red Talons are the claws of Gaia; they are her rage at the human race given form, or so they believe. The Talons come almost entirely from lupus stock; only in the last few decades have they even accepted Metis that come from Talon-Talon matings. Many Talon Metis are still culled at birth or given to the Children of Gaia to rear. Given their backgrounds, few Talons are comfortable with Weaver-things of any kind. Most see value in klaives, and a few even appreciate the usefulness of a gun or telephone. But, for the most part they communicate via howls and fight with claws and feel that should be enough. Still, the other tribes admit the Talons have long memories, and no doubt recall rites and secrets long forgotten by the rest of the Garou. \n\nTalon hatred of humans is legendary, and yet that hatred has grown by leaps and bounds these nights of Alaskan wolf kills and bulldozed forests; some believe that the humans should be wiped from Gaia´s face entirely. Others are more restrained, thinking that returning to the practice of culling would be enough. A few humans even live peacefully near Talon territories, providing they respect the land. Many Talons enact a private Impergium against humans who move into protected lands. The deaths are often swift, but some younger Red Talons take more pleasure in the killings then their elders think prudent. Cruelties and ritual torture that rival the Black Spiral Dancers are surely the touch of the Wyrm. Some, it is whispered, even violate the Litany - \"Ye Shall Not Eat the Flesh of Humans.\" The malice of such unnecessary activity surely tempts the Wyrm and the tribe's elders watch their youthful students more and more carefully in the modern nights\n\nTribal Culture\n\n Perhaps no other tribe is as close to nature as the Red Talons. They shun cities completely, exclusively living in their ancestral homelands as they have for centuries. As humans encroach on the wilderness, the Red Talons find their lands and hunting grounds disappearing and destroyed. \n\nAlthough not all Red Talons believe humanity should be wiped out entirely, it is agreed among all tribe members that humans are to be shunned. Those that dare cross the path of a Red Talon, guilty or innocent, will be killed to stop the spread of the Wyrm's taint. Many secretly devour the flesh of their victims, however, which goes directly against the Litany set forth by the Garou Nation. In addition, some younger Red Talons have taken to torturing their prey, akin to the way humans have drawn out the suffering of the Red Talons. \n\nPolitical Culture \n\nThe Red Talons follow wolf traditions closely, using strength and survival to decide who rules over them. Crimes against Red Talons go through no compromise; those involved will be devoured by wolves seeking justice. \n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*Garou Tribe: Red Talons"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 57
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gar_tri_talon"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gar_tri_talon"
+  }
+}

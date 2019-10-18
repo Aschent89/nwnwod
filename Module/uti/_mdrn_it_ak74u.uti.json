@@ -1,0 +1,235 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 1050
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 7
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1200
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 7.62mm\n\nThe AKS-74U short assault rifle (the \"U\" suffix means \"Ukorochennyj\" in Russian = \"Shortened\" in English) has been developed in the late 1970s from the AKS-74 assault rifle. The AKS-74U was intended as a personal defense weapon for tanks, guns, helicopters and other vehicles crews, and for the special operations forces, who required a compact but relatively powerful individual automatic weapon. The AKS-74U has the size and effective range of a typical submachine gun, but has advantage of the general issue, assault rifle ammunition and magazines, as well as the parts interchangeability with the general issue assault rifle, the AK-74. Since its introduction the AKS-74U, unofficially known as a \"Ksyukha\" (variation of a Russian woman name) or \"okurok\" (cigarette stub), also had been issued to various Police and other Law Enforcement forces acres the USSR and the Post-USSR countries, including Russia. Interestingly, the AKS-74U is known in the USA as the \"Krinkov\", but what it means is a mystery for me. The AKS-74U is somewhat popular among its users due to its compact size, which allows it to be carried in the cars and even concealed under the clothes. On the other side, its effective range of fire is greatly limited by the poor accuracy at extended ranges, while the bullet itself remains its lethality at much greater ranges. The AKS-74U also known for its tendency for rapid overheating during the prolonged fire sessions. A special version of the AKS-74U had been developed for the Special Forces (SpetsNaz), which could be fitted with quickly detachable silencer and a special 30mm silenced grenade launcher model BS-1 \"Tishina\" (\"silence\"). The launcher uses special HE-DP grenades, which are launched using special blank cartridges, stored in the box magazine, contained in the launcher pistol grip. The 45-round plastic magazine of the RPK-74 light machine gun is also interchangeable with that of the AK-74."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 7.62mm\n\nThe AKS-74U short assault rifle (the \"U\" suffix means \"Ukorochennyj\" in Russian = \"Shortened\" in English) has been developed in the late 1970s from the AKS-74 assault rifle. The AKS-74U was intended as a personal defense weapon for tanks, guns, helicopters and other vehicles crews, and for the special operations forces, who required a compact but relatively powerful individual automatic weapon. The AKS-74U has the size and effective range of a typical submachine gun, but has advantage of the general issue, assault rifle ammunition and magazines, as well as the parts interchangeability with the general issue assault rifle, the AK-74. Since its introduction the AKS-74U, unofficially known as a \"Ksyukha\" (variation of a Russian woman name) or \"okurok\" (cigarette stub), also had been issued to various Police and other Law Enforcement forces acres the USSR and the Post-USSR countries, including Russia. Interestingly, the AKS-74U is known in the USA as the \"Krinkov\", but what it means is a mystery for me. The AKS-74U is somewhat popular among its users due to its compact size, which allows it to be carried in the cars and even concealed under the clothes. On the other side, its effective range of fire is greatly limited by the poor accuracy at extended ranges, while the bullet itself remains its lethality at much greater ranges. The AKS-74U also known for its tendency for rapid overheating during the prolonged fire sessions. A special version of the AKS-74U had been developed for the Special Forces (SpetsNaz), which could be fitted with quickly detachable silencer and a special 30mm silenced grenade launcher model BS-1 \"Tishina\" (\"silence\"). The launcher uses special HE-DP grenades, which are launched using special blank cartridges, stored in the box magazine, contained in the launcher pistol grip. The 45-round plastic magazine of the RPK-74 light machine gun is also interchangeable with that of the AK-74."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 174,
+    "type": "cexolocstring",
+    "value": {
+      "0": "AKS-74U 5.45mm Assault Rifle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 241
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 204
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 33
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 30
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_ak74u"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_ak74u"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "545"
+        }
+      }
+    ]
+  }
+}

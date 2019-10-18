@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 797
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1797
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Akashic Brotherhood\n\nMany mages are perplexed that this Tradition, with its strong emphasis on developing the body, believes the Sphere of Mind is paramount, but to the Akashic Brotherhood, mind and body are inseparable. Disciplining the mind can only come with proper discipline of the body which houses it. Unfortunately, much of the Akashic Brotherhood's history has seen little more than stereotyping and confusion from the Brotherhood's Western counterparts.\nThe Akashic Brotherhood is a rich and ancient Tradition, tracing its origins to the first village when humanity lived in harmony with the Cosmic All. There the Brotherhood-to-be learned Do from the Celestines Dragon, Tiger and Phoenix. But the One splintered again and again until it was many, and those who would become the Akashic Brotherhood soon secluded themselves in caves, concerned with the perfection of the self. Their conflict with the Technocracy began early as the Artificers -- those who relied upon tools -- set out to enforce the wall between our world and that of the spirits.\nMillennia ago, early Brothers battled a reincarnationist creed who later grew into the Euthanatos. Appalled by what they saw as a death-cult, the Akashics began a bitter war which raged for nearly three centuries. Bad blood exists to this day. Since then, they have been hesitant to enter a conflict unless provoked. They are well-equipped, however, to fight if need be.\nMembers of this Tradition are best known for their mastery of Do, the proto-martial art. practice of Do (or \"The Way,\" pronounced \"doe\") strengthens the body and sharpens the mind, refining the human being spiritually, mentally, physically and even primally. Masters of this Art are capable of incredible feats, often accepted within the popular paradigm, which rarely attract Paradox. Through Do, Akashic contemplatives seek perfection and enlightenment, and with it, Akashic warriors stand powerfully against the Technocracy and other foes.\nUnderstanding Drahma (the Tradition's fabled 10th Sphere) is vital to this Tradition. Drahma is the wheel of the universe, creation and destruction, birth and rebirth, past, present and future, and inexorable destiny. It is both cause-and-effect and right action. The Avatar which understands its own Drahma is master of its own fate. Through a sequence of lives, the Avatar progresses towards mastery of Drahma leading to Ascension.\nThough firmly rooted in Asia, this Tradition is not exclusive to any one ethnic group, nation or even gender. They embrace Koreans, Chinese, Indians and Westerners alike. \"Brother\" is an honorific recognition, not a title. Likewise, the Brotherhood's contemplative philosophies have made their mark across the East in such varied forms as Zen, yoga and Taoism. Do is equally widespread -- elements of it can be found in almost every martial art.\nThe living heart of the Akashic Brotherhood is the Akashic Record. Named after Akasha, the Ascended Avatar who both invented writing and created the Record, it is the source of all understanding and inspiration for Akashic mages. Its physical form is written text, but the collective record of the entire Brotherhood's subconscious resides within a magick pool. Anything a Brother experiences goes into the Record, transformed into symbols for others to interpret and contemplate. With it, Akashic Brothers understand the past, watch Avatars undergo continuous manifestations and come closer to Ascension.\n\nPhilosophy: Do not do: simply be. Look within for both solution to a difficulty and its cause as well. You cannot effect balance without until you are balanced within as well. Do not seek to control your enemy, but to guide him. Do nor resist opposition when you can simply step around it.\n\nStyle: Magick flows from harmony and discipline, a natural force focused by Do. This Tradition's mages are as contemplative as they can be combative, philosopher-warriors who would understand and guide rather than simply obliterate. Akashic Brothers (and all members of this Tradition, whether male or female, are \"Brothers\") tend to use violence only as a last resort, but can be quite effective when they do.\n\nSphere: Mind\n\nCommon Foci: Meditation, chanting, sashes (as well as headbands or robes), Do, purification rites (baths, abstinence, anointing), weapons.\n\nOrganization: More so than any other Tradition, Akashic mages are strongly aligned according to their Essence, pattern mages (sometimes called Orange or Saffron Robes) are often masters of Drahma. Questing mages (or Scales of the Dragon) focus on protecting Sleepers and Awakened and believe themselves parts of the Dragon Celestine's body. Dynamic mages (occasionally called Yogis) master the spirit world, while Primordial mages (sometimes called Blue Skins) are those most dedicated to personal Ascension.\n\nInitiation: This Tradition is no longer as exclusively Asian as it once was. Most Brothers have been Brothers in past incarnations. Some members prove themselves in the martial arts or Eastern philosophies before Awakening, while others are observed from afar by Brothers who plumb the depths of the Record in order to learn their Avatar's current incarnation. Akashics may be trained in their Xiudaoyuan (Chantries) for years before being released from study.\n\nAcolytes: Martial artists, Buddhist scholars, yoga teachers, herbalists\n\nConcepts: Wandering sage, contemplative warrior, Taoist hermit, modern knight\n\n\n\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Mage: Focus- Akashic Brotherhood"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 34
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 181
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "mage_akasha"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "mage_akasha"
+  }
+}

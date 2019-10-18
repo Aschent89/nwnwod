@@ -1,0 +1,144 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Dominate- \n-Rules- Those with higher level. It is Impossible to dominate a vampire target of higher level than you exception is blood bond characters which are already subject to the master's will and get no roll unless the command would directly endanger the vampire's unlife. Those with Dementation may add their levels od dementation to their will save but must announce they are doing so before the will roll is made. Mind mages are the same as above.Rolling a one means you can not try to dominate the target again for 24 hours.\n\nLevel 1- Command- this allows the user to give a single word command to the target. The user must be visible and lock gaze with the target to work. The command must be clear and unconfusing. Things like Run, Cough, fall, jump, follow if it is at all confusing the target may respond slowly if at all. Will vs will to negate. When confronted with a mind mage ie a mage that has the mind sphere level 1 they gain the power to activate their mind level 1 before making their save. Should a Mind mage have level 4 you find they are a blank empty blackness to you and it has no effect. Level 5 mind mage your actions return to you taking on the same effect should you fall against your own will save.\n\n\nLevel 2- Mesmerize- This allows the user to implant a suggestion or idea into the victim's head. this requires intense concentration and precese wording. There may only be one implanted suggestion given at one time.  The suggestions can be anything that happens immedately such as \"give me that stone\" or something that happens over time \"follow bob make note of what he does and tell me about all this actions on next tuesday\" The suggestion can also be given a trigger to happen at a later time \"when you hear the bell toll 12 you will to 15 push ups\" will save to negate being victim to the suggestion.\n\nLevel 3- Forgetful Mind- After capturing the subjects gace a vampire may delve into a the targets memory. This Functions the same as a Hypnotist as the user must ask questions to uncover the past which the subject must answer given the failed will save. The user can also make a victim forget things by replacing them with new memories of their own choosing. But great detail must be paid attention to for the more holes in the memory the greater the chance of the victim remembering something later. something as simple as \"you went home last night\" is something that the victim's mind would reject as it is to full of holes, but \"you went home last night because you were tied you slipped past the muggers in the slums and got to the inn you polished your sword after you had a meal of beef stew and a mug of ale then you decided to fall sleep in your room at the end of the hall to the left\" would be less likely to be whiped away over time. The true memories could return given a trigger. Such as you may make a victim forget they were bitten but they may remember being bitten but think an animal attacked or if it is a tamatic event certain stimuli such as an oder or noise could pull the memory back to its true being. Will save to negate effects Natural 20 will lock the memory permanately.\n\nLevel 4-  Conditioning- Through Constant use of domination on a single target the victim become more subject to the users will over time. This process is not short and takes a long time with many sucessful effects needed 50 sucessful dominates over many in game days weeks or months. The a mortal subject will very often fall victim to a loss of passions making them very often nothing more than lifeless dolls heeding to the users every command very literially. A vampire may save off these effects much more readily will save every 5 successes to save off this effect.\n\nLevel 5 -Possession- This power allows a Vampire to add 5 to his will saves to dominate another being this bonus is useable on other vampires other than those bond bond to the user.The user is so skilled at taking over another's mind they can more easily take control and implant suggestions the user must announce his having and using of this ablity before rolling.\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Vampire- Dominance 3: Conditioning"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 6
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 178
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 8
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 329
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "vamp_dom_3"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "vamp_dom_3"
+  }
+}

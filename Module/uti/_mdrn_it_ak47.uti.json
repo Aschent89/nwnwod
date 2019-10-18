@@ -1,0 +1,235 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 750
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 7
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 900
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 7.62mm\n\nThe Kalashnikov assault rifle, also known as the AK-47 (Avtomat Kalashnikova - 47, Kalashnikov automatic rifle, model of 1947), and its derivatives, also known under the common name of AK, is the most prolific small arm of the 2nd half of the XX century. It had been and still is (in more or less modified forms) manufactured in dozens of countries, and used in hundreds of countries and conflicts since its introduction. The total number of the AK-type rifles made worldwide during the last 50 years is estimated at 90+ millions. This is a true legendary weapon, known for its extreme ruggedness, simplicity of operation and maintenance, and unsurpassed reliability even in worst conditions possible. It is used not only as a military weapon, but also as a platform for numerous sporting civilian rifles and shotguns (see Saiga semiautomatic shotguns, for example). The AK is an amalgam of previously known features and solutions, combined in the most effective way. The effectiveness, however, depends on the criteria used to measure it, and the key criteria for any and every Soviet and Russian military arm are: Reliability, Simplicity of operation and maintenance, Suitability for mass production. There never was any significant demand for good ergonomics or superb accuracy, though. In general, the AK can be described as an ideal small arm for the past war (the Second World War). Obviously, it's not a surprise - AK incorporated most lessons learned the hard way during that war."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 7.62mm\n\nThe Kalashnikov assault rifle, also known as the AK-47 (Avtomat Kalashnikova - 47, Kalashnikov automatic rifle, model of 1947), and its derivatives, also known under the common name of AK, is the most prolific small arm of the 2nd half of the XX century. It had been and still is (in more or less modified forms) manufactured in dozens of countries, and used in hundreds of countries and conflicts since its introduction. The total number of the AK-type rifles made worldwide during the last 50 years is estimated at 90+ millions. This is a true legendary weapon, known for its extreme ruggedness, simplicity of operation and maintenance, and unsurpassed reliability even in worst conditions possible. It is used not only as a military weapon, but also as a platform for numerous sporting civilian rifles and shotguns (see Saiga semiautomatic shotguns, for example). The AK is an amalgam of previously known features and solutions, combined in the most effective way. The effectiveness, however, depends on the criteria used to measure it, and the key criteria for any and every Soviet and Russian military arm are: Reliability, Simplicity of operation and maintenance, Suitability for mass production. There never was any significant demand for good ergonomics or superb accuracy, though. In general, the AK can be described as an ideal small arm for the past war (the Second World War). Obviously, it's not a surprise - AK incorporated most lessons learned the hard way during that war."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 174,
+    "type": "cexolocstring",
+    "value": {
+      "0": "AKM/AK 47 7.62mm Assault Rifle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 51
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 204
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 32
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 30
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_ak47"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_ak47"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "762"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 25
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 26
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of Smithing\n\nArmor and/or Weapon Crafting Based Skill (DC Varies by Recipe)\n\n- Smithing will help you stay alive. It can also make you a substantial amount of gold if you are diligent about your business.\n- To Find Ore you have to Prospect for it. When you think you have found some Ore, Open the ORM and choose the Prospecting option. If you have enough Lore Skill you will indentify all Ore within 5 Meters.\n\n\nHow to gather ore:\nOnce you have identified an Ore you will have to put your back to work. There are 4 types of veins of ore, each have varying difficulties mining them. Adamantine (Rare), Mithril (Rare), Steel, and Iron (Both Abundant).\n\nNOTE: Steel is actually made from Iron and Coal....but for the simplicity of our adventuring and how Crafting is Set Up by Bioware.....Steel is an Ore.\n\nYou will need the right tool for the right job. There are two weapons...Mining Pick...and Light Mining Pick. Available at a general supply store. These will break every so often.\n\nEach ore has a damage requirement that continues to add with every stroke you hit it. Overcome this requirement and you will receive an ore chunk. If you have the Mining Pick (Large one) you can gain an additional chunk 50% of the time.\n\nIt would be recommendable to get yourself a Pack Animal to help carry your heavy burdens.\n\nSmelting the Ore:\nOnce you have gathered ore...place the ore in the Smelting Forge. You will need 5 chunks of ore to make a bar of metal.\n\nThere is also a maximum capacity of ore that the forge can handle. Just plop ore in and it will tell you if you have to much...nice. If you have enough skill from your Armor or Weapon skill points plus a d20 Roll you will succeed at smelting the ore.\n\nNOTE: The Smelting Forge will stay locked for 10 Seconds.\n\n\nCrafting Items (Including the DC and Cost):\n\nFirst thing you need is a Crafting Anvil. Just step up to it (there is a black spot) then right click on the whatever you are trying to craft. You will see the options available on each and every item activated. There is also a cost for each item crafted because of consumables you don't have to worry about. The Anvil is only for metal objects BUT any item can be crafted here....even the wooden ones.\n\nThe Base Items you need (For the creation of planks and wooden items see the Book of Woodworking):\n\nMaterials:\nBar of Adamantine\nBar of Mithril\nBar of Steel\nBar of Iron\nLeather Hide\nBolt of Cloth\nFeathers (Used for Helmets)\n\nBase Component/DC/Cost:\n\nFrom Steel:\nHelmet Pot/12/1 - The basic component for all metal helmets.\nSteel Chain Armor Tunic/14/5 - This is the for most types of chain armor.\nSteel Plated Armor Chest/17/25 - A plated armor torso is for all types of heavy armor.\nSteel Shield Body/15/15 - This is a shield body to craft a steel shield.\nSteel Weapon Hilt/10/3 - A steel weapon hilt used for the martial weapons such as swords.\nLarge Steel Blade/13/10 - A blade, made of steel suited for the creation of most bladed weapons.\nSmall Steel Blade/12/5 - A small blade, made of steel suited for small bladed weapons.\nSteel Axe Head/12/2 - Made of steel, this axehead is used to create axe weapons.\n\nFrom Iron:\nIron Bands/10/1 - These metal bands are used in the creation of armor and weapons.\nIron Chain/12/2 - Several pieces of a metal chain for crafting various types of weapons and armor.\nIron Hammer Head/13/10 - The metal headpiece component of a hammer.\nIron Orb/12/2 - A headpiece component for weapons like a mace.\nIron Rings/10/3 - Several pieces of iron rings combined with other components to create different types of armor.\nIron Spikes/11/1 - Metal spikes for crafting certain types of armor.\n\nFrom Leather:\nLeather Patches/11/1 - Use these patches of leather to create cloth and armor.\nLeather Strings/11/1 - These strings, cut from the leathery hide of some creature, used to craft different types of weapons (like Whips, Bows, and Crossbows).\n\nFrom Cloth:\nWoolen Cloth Pads/12/1 - These woolen cloth pads are used in the padding of various types of armor.\nWoolen Cloth/11/1 - This woolen cloth is used for Robes and Tunics.\n\nThe Recipes:\n\nArmor/DC/Cost\n\nRobe/Tunic:\nBard's Tunic/11/1 - Woolen Cloth/Leather Patches\nMonk's Outfit/11/1 - Woolen Cloth/Leather Patches\nPale Master's Robe/11/1 - Woolen Cloth/Woolen Cloth Pads\nPriest's Robe/12/5 - Woolen Cloth/Woolen Cloth Pads\nRogue's Tunic/11/1 - Woolen Cloth/Leather Patches\nSorcerer's Robe/11/1 - Woolen Cloth/Leather Patches\nWarrior's Tunic/11/1 - Woolen Cloth/Woolen Cloth Pads\nWizard's Robe/12/1 - Woolen Cloth/Woolen Cloth Pads\nWoodsman Outfit/11/7 - Woolen Cloth/Woolen Cloth Pads\n\nHelmet:\nHelmet, Adamantine/25/2,500 - Bar of Adamantine \nHelmet, Fighter/11/2 - Helmet Pot/Feathers \nHelmet, Paladin/12/2 - Helmet Pot/Feathers\n\nLight:\nHide/13/7 - Leather Armor Torso/Woolen Cloth Pads\nLeather/12/5 - Leather Armor Torso/Woolen Cloth Pads\nPadded Armor/11/2 - Woolen Cloth/Leather Patches\nChain Shirt, Mithral/30/8,000 - Bar of Mithral\nStudded Leather/13/7 - Leather Armor Torso/Iron Rings or Iron Spikes\n\nMedium:\nSteel Scaled Tunic/15/75 - Steel Plated Armor Chest/Woolen Cloth Pads or Leather Patches\nSteel Chain Tunic/14/50 - Steel Chain Armor Tunic/Woolen Cloth Pads or Leather Patches\nAdamantine Chainmail Tunic/28/1,700 - Bar of Adamantine\nMithral Chainmail/30/8,000 - Bar of Mithral\n\nHeavy:\nSteel Plated Tunic/17/300 - Leather Torso/Iron Bands\nSteel Plated Tunic/17/300 - Steel Plated Armor Chest/Woolen Cloth Pads or Leather Patches\nAdamantine Full Plate/30/2,800 - Bar of Adamantine\nSteel Breast Plate/18/750 - Steel Plated Armor Chest/Woolen Cloth Pads or Leather Patches\n\nShield:\nLarge Shield/13/25 - Oaken Shield Body/Iron Bands\nLarge Shield, Ironwood/22/5,100  - Ironwood Planks\nLarge Shield, Mithral/28/10,000 - Bar of Mithral\nSmall Shield/11/4 - Oaken Shield Body/Iron Bands\nSmall Shield, Ironwood/21/5,200 - Ironwood Planks\nTower Shield/15/50 - Steel Shield Body/Iron Bands\nTower Shield, Ironwood/21/5,000 - Ironwood Planks\n\nWeapons/DC/Cost\n\nTiny:\nDagger/12/1 - Oaken Weapon Grip/Small Steel Blade\nKama/15/2 - Oaken Weapon Grip/Small Steel Blade\nKukri/17/8 - Oaken Weapon Grip/Small Steel Blade\n\nSmall:\nAxe, Throwing (x10)/13/1 - Oaken Weapon Grip/Steel Axe Head\nHammer, Light/12/1 - Steel Weapon Hilt/Iron Hammer Head\nHandaxe/13/6 - Oaken Weapon Grip/Steel Axe Head\nMace/13/5 - Oaken Weapon Grip/Iron Orb\nShort Sword/13/10\t- Oaken Pole/Small Steel Blade\nSpear/13/1 - Oaken Pole/Small Steel Blade\nSling/12/1 - Leather Hide\n\nMedium:\nBattleaxe/15/20 - Steel Weapon Hilt/Steel Axe Head\nDwarven Waraxe/17/30 - Steel Weapon Hilt/Steel Axe Head\nFlail, Light/13/8 - Oaken Weapon Grip/Iron Chain\nKatana/17/40 - Steel Weapon Hilt/Large Steel Blade\nLongsword/15/15 - Steel Weapon Hilt/Large Steel Blade\nMorningstar/15/8 - Oaken Weapon Grip/Iron Orb\nRapier17/20 - Oaken Weapon Grip/Small Steel Blade\nScimitar/15/15 - Steel Weapon Hilt/Large Steel Blade\nWarhammer/13/12 - Oaken Weapon Grip/Iron Hammer Head\n\nLarge:\nBastard Sword/17/35 - Steel Weapon Hilt/Large Steel Blade\nDire Mace/19/40 - Oaken Pole/Iron Orb\nDouble Axe/19/30 - Oaken Pole/Steel Axe Head\nFlail, Heavy/15/15 - Steel Weapon Hilt/Iron Chain\nGreataxe/17/40 - Steel Weapon Hilt/Steel Axe Head\nGreatsword/17/50 - Steel Weapon Hilt/Large Steel Blade\nHalberd/17/10 - Oaken Pole/Large Steel Blade\nScythe/17/17 - Oaken Pole/Large Steel Blade\nTwo-Bladed Sword/10/100 - Oaken Pole/Large Steel Blade\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Book of Smithing"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 99
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "BookofSmithing"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bookofsmithing"
+  }
+}

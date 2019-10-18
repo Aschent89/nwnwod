@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Smelting Ore Crafting
+//  ocr_st_leather
+//  by Don Anderson
+//
+//  Place this on the On Closed Event of the Leather Working Placeables
+//
+////////////////////////////////////////////////////////////////////////////////
+
+void main()
+{
+    object oPC      = GetLastClosedBy();
+    object oMod     = GetModule();
+
+
+}

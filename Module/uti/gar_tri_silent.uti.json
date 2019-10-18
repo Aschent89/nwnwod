@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Name:  Silent Strider \nTotem:  Owl  \n\nThe Silent Striders are one of the tribes found in Werewolf: The Apocalypse. Nomadic, introspective, and highly spiritual, the Silent Striders have plumbed the depths of the Umbra, perhaps more deeply than any other tribe of Garou. \n\nThe Silent Striders appear to have roots in Africa and the Middle East. Many seem to believe their tribal origins to be in Egypt, and that they were chased out by the vampire followers of the dark god Sutekh. \n\nOrganization\n\nAs they are nomads and wanderers, the Silent Striders have little in the way of organization. \n\nTribal Culture\n\nStriders are rarely found in the company of other Striders, perhaps occasionally pairing up with another for a difficult journey. More often than not, a Strider in a group is found in a pack composed of many tribes. Otherwise, they tend to remain loners, never settling down. \n\nOne of the reasons for their frequent wandering is to find and destroy the influence of the Wyrm. To meet these ends, the Striders have pierced into the Umbra and into the realms of the dead. They are the only tribe to have mastered this art, and for this reason they have an unsettling air about them that tends to disturb other Garou. The Silent Striders, because of their history with the Followers of Set, are also particularly violent towards vampires of any clan. \n\nPolitical Culture\n\nPerhaps no other tribe is as adept at gathering and spreading information than the Striders. As much as many of them talk, telling stories and bearing messages, they are also, on the whole, excellent listeners, and will pick up subtle details in a conversation others might miss. \n\nReligious Culture\n\nBecause they are wanderers, the Silent Striders have the fewest caerns of any tribe, and the few that exist tend to be along roads or popular points of travel. It is often the guardians of these caerns that prove to be the rare example of a Silent Strider who actually stays put."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*Garou Tribe: Silent Striders"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 107
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gar_tri_silent"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gar_tri_silent"
+  }
+}

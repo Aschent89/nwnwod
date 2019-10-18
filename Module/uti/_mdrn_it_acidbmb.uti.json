@@ -1,0 +1,148 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 81
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1596
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Hydrofluoric acid is a highly corrosive acid, capable of dissolving many materials, especially oxides. Its ability to dissolve glass has been known since the 17th century, even before hydrofluoric acid had been prepared in large quantities by Carl Wilhelm Scheele in 1771. Because of its high reactivity toward glass and moderate reactivity toward many metals, hydrofluoric acid is usually stored in plastic containers although polytetrafluoroethylene (PTFE) is slightly permeable.\n\nHydrofluoric acid is a highly corrosive liquid and is a contact poison. It should be handled with extreme care, beyond that accorded to other mineral acids. Owing to its low dissociation constant, HF penetrates tissue more quickly than typical acids. Because of the ability of hydrofluoric acid to penetrate tissue, poisoning can occur readily through exposure of skin or eyes, or when inhaled or swallowed. Symptoms of exposure to hydrofluoric acid may not be immediately evident. HF interferes with nerve function, meaning that burns may not initially be painful. Accidental exposures can go unnoticed, delaying treatment and increasing the extent and seriousness of the injury.\n\nAs such this is a highly dangerous weapon for those it hits, and has a lingering effect in the vicinity of breakage."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Flask of Hydroflouric Acid"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 13
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 209
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 529
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 6
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_acidbomb"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_acidbmb"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 30
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Chemical"
+        }
+      }
+    ]
+  }
+}

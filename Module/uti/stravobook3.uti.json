@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "THE RED COUNT\n\n\nThe Howl of wolves came from the distance. And as the last rays of the setting sun fell, a large man clad in black and red armor charged forth with a sizable force behind him. They began to slaughter the Empire Soldiers with a speed never seen before. Some where seen drinking the blood of their victims. Others had taken life ending wounds yet... still came at their foes as if it was nothing more then a flesh wound. The battle lasted minutes before it was over. The large man dismounted from his black steed, his feet hitting the blood soaked ground. He cut Viktor's Bindings and began to speak.\n\n\"i am Count Vladimir von Stravokov. We have been watching your family for quite some time, and i am sorry for your loss. I was on rout to offer your Father the gift of the von Stravokov's Legacy when we witnessed the attack, but it seems we have arrived premature. So in light of recent events, I will offer my Generous gift to his soul surviving heir, you young Count Viktor. Will you accept my legacy young nobleman?\" Viktor looked confused. Not sure what to make out of the situation. Intimidated by Vladimir and surrounded by an army of Immortals... He agreed to the vampires offer. Vladimir grabbed victor, sinking his fangs into his neck passing the Dark Embrace to him. As the beast stand their sucking his blood, a voice could be heard in his mind. It said \"you will have the blood you hunger for\".\n\nThat night Viktor was a Vampire of the Clan Ventrue, and for 275 years he spent slaughtering the Empire's Soldiers and vassals. Clearing the lands of Sylvania of their presence. The peasants called him the \"Red Count\" for his horrific acts against the Empire. Leaving lakes of blood where ever his armies marched. Cesspools of dismembered Limb's and destruction, this was his signature. And then after years of bloodshed, the taste of vengeance seemed to fade with the long years of time, and he revoked the oath he swore so many years ago. He instead focused his energy where his father left off. Devoting his infinite time and energy to his lands and his people, as his father would have wanted."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The Red Count (Legacy of Viktor von Stravokov) Volume 3: The Red Count"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 161
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "TheRedCountLegacyofViktorvonStra"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "stravobook3"
+  }
+}

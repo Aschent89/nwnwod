@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ahl-i-Batin\n\nThe Ahl-i-Batin are a fictional group of mages also known as The Subtle Ones. They are a tradition of mages in Mage: the Ascension, a role-playing game created by the White Wolf game studios. They are masters of the Correspondence Sphere. \nBy the community of mages in the World of Darkness they are believed to be a defunct order of mages, that has long since been forgotten and abandoned. The fact is that they have actually been forgotten by the most, even with them actually keeping the seat of Correspondence on the Council of Nine since its conception up to the 19th century. \nThis is mostly due to their mode of operation. The Ahl-i-Batin's sobriquet of The Subtle Ones is well earned. They have used their magic to hide from everyone's view (in particular, from the Technocracy) and it worked. For a few mages, it even worked too well, removing those mages from the Tellurian entirely. (in game terms, many Ahl-i-Batin have Arcane ratings between 6 and 10, which is not normally possible) \nThe Ahl-i-Batin believe in the concept of Unity of all humanity as the final goal of Ascension. In their beliefs everyone was already united once... this was both the ideal and physical and metaphysical presence of Mount Qaf. \nThe best way to further their cause was without the interference of those who cannot see past their small worlds and pettiness that is the common state of humanity. They developed methods that allow them to stay behind the scenes and direct the humanity towards Unity from the shadows. \nAmong things credited to them is the creation of Islam. That experiment was mostly abandoned as it created too much discord and chaos in the long run. \nMost of the Ahl-i-Batini are of Middle Eastern descent, but are spread all over the world, and their members exist of all nations and races, outwardly they are of many faiths, but they all agree on one thing... the goal of Unity through togetherness, without the interference of different creeds. \nThe foci and methods of the Ahl-i-Batin Paradigm revolve around Kabbalah, invocation of angels, manipulation of people, regimented life, focus, training and willpower.\n\n\nSpecialty Sphere: Correspondence"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Magi Ahl-I-Batin"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 3
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "magi_ahlibatin"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "magi_ahlibatin"
+  }
+}

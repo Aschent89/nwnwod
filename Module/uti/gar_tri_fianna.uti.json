@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Tribe: Fianna\nTotem: Stag\n\nStrongly based on Celtic and European traditions, they are known among the Garou for their passions for the pleasure of life, their skills and ferocity in battle, and as keepers of the music, stories, and lore of the Garou. \n\nIntroduction \n\nThey laugh louder and weep harder than any other Tribe. They fight as though they've already accepted their own deaths, but do their best to live life to the fullest. They treat their foes with no mercy, and they treat their allies with enduring love. They make blood thirsty enemies, but outstanding friends. They are the Children of Stag, they are the Fianna \n\nEarly History \n\nThe Fianna were once a fractured group of the smaller tribes or bands, following Stag but associated primarily with their own type of Celts (their Kinfolk). In Gaul, now known as France, were the Hounds of the Horned One, in the mountainous areas of Europe were the Skysingers, in the Balkans were the Night Claws, and the most predominant of all the Fierce Ones known also as the Fianna, who called the western isles of England, Scotland, Wales, and Ireland home. It was during the rise of Rome that the Celtic Garou were finally unified; Ard Righ Elim 'of the Red Claws,' a warrior of the Fierce One's brought all of Stag's Children together under one banner. It was this, combined with the fact that the Fierce Ones of Erie have never lost their land (Ireland is still undisputedly Fianna), that made the Tribe known to the other Garou as the Fianna. \n\nFae \n\nThe Fianna have had a few good allies in their history; and yet it would seem they were destined to lose them all. First the Fae, the true Fae; as humanity encroached more and more on the world the magic that kept them alive lessened, and the Fey fled through the gateway to Arcadia in order to keep their immortal lives. \n\nWhite Howlers \n\nThe White Howlers, the Garou of Pictish decent who ruled Scotland the way the Fianna ruled Ireland. In an effort to \"take the fight to the Wyrm\" the Howlers marched down the Spiral Labyrinth and forever left Gaia behind as their minds were corrupted by the evil of the Wyrm's domain. When they returned to the lands of mortals, they were twisted and malign versions of their former selves, they were the Black Spiral Dancers... the newest tool of the Wyrm. \n\nWar with Fenris \n\nAs the Fianna mourned the loss of their brothers and sisters the White Howlers, one of their other tenuous allies turned against them. The Get of Fenris, seeing the weakness in the other Tribe, set their sights on the isles and began a war which would last for over 500 years, ending with the battle of Colntarf in 1014 when Brian led the Celtic armies in defeating the hordes of Vikings (Fenrir Kinfolk) and Irish Mercenaries. Brian Boroimhe united all the Celtic Tribes of Ireland under one ruler and became what human history knows as the first (and last) true Ard Righ of Ireland; he took the name Brian Boru (meaning Brian of the Tributes) when he became High King after his brother Mahon was murdered by Viking assassins; but he lived up to his elders brothers prowess and went on to produce one of the largest Clans still known today, the Clan O'Brian. To this day, the Fenrir have yet to succeed in claiming any of the Caerns in Ireland. \n\nTribal Culture\n\n Fianna tend to be among the more extroverted Garou, rarely turning down an invitation to let their hair down and indulge in their favorite pleasures. Creativity through music or craft is encouraged and prized among the Fianna, and they have created some of the most beautiful and fantastic treasures of the Garou. The Fianna are also hopeless romantics, falling for humans and Garou alike. The latter creates metis like any other forbidden werewolf encounter, but even though they were concieved through expressions of love, the Fianna are particularly hard on metis as they view their deformed bodies to be a direct reflection of their minds\n\nReligious Culture \n\nFestivals of the Fianna The Fianna (both the Garou and their Kin) celebrate four major \"holidays\" or festivals every year. Very few multi-tribal Septs as a whole celebrate these days, though the Fianna may get together and do them privately; or if the Alpha of the Sept is Fianna these festivals may very well be Sept wide. They go by different names for different individual practices, but this is how they are commonly known by the Tribe. \n\nImbolc \nKnown lovingly by the Tribe as the \"thank the **** it's over\" celebration, this festival honors the change of seasons from Winter into Spring. In the old days, when much of the land was undeveloped and Caerns were still surrounded by vast areas of wilderness Winters were hard for the Caerns and those that lived in them. With the coming of Imbolc signs of life return to the world; both in the plants and animals of Mother Nature, and in the birthing of new Kin into the world. Nine months after the Beltane celebration both Garou and Kinfolk give birth to new Generations of the Tribe. \n\nBeltane\n Also known as May Day by many, with Spring becoming Summer the passions of the Tribe are in full deluge. The last of the old years brew is shared, and the first of the new years as well. More children and puppies are conceived at Beltane than any other time of the year as the ardor of the Tribe turns to love and mating. Beltane is also the traditional time of year for Challenge; for Righ of a Sept or for any other position within it, this is the night where they can make their challenge freely. The Fianna never feel more alive than they do at Beltane; good fights, good drinks, and good lovers. Hell, sometimes they even invite the Fair Folk along for the Celebration - the friendly Seelie ones only of course - and really, if you think the Fianna know how to throw a party, you should see it when the Satyrs get involved. In Garou One World by Night Cannon the Fey and the Fianna have a stronger relationship then even the Tribebook: Fianna describes; and so this practice is even more common. \n\nLughnassa\n\n Of all the festivals of the Fianna, Lughnassa is the most... sedate of the parties. It is a party mind you because the Fianna as a whole will take most any excuse to throw a good party; but where as the Beltane festival is full of wild passion, and Imbolc is a time of refreshing joy; the turning of the season from Summer to Autumn has a tendency to make many a Fianna sorrowful, and so the party happens to keep spirits up. This celebration is a time to make ready for the coming Winter; food and drink is shared as the Tribe talks about what it has done and what it has yet to do. Many younger packs take a more direct route to \"keeping their spirits up,\" and they turn Lughnassa into a Wild Hunt, taking out as many Wyrm creatures in one night as possible, honoring their Ancestors with every blow they strike against their enemies. \n\nSamhain \n\nSamhain, All Hallows Eve, Halloween... don't let last the name fool you, the Fianna do not celebrate Halloween like the humans do. To the Tribe, the turning of the season from Autumn into Winter is the last real chance to party hard before the snow blankets the world and Gaia's creatures begin their slumber. Samhain is also known to the Fianna as the real feast of battle, for it is on this night that the tribe is most often called to fight. The Gauntlet thins greatly on Samhain, but the things that come through are not the type of thing any Garou in their right mind would ever want in the Realm. Story has it that once the Fianna fought against the fae on Samhain Night; standing guard over the fairy mounds of the Seelie as Unseelie forces tried to destroy them... now a days though, it's more likely Banes or Wyrm Spirits that they fight, or even the servants of the Weaver trying to fortify the Gauntlet. \n\n\n\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*Garou Tribe: Fianna"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gar_tri_fianna"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gar_tri_fianna"
+  }
+}

@@ -1,0 +1,18 @@
+//::///////////////////////////////////////////////
+//:: FileName has_lightring
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 8/22/2009 3:46:28 PM
+//:://////////////////////////////////////////////
+#include "nw_i0_tool"
+
+int StartingConditional()
+{
+
+	// Make sure the PC speaker has these items in their inventory
+	if(!HasItem(GetPCSpeaker(), "ringoflight"))
+		return FALSE;
+
+	return TRUE;
+}

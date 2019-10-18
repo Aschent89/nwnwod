@@ -1,0 +1,150 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 6
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "This is a sample of what you can do with the Identification system; it could be found in a module in a laboratory, and a player would need to work on identifying it (once every 10 minutes) using their D20 Modern Action feat.\r\n\r\nTo make a different information-based skill item, just set the variable IDSKILL in Variables under the Description tab to a different skill - the complete list is:\r\n\r\nResearch, Decipher Script, Computer Use, Gather Information, Investigate, Arcane Lore, Art, Behavioral Sciences, Business, Civics, Current Events, Earth And Life Sciences, History, Physcial Sciences, Popular Culture, Business, Tactics, Technology, and Theology.\r\n\r\nThe default skill is Technology.\r\n\r\nTo make the DC different, just set the variable IDDC; the default is approximately the Lore DC of the item (which is based on its GP value)."
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 17
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Research Complete.  Contact a DM."
+    }
+  },
+  "Description": {
+    "id": 13002,
+    "type": "cexolocstring",
+    "value": {
+      "0": "This represents the results from research; if you can identify it using your D20 Modern Action feat, you'll be able to get the results."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 13001,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Research Results"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 123
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_research"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_researc"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "IDSKILL"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Research"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "IDDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 15
+        }
+      }
+    ]
+  }
+}

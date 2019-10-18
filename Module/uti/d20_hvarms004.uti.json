@@ -1,0 +1,250 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 46
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 6
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 650
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 7.62mm\n\n\"Swedish Mausers\" are a family of bolt-action rifles based on an improved variant of Mauser's earlier Model 1893, but using the 6.5x55mm cartridge, and incorporating unique design elements as requested by Sweden. These are the m/94 (Model 1894) carbine, m/96 (Model 1896) long rifle, m/38 (Model 1938) short rifle and m/41 (Model 1941) sniper rifle. In 1898 production began at Carl Gustafs stads Gevärsfaktori in Eskilstuna, Sweden. All Swedish Mausers were chambered for the 6.5 x 55mm Swedish Mauser cartridge, and all Swedish-made actions were proof-tested with a single cartridge developing 66,000psi. Swedish Mausers were manufactured by Waffenfabrik Muser Oberndorf  in Germany and in Sweden by Carl Gustafs stads Gevärsfaktori and Husqvarna Vapenfabriks Aktiebolag. All Swedish Mausers, whether built in Germany or Sweden, were fabricated using a Swedish-supplied high grade tool steel alloyed with nickel, copper, and vanadium, a product noted for its strength and corrosion resistance.\n\nThese rifles, like other pre-1898 Mausers, \"cock-on-closing\" (similar to the contemporary Lee-Enfield rifle) instead of the \"cock-on-opening\" style found on the German Gewehr 98.\n\nThe Model 1896 rifle (6,5 mm Gevär m/96) was adopted in 1896 for infantry use, replacing the Model 1867-89 Remington rolling block rifle. Swedish production (under license) started in 1898 at Carl Gustafs, but additional rifles were produced by Mauser during 1899 and 1900 because of delays in shipping additional production machinery from Germany to Sweden.\n\nMany m/94 and m/96 rifles were successfully converted by Carl Gustafs and Norma into the CG 63 Competition Rifle chambered in 6.5x55mm and 7.62x51mm NATO. These rifles are known to be very accurate, with heavy free-floating barrels, diopter sights (many models), target stocks and tuned triggers.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 7.62mm\n\n\"Swedish Mausers\" are a family of bolt-action rifles based on an improved variant of Mauser's earlier Model 1893, but using the 6.5x55mm cartridge, and incorporating unique design elements as requested by Sweden. These are the m/94 (Model 1894) carbine, m/96 (Model 1896) long rifle, m/38 (Model 1938) short rifle and m/41 (Model 1941) sniper rifle. In 1898 production began at Carl Gustafs stads Gevärsfaktori in Eskilstuna, Sweden. All Swedish Mausers were chambered for the 6.5 x 55mm Swedish Mauser cartridge, and all Swedish-made actions were proof-tested with a single cartridge developing 66,000psi. Swedish Mausers were manufactured by Waffenfabrik Muser Oberndorf  in Germany and in Sweden by Carl Gustafs stads Gevärsfaktori and Husqvarna Vapenfabriks Aktiebolag. All Swedish Mausers, whether built in Germany or Sweden, were fabricated using a Swedish-supplied high grade tool steel alloyed with nickel, copper, and vanadium, a product noted for its strength and corrosion resistance.\n\nThese rifles, like other pre-1898 Mausers, \"cock-on-closing\" (similar to the contemporary Lee-Enfield rifle) instead of the \"cock-on-opening\" style found on the German Gewehr 98.\n\nThe Model 1896 rifle (6,5 mm Gevär m/96) was adopted in 1896 for infantry use, replacing the Model 1867-89 Remington rolling block rifle. Swedish production (under license) started in 1898 at Carl Gustafs, but additional rifles were produced by Mauser during 1899 and 1900 because of delays in shipping additional production machinery from Germany to Sweden.\n\nMany m/94 and m/96 rifles were successfully converted by Carl Gustafs and Norma into the CG 63 Competition Rifle chambered in 6.5x55mm and 7.62x51mm NATO. These rifles are known to be very accurate, with heavy free-floating barrels, diopter sights (many models), target stocks and tuned triggers.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 173,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Mauser m/96 7.62mm Sniper Rifle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 72
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 200
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 56
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 33
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "d20_hvarms004"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_hvarms004"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "762"
+        }
+      }
+    ]
+  }
+}

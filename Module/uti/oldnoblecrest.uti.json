@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 10
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 52
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 11
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*this ring is fairly shiny but has some dents and scratches in the band. It is easy to tell this is a signant ring from some family. I wonder whos*"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*Old Noble Crest Ring"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 167
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 176
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "oldnoblecrest"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "oldnoblecrest"
+  }
+}

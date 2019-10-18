@@ -1,0 +1,148 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 2000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 207
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 2000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This collection of hand tools and small parts typically includes a variety of pliers, drivers, cutting devices, fasteners, and even power tools.\n\nDeluxe: This kit fills a good-sized shop cabinet. It includes a broad variety of specialized hand tools and a selection of high-quality power tools. It grants a +2 equipment bonus on Repair checks for mechanical devices and allows a character to make Craft (mechanical) or Craft (structural) checks without penalty."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This collection of hand tools and small parts typically includes a variety of pliers, drivers, cutting devices, fasteners, and even power tools.\n\nDeluxe: This kit fills a good-sized shop cabinet. It includes a broad variety of specialized hand tools and a selection of high-quality power tools. It grants a +2 equipment bonus on Repair checks for mechanical devices and allows a character to make Craft (mechanical) or Craft (structural) checks without penalty."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Mechanical Toolkit (Deluxe)"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 6
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 109
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 4
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_ot_mechkit"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_ot_mechkt2"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "SkillBonus"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Skill"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 64
+        }
+      }
+    ]
+  }
+}

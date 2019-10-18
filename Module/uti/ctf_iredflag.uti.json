@@ -1,0 +1,84 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 1
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 15
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 16807813,
+    "type": "cexolocstring",
+    "value": {
+      "0": "You have captured this flag from the enemy, Return this to your base quickly."
+    }
+  },
+  "Description": {
+    "id": 16807813,
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 16807450,
+    "type": "cexolocstring",
+    "value": {
+      "0": "CTF Red Flag"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 77
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 53
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "CTF_IRedFlag"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "ctf_iredflag"
+  }
+}

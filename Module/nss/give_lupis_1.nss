@@ -1,0 +1,13 @@
+//::///////////////////////////////////////////////
+//:: FileName give_lupis_1
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 5/15/2009 12:22:24 PM
+//:://////////////////////////////////////////////
+void main()
+{
+    CreateItemOnObject("garou_lupis_1", GetPCSpeaker(), 1);
+       CreateItemOnObject("hlslang_8", GetPCSpeaker(),1);
+      CreateItemOnObject("hlslang_11", GetPCSpeaker(),1);
+}

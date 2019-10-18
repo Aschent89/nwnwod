@@ -1,0 +1,18 @@
+//::///////////////////////////////////////////////
+//:: FileName has_lapishouse
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 8/31/2009 3:05:21 PM
+//:://////////////////////////////////////////////
+#include "nw_i0_tool"
+
+int StartingConditional()
+{
+
+	// Make sure the PC speaker has these items in their inventory
+	if(!HasItem(GetPCSpeaker(), "lapis_house"))
+		return FALSE;
+
+	return TRUE;
+}

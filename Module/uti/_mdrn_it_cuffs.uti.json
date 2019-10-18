@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 50
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 206
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Handcuffs are restraints designed to lock two limbs--normally the wrists--of a prisoner together. They fit any Medium-size or Small human or other creature that has an appropriate body structure.\nSteel: These heavy-duty cuffs have hardness 10, 10 hit points, a break DC of 30, and require a Disable Device check (DC 25) or Escape Artist check (DC 35) to remove without the key. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Handcuffs are restraints designed to lock two limbs--normally the wrists--of a prisoner together. They fit any Medium-size or Small human or other creature that has an appropriate body structure.\nSteel: These heavy-duty cuffs have hardness 10, 10 hit points, a break DC of 30, and require a Disable Device check (DC 25) or Escape Artist check (DC 35) to remove without the key. "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Handcuffs"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 78
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 109
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_cuffs"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_cuffs"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 15
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      }
+    ]
+  }
+}

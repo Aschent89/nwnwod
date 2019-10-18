@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 900
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 15
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 900
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Geiger counters are used to detect ionizing radiation, which is then displayed by a needle or digital gauge, lamp lamp indications and/or audible clicks. They can report radioactivity over several orders of magnitude for alpha and beta radiation and some can be used to detect gamma radiation, though sensitivity can be lower for high energy gamma radiation.\n\nThough more sensitive and accurate instruments exist, Geiger detectors are favored as general purpose alpha, beta, gamma contamination and dose rate instruments, due to their portability, low cost and robustness."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Geiger counters are used to detect ionizing radiation, which is then displayed by a needle or digital gauge, lamp lamp indications and/or audible clicks. They can report radioactivity over several orders of magnitude for alpha and beta radiation and some can be used to detect gamma radiation, though sensitivity can be lower for high energy gamma radiation.\n\nThough more sensitive and accurate instruments exist, Geiger detectors are favored as general purpose alpha, beta, gamma contamination and dose rate instruments, due to their portability, low cost and robustness."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Scientific Geiger Counter"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 10
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 107
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_ot_geiger"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_ot_geiger"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Electronic"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "nCraftDC"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 20
+        }
+      }
+    ]
+  }
+}

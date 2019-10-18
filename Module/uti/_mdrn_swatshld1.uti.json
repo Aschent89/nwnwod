@@ -1,0 +1,133 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 406
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 57
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 650
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Riot shields are lightweight protection devices deployed by police and some military organizations. Most are a clear polycarbonate, though some are constructed of light metals with a view hole. Riot shields are almost exclusively long enough to cover an average sized man from the top of the head to the knees.\n\nSome riot shields are designed to be bullet resistant against low velocity handgun and shotgun ammunition, but most are not. They are generally intended to be used in Riot control, to protect the user from shrapnel, thrown projectiles, and splash from various weapons such as a Molotov cocktail.\n\nRiot shields are used in almost every country with a standardised police force and are produced by many companies. \n\nA ballistic shield is specifically designed to defend against bullet fire. In a dynamic entry situation, a team of special police, such as SWAT try to clear a room quickly and decisively. For example one member would smash the door open with a battering ram, then step aside as the first team member wielding the shield entered the room and protected the door. The other team members would enter behind him and take control of the room."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Riot shields are lightweight protection devices deployed by police and some military organizations. Most are a clear polycarbonate, though some are constructed of light metals with a view hole. Riot shields are almost exclusively long enough to cover an average sized man from the top of the head to the knees.\n\nSome riot shields are designed to be bullet resistant against low velocity handgun and shotgun ammunition, but most are not. They are generally intended to be used in Riot control, to protect the user from shrapnel, thrown projectiles, and splash from various weapons such as a Molotov cocktail.\n\nRiot shields are used in almost every country with a standardised police force and are produced by many companies. \n\nA ballistic shield is specifically designed to defend against bullet fire. In a dynamic entry situation, a team of special police, such as SWAT try to clear a room quickly and decisively. For example one member would smash the door open with a battering ram, then step aside as the first team member wielding the shield entered the room and protected the door. The other team members would enter behind him and take control of the room."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ballistic Shield (Metal)"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 50
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 123
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 1
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_swatshld1"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_swatshld1"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      }
+    ]
+  }
+}

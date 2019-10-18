@@ -1,0 +1,144 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 311
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1003
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": " To use this use it once and it will shift you into its given form. If you are already in a form that is not human in shape  it will set you as human.\n\nThe Forms: \n\nHomid: this is a normal human form. silver has no effect, but you heal like a normal human as well. \n\nGlabro: Big human. you grow a couple of inches taller and gain 10-12% of body mass(none of it in fat)Silver will harm you as much as in crinos. \n\nCrinos: wolf-man death machine. you gain over 50% of your height(yes a 6' homid becomes over 9' Crinos) as well as another 100-200% body mass(also none of it in fat). Your body is covered in fur and your head resembles more of a wolf, and your arms are longer, more suitable for slashing with your claws or running on all fours. In this form,all Garou almost immediately regenerate damage dealt to them(except the type that cause worse damage than normal) by the forms that You also incite the Delirium on all non magical humans(mages, Kinfolk(wolves and humans who are a Garou's family), and vampires are immune to the Delirium). Silver can be outright deadly in this form, being that a cut from a silver blade or a silver bullet will not heal immediately. In Crinos form, you can't speak normally. only two-three word sentences such as \"I hungry!\" or \"you die!\" can be said, but you can speak the wolf tounge fairly well. \n\nHispo: This form is larger than most wolves, resembling the prehistoric Dire Wolf. They weigh as much as most Crinos and can run even faster. \n\nLupis: This is a normal wolf. Silver has no effect. \n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "*Garou Shifter- Glabro"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 40
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 13
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "garouglabroshift"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "garouglabroshift"
+  }
+}

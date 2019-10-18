@@ -1,0 +1,204 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 7
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 650
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: .303\n\nThe Lee-Enfield series of rifles was born in 1895 as a marriage between the magazine and bolt action, designed by the J. P. Lee, and the new pattern of barrel rifling, designed at the Royal Small Arms Factory (RSAF) at Enfield. Originally known as Lee-Metford, this design was adopted by British army in 1888 and used a Metford pattern rifling with shallow groves, intended to be used with ammunition loaded with black powder. Introduction of the smokeless powders in the form of the Cordite showed that the Metford rifling was very short-living, so it was soon replaced with Enfield rifling, with 5 traditional land and grooves and left hand pitch. Early Lee-Enfield rifles, officially known as a \".303 caliber, Rifle, Magazine, Lee-Enfield\", were carried by the British army through the Boer war (South Africa) of 1899-1902, and Boers, armed with their Mausers, taught to the Brits some hard lessons. And, unlike some other Empires, Brits were quick lo learn. In 1903, they introduced a new design, which improved over the older Lee-Metfords and Lee-Enfields in some important respects. The main improvements was the introduction of the \"universal\" rifle idea. The common thinking of the period was to issue the long rifle for infantry and the carbine for cavalry, artillery and other such troops. The Brits decided to replace this variety of sizes with one, \"intermediate\" size, that will fit all niches.\n\nThe SMLE is a manually operated, rotating  bolt action magazine fed rifle. The Lee-designed SMLE magazine is a first easily distinguishable feature. It holds 10 rounds of ammunition in staggered column form, and while the magazine itself is detachable, it is not intended to be reloaded when detached from rifle. Early Lee-Enfields (Long Lee-Enfields and SMLEs prior to Mark III) were loaded only by single rounds via the top receiver opening. Latter, the clip (charger) loading was introduced, and a rear receiver bridge with charger clip guides was added to the design. Some of the earlier marks were then retrofitted with charger loading ability during the 1907 - 1910. To load the magazine, one must use two standard 5-rounds clips. Loading by loose rounds was still available, but some care must be taken when loading cartridges into clips or in the magazine, due to the rimmed ammunition cases. Prior to the 1916, all SMLEs (and earlier Long Lee-Enfields) were issued with so called \"magazine cut-off\" - a simple device, located at the right side of the receiver and intended to cut off the cartridge supply from magazine to the action when engaged, so rifle could be used as a single-loader, and ammunition in the magazine could be saved for the hottest moments of combat. This was an outdated idea even when it was first introduced, so it was easily discarded when the need to speed up production arose. The magazine itself should be detached only for cleaning, maintenance and repair, and every rifle was issued with only one magazine. The magazine catch is located inside the triggerguard."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: .303\n\nThe Lee-Enfield series of rifles was born in 1895 as a marriage between the magazine and bolt action, designed by the J. P. Lee, and the new pattern of barrel rifling, designed at the Royal Small Arms Factory (RSAF) at Enfield. Originally known as Lee-Metford, this design was adopted by British army in 1888 and used a Metford pattern rifling with shallow groves, intended to be used with ammunition loaded with black powder. Introduction of the smokeless powders in the form of the Cordite showed that the Metford rifling was very short-living, so it was soon replaced with Enfield rifling, with 5 traditional land and grooves and left hand pitch. Early Lee-Enfield rifles, officially known as a \".303 caliber, Rifle, Magazine, Lee-Enfield\", were carried by the British army through the Boer war (South Africa) of 1899-1902, and Boers, armed with their Mausers, taught to the Brits some hard lessons. And, unlike some other Empires, Brits were quick lo learn. In 1903, they introduced a new design, which improved over the older Lee-Metfords and Lee-Enfields in some important respects. The main improvements was the introduction of the \"universal\" rifle idea. The common thinking of the period was to issue the long rifle for infantry and the carbine for cavalry, artillery and other such troops. The Brits decided to replace this variety of sizes with one, \"intermediate\" size, that will fit all niches.\n\nThe SMLE is a manually operated, rotating  bolt action magazine fed rifle. The Lee-designed SMLE magazine is a first easily distinguishable feature. It holds 10 rounds of ammunition in staggered column form, and while the magazine itself is detachable, it is not intended to be reloaded when detached from rifle. Early Lee-Enfields (Long Lee-Enfields and SMLEs prior to Mark III) were loaded only by single rounds via the top receiver opening. Latter, the clip (charger) loading was introduced, and a rear receiver bridge with charger clip guides was added to the design. Some of the earlier marks were then retrofitted with charger loading ability during the 1907 - 1910. To load the magazine, one must use two standard 5-rounds clips. Loading by loose rounds was still available, but some care must be taken when loading cartridges into clips or in the magazine, due to the rimmed ammunition cases. Prior to the 1916, all SMLEs (and earlier Long Lee-Enfields) were issued with so called \"magazine cut-off\" - a simple device, located at the right side of the receiver and intended to cut off the cartridge supply from magazine to the action when engaged, so rifle could be used as a single-loader, and ammunition in the magazine could be saved for the hottest moments of combat. This was an outdated idea even when it was first introduced, so it was easily discarded when the need to speed up production arose. The magazine itself should be detached only for cleaning, maintenance and repair, and every rifle was issued with only one magazine. The magazine catch is located inside the triggerguard."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 174,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Enfield .303 Rifle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 204
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 32
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 10
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "d20_hvarms_004"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_hvarms_004"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "303"
+        }
+      }
+    ]
+  }
+}

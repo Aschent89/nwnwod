@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The following is written in blood and informs you of the laws of the wrym to which all  Black Spiral Dancers must follow.\n\n-Serve the Wyrm in all its forms \n-Beware the territory of another \n-Give safe passage to those of other Hives \n-Slay those who will not join us \nRespect all those who serve the Wyrm \n-The Veil shall not be lifted \n-Do not suffer thy people to tend to thy sickness in death \n-The leader may be challenged at any time in peace \n-The leader shall not be challenged in time of war \n-Ye shall take no action that causes a Pit to be violated \n\nBe true to what you are.........\n\nThe Black Spiral Dancers are Garou who have turned to the Wyrm. They live away from other Garou, generally underground, stroking the coils that bind them. Generations of inbreeding and radiation from close proximity to the Wyrm have twisted and warped this giggling gathering into ragged mutants; a curious, if not apropos parody of Garou themselves. Many have patagia, a thin membrane under the arms, similar to a pterodactyl, and ride the currents of darkness in delicious flight.\n\nInsanity is nothing if not a trademark of these forfeit creatures. If Metis, they claim this pathological idiosyncrasy as their birthright. Those \"turned\" must undergo malicious, psyche rending ordeals, much like the inishiation of Sabbot Malkavian, and are forced to walk the Black Spiral, after years of conditioning. \n\nTheir physical appearance in Homid is generally a bit... disconcerting, though some are breathtaking to behold. In Crinos, Dancers resemble Garou with large, oversized heads, and the long ears of a bat. Their eyes spark red or green, revealing the fevered insanity within, and their fur grows in either alabaster or grayish-green patches.\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": " - Garou Dark Litany"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 56
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 179
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gar_litanydark"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gar_litanydark"
+  }
+}

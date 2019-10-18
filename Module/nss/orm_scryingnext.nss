@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems Resting Menu
+//  orm_scryingnext
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Called from ORM Convo
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "orm_inc"
+
+void main()
+{
+  object oPC=GetPCSpeaker();
+  SetLocalInt(oPC,"scryingpage",GetLocalInt(oPC,"scryingpage")+1);
+}

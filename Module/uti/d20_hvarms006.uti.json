@@ -1,0 +1,281 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 2550
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 6
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 2750
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 5.56mm\n\nThe Negev is an Israeli 5.56 mm light machine gun, developed by Israel Military Industries Ltd. (IMI) of Ramat HaSharon (now Israel Weapon Industries), as a replacement for the 5.56 mm Galil ARM light machine gun, whose barrel would overheat easily during sustained fire. Design work on this new indigenous firearm began in 1985, and it was officially adopted by the Israeli Defense Forces (IDF) in 1997.\n\nThe Negev is a gas-operated automatic firearm that uses propellant gases from the barrel to cycle a short-stroke gas piston operating system under the barrel and a rotary bolt locking mechanism. The bolt itself features 4 radial locking lugs that engage the barrel extension and its rotation is controlled by a pin on the bolt body, which rides inside a camming guide machined into the bolt carrier. The bolt contains a spring-powered casing extractor unit, while a lever ejector is housed inside the receiver (it is rotated by the recoiling bolt carrier).\n\nIt is possible to fire a light machine gun from the hip or on the move, but this is generally inaccurate. They are usually fired from a prone position using a bipod.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: 5.56mm\n\nThe Negev is an Israeli 5.56 mm light machine gun, developed by Israel Military Industries Ltd. (IMI) of Ramat HaSharon (now Israel Weapon Industries), as a replacement for the 5.56 mm Galil ARM light machine gun, whose barrel would overheat easily during sustained fire. Design work on this new indigenous firearm began in 1985, and it was officially adopted by the Israeli Defense Forces (IDF) in 1997.\n\nThe Negev is a gas-operated automatic firearm that uses propellant gases from the barrel to cycle a short-stroke gas piston operating system under the barrel and a rotary bolt locking mechanism. The bolt itself features 4 radial locking lugs that engage the barrel extension and its rotation is controlled by a pin on the bolt body, which rides inside a camming guide machined into the bolt carrier. The bolt contains a spring-powered casing extractor unit, while a lever ejector is housed inside the receiver (it is rotated by the recoiling bolt carrier).\n\nIt is possible to fire a light machine gun from the hip or on the move, but this is generally inaccurate. They are usually fired from a prone position using a bipod.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 173,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Negev 5.56mm Light Machine Gun"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 74
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 200
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 33
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 31
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 16
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 35
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 3
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 11
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 81
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "d20_hvarms006"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_hvarms006"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "556"
+        }
+      }
+    ]
+  }
+}

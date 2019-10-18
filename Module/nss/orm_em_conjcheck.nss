@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems Resting Menu
+//  orm_em_conjcheck
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Called from ORM Convo
+//
+////////////////////////////////////////////////////////////////////////////////
+
+int StartingConditional()
+{
+  if(GetSkillRank(SKILL_SPELLCRAFT,GetPCSpeaker())>0) return TRUE;
+  else return FALSE;
+}

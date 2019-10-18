@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "REQUIEM OF THE PAST\n\n\nViktor grew up with his Family in Sylvania. They where wealthy and owned a Manor just outside the main city of Trigovishta. He was an only Child, his Father was a renowned Count. And his mother the Countess of Trigovishta. At the age of 25, he spent most of his days at his father's side. Learning the politics of the Government, as well as helping the people in any way or form. Insuring his rightful place as the next Count. But as fall came, and the leaves began to wilt, so did its people.\n\nIt was rumored amongst a faction known as \"the Empire\" that the Noblemen of Sylvania were all of the undead. Their emperor demanded retribution and the holy cleansing of these lands, and so his orders where carried out. the armies came from the west.  Murdering all that bore the mark of Nobility, and burning their estates to the ground. None where left alive.  \n\nEventually the Armies came to VIktors Manor. They took his father and mother outside. Tied them to a nearby tree covering them in oil. his parents begged for their very lives. But they received not even a frown from the Murauding force. Both his parents where burned alive, there screams scaring the young mind of Viktor who now tries to escape with his own life...\n\nViktor ran into the woods, hoping to slow their horses and out run the fully armored men. But it was no use, scouts quickly mobilized and caught up to the young noblemen, ensnaring him with a net. They tied his hands, and looped his head through a noose, stringing it over a large tree branch. all the while viktor's gaze was fixed on the setting sun, with an expression of hopelessness. As the soldiers made jokes and push him around, he couldn't help but shed a tear as his last remaining moment was shared with the dusk."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The Red Count (Legacy of Viktor von Stravokov) Volume 2: Requiem Of The Past"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 161
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "TheRedCountLegacyofViktorvonStra"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "stravobook2"
+  }
+}

@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Set Local For Armor Equips and Unequips
+//  ocr_startconv
+//  by Don Anderson
+//  dandersonru@msn.com
+//
+//  Used in Crafting Conversations
+//
+////////////////////////////////////////////////////////////////////////////////
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+
+  SetLocalInt(oPC,"CRAFTING_CONVO",1);
+}

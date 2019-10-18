@@ -1,0 +1,217 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 8
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10500
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The Colt company developed various carbine versions of the basic AR-15 / M16 rifle since 1970s. These carbines were intended for all markets - military, law enforcement, civilian. US Military (and some other armies, most notably - Israeli Self-Defense Forces) had adopted the Colt CAR-15 Commando and XM-177 carbines during the 1970s and 1980s. But early in 1990s the old idea of replacing the pistols in the hands of the troops with some more effective, shoulder fired weapon, rise again in the heads of the US Military. In fact, this idea can be dated back to the US M1 Carbine of 1941, but good ideas never die. So, in the 1994, US Army adopted the Colt Model 720 selective-fire carbine (basically, a shortened M16A2 rifle), as the US M4 Carbine. This weapon was intended to replace in service some M9 pistols, as well as some aged M3A1 submachine guns and some M16A2 rifles. New weapon was much more handy and comfortable to carry, than the long M16A2 rifle, so the US Special Operations Command (SOCOM) put its eye on the M4 as a possible universal weapon for all Special Operations community. For this purpose M4 was latter modified with the M16A3-style flat-top receiver with integral Picatinny-type accessory rail instead of the M16A2/M4-type integral carrying handle. The other change in the M4A1, when compared to M4, is that its trigger unit is modified to fire full-auto instead of the three shots bursts. Specially for the SOCOM M4A1s US Naval Surface Warfare Center developed a SOPMOD M4 kit, that consisted of the M4A1 carbine equipped with Rail Interface System (RIS) instead of the standard handguards. The kit also includes a variety of the add-on goodies, such as various sights (ACOG 4X telescopic, ACOG Reflex red-dot, detachable back-up open sights), laser pointers (visible and infra-red), detachable sound suppressor (silencer), modified M203 40mm grenade launcher (with shortened barrel and improved sights). The kit also included a detachable front grip and tactical light. \n\nFrom the first sight, the M4A1 SOPMOD is an ideal Special Operations weapon - handy, flexible, with good firepower. But the latest experience in the Afghanistan showed that the M4 has some flaws. First of all, the shorter barrel commands the lower bullet velocities, and this significantly decreased the effective range of the 5.56mm bullet. Second, the M4 barrel and the forend rapidly overheats. Third, the shortened barrel resulted in the shortened gas system, which works under greater pressures, than in M16A2 rifle. This increases the rate of fire and produces more stress on the moving parts, decreasing the reliability. While adequate as a Personal Defense Weapon for the non-infantry troops (vehicle crews, clerks, staff officers etc), M4A1 is, by some accounts, less than ideal for the Special Operations troops, at least in its present state. The idea of the complete re-arming of the US Army with the M4 as a money-saving measure, also is somewhat dubious.\n\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 170,
+    "type": "cexolocstring",
+    "value": {
+      "0": "ZLEGACY M4 Carbine (5.56mm assault rifle)"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 41
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 114
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 8
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 30
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "NW_WBWLN001"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_smarms015"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Craft"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "Mechanical"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "556"
+        }
+      }
+    ]
+  }
+}

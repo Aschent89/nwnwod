@@ -1,0 +1,371 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 1
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1467224
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 13517,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Forged in smoldering fires and cooled in the blood of its creator, this is the kind of weapon that has inspired more than a little diabolical laughter while being waved in the face of one or another virtuous knight. It is possessed of thoroughly heinous life-stealing energies, but if the fates of its previous owners are any indication, its major characteristic could well be the attraction of \"comeuppance.\"\n\nThe Akai'zhar slavers often rely on underhanded techniques to keep their slaves in line. When a particularly difficult slave is caught attempting to escape, they will sometimes be kept in line by poisoning, just enough to make them sick. The slavers then show the slave the antidote and force their cooperation. Most of these slavers allow their guards to carry weapons coated in the vile substance, for quick punishment or weakening an attacker.\n\nThese weapons are created by underground societies of war, whom revel in the blood and glory of the gladiatorial pit, where slaves and prisoners fight for their cruel amusement.\n\nIn recent years, a number of thieves' guilds reported losing members to these weapons, the weapons themselves left as gruesome signatures impaled in the victims' chests.  The craftsman behind them was unknown, but the intent of the group using them was clear enough; to destabilize existing groups to facilitate their own expansion.  It has been some time since the last killing, however, suggesting that the incursion was either abandoned or succeeded through less violent means.  Members of the underground community have not been forthcoming with information.\n\nNo one knows much about the mighty battle legions of the Akai'zhar, but if this is a representative of their armament, then it is no wonder the Nebarians fear them so. Now that time has passed, and the Akai'zhar is weak, these weapons are rarely found within Nebari's borders. Occasionally one turns up in the black markets, where it will sell for as much as a legion of modern mercenaries."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 13518,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Akai'zhar Kanarvan +6"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 204
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 151
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 54
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 36
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 9
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 15
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 6
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 6
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 33
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 43
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 15
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 74
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 24
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 3
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 10
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 2
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 48
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 19
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 25
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 8
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 52
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 24
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 62
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 5
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "AkaizharKanarvan6"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "akaizharkanar005"
+  }
+}

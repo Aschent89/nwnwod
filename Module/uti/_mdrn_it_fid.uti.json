@@ -1,0 +1,116 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 249
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 205
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 250
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Purchasing a falsified driver's license from a black market source can produce mixed results, depending on the skill of the forger. Typically, a forger has 1 to 4 ranks in the Forgery skill, with a +1 ability modifier. When a character purchases a fake ID, the GM secretly makes a Forgery check for the forger, which serves as the DC for the opposed check when someone inspects the fake ID.\n\nIn addition, this provides a +1 bonus to Disguise."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Purchasing a falsified driver's license from a black market source can produce mixed results, depending on the skill of the forger. Typically, a forger has 1 to 4 ranks in the Forgery skill, with a +1 ability modifier. When a character purchases a fake ID, the GM secretly makes a Forgery check for the forger, which serves as the DC for the opposed check when someone inspects the fake ID.\n\nIn addition, this provides a +1 bonus to Disguise."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Fake ID"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 47
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 109
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_fid"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_fid"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Skill"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 40
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "SkillBonus"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 1
+        }
+      }
+    ]
+  }
+}

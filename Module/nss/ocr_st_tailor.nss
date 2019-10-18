@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Tailoring
+//  ocr_st_tailor
+//  by Don Anderson
+//
+//  Place this on the On Closed Event of the Tailoring Placeables
+//
+////////////////////////////////////////////////////////////////////////////////
+
+void main()
+{
+    object oPC      = GetLastClosedBy();
+    object oMod     = GetModule();
+
+
+}

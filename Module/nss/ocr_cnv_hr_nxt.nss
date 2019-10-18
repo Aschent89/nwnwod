@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Appearance Changing
+//  ocr_cnv_hr_nxt
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Color PC Hair - Next Mode
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+  ColorPC(oPC,0,COLOR_CHANNEL_HAIR);
+}

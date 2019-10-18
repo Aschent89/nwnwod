@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "NUDE COSTUME ITEM\n\nWhen used on a submissive, this item will equip the player with a Nude Costume. This item is simply clothing with all the appearance numbers set to 0, giving the submissive the appearance of being naked, but allowing you to use the toys to add BDSM clothing accessories to their character.\n\nPENALTY TOYS\nThese toys apply penalties to a submissive, disabling their ability to fight or cast spells.\n\nLeash - Forces the submissive to follow the dominate.\n\nBlindfold - Blinds the submissive\n\nBall Gag / Phalic Gag - Silences the submissive\n\nIron Shackles - Binds the players hands behind their back, disabling their ability to cast spells and equip weapons or shields.\n\nSilk Rope - Paralyzes the submissive\n\nCollar With Bell - Makes it nearly impossible to move stealthily, applying -100 penalty to hide and move silently\n\nHood - Equips the submissive with a black leather hood that cannot be unequiped until the hood is destroyed by using the toy again. The hood makes it nearly impossible for the submissive to see or hear.\n\nCLOTHING ACCESSORY TOYS\nThese toys instantly add or remove certain clothing accessories to the submissive's clothing or Nude Costume, giving the fealing of the dominate \"dressing up\" the submissive during the course of an RP scene.\n\nNipple Clamps - Adds the appearance of a Nipple Chain to the slave's clothing. (Torso Model)\n\nButt Plug with Tail - Adds the appearance of an Animal Tail to the slave's clothing. There is three kinds : Cat Tail, Dog Tail, and Devil Tail. (Belt Model)\n\nChastity Belt : Adds the appearance of a Chastity Belt to the slave's clothing. (Pelvis Model)\n\nCock Sheath (Male Only) - Adds the appearance of a Cock Sheath to a male's clothing. (Pelvis Model)\n\nLeather Ankle Cuffs - Adds the appearance of Leather Ankle Cuffs to the slave's clothing. (Shin Model)\n\nLeather Thigh Cuffs (Female Only) - Adds the appearance of Leather Wrist Cuffs to a female's clothing (Thigh Model)\n\nLeather Wrist Cuffs - Adds the apperance of Leather Wrist Cuffs to a slave's clothing. (Forearm Model)\n\nStrap On Dildo (Female Only) Adds the appearance of a Strap On Dildo to a female's clothing.\n\nEMOTE ITEMS\nThese toys are simple emote items with sounds attached and nothing more. No consent conversations at all.\n\nDildo\nRibbed Anal Probe\nTickle Feather\nButt Plug\n\nSLAVE WHIP\nThis whip does no damage and has a special on hit spell that causes the submissive being whipped to cry out in pain and bleed.\n\nSLAVE COLLARS\nThe Slave Collars are magically enchanted amulets that are associated with a control leash, giving the master possessing the slave's control leash control over the submissive.\n\nTo collar a slave, use the Blank Slave Collar on another player. A consent conversation will appear, asking the player if they wish to be collared by you. If they agree, a Control Leash with the player's name will be created on you and a Slave Collar with your name will be created on the player. \n\nOnce you have the Control Leash, you may use it to bring up a menu and use the magic of the collar to do certain things to the slave\n\n--Attach a leash to the slave's collar, forcing them to follow you.\n-Strip off their clothing.\n-Disable or enable the slave's ability to cast spells.\n-Force the slave into a certain position, paralyze them, and then free them when you wish them to be able to move again.\n-Shock the slave.\n-Teleport the slave to your location (may be disabled on some servers).\n\nThe collars and leashs are associated with your Player CD keys, so only one leash may work on one collar and you may have multiple slaves.\n\nA player can only have one slave collar.\n\nThe player possessing the control leash associated with a suibmissive's collar may use any of the toys without consent conversations.\n\n\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "BDSM Toy Instructions"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 4
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 0
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "mr_bdsm_book"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "mr_bdsm_book"
+  }
+}

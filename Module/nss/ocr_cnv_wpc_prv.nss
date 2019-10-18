@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  Olander's Realistic Systems - Crafting Appearance Changing
+//  ocr_cnv_wpc_prv
+//  By Don Anderson
+//  dandersonru@msn.com
+//
+//  Color Weapon - Previous Mode
+//
+////////////////////////////////////////////////////////////////////////////////
+
+#include "ocr_include"
+
+void main()
+{
+  object oPC = GetPCSpeaker();
+  ColorWeapon(oPC,1);
+}

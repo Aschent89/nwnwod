@@ -1,0 +1,105 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 17
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cloth1Color": {
+    "type": "byte",
+    "value": 137
+  },
+  "Cloth2Color": {
+    "type": "byte",
+    "value": 138
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Combined with the armour it offers a modicum of protection."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "What is this? Like a strange cross between a protective helmet and a surgical brace, it seems to be made to be surgically attached to a skull. It does not quite fit a normal human head comfortably."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "Leather1Color": {
+    "type": "byte",
+    "value": 114
+  },
+  "Leather2Color": {
+    "type": "byte",
+    "value": 100
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Alien Head"
+    }
+  },
+  "Metal1Color": {
+    "type": "byte",
+    "value": 175
+  },
+  "Metal2Color": {
+    "type": "byte",
+    "value": 91
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 98
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 125
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_hm_alien01"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_hm_alien01"
+  }
+}

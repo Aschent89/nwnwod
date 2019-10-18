@@ -1,0 +1,203 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 750
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 8
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 900
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: .32\n\nThe Vz.61 Skorpion and its variants is manufactured by Ceska Zbrojovka (Uhersky Brod, Czech Republic). \n\nThe vz.61 Skorpion (vz. means \"vzor\" in Chech, or model in English) submachine gun was designed as a dual purpose weapon, intended to be used as an close combat assault weapon as well as a personal defence weapon, instead of the pistols. Small size makes this weapon wery suitable for concealed carry or for use in confined space, such as cars or aircrafts, so this gun became popular among both police, security and counter-terror units, as well as among some terroristic groups. \n\nvz.61 uses relatively weak 7.65mm Browning cartridge, so it employs simple blowback principle to operate. Gun features ambidextrous cocking handle (thwo small button-shaped handles on each side of the receiver). The safety/firing mode switch is located at the left side above the firing handle. Gun can be fired in single shots or in full auto. To decrease rate of fire to practical rate, vz.61 features rate reducer, that located in the handle and catches the bolt in the rearward position for the small amount of time after the each shot. \n\nThe vz.61 may be carried in the special holster, and may be fired single-handed or with two-hands grip, with or without the stock ectension, so it has slightly longer effective range than any pistol of the same caliber. \n\nThe variants of the vz.61 include almost itenthical to vz.61 models vz.82 and vz.83. Main difference is that those SMGs are chambered in different 9mm cartridges. The only external difference is that 9mm versions use straight box magazines, instead of the original curved box magazines. \n\nvz.61 and its variants are in use by some Chech, Slovenian, Egypt and Lybian units, as well as in other countries. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ammo Caliber: .32\n\nThe Vz.61 Skorpion and its variants is manufactured by Ceska Zbrojovka (Uhersky Brod, Czech Republic). \n\nThe vz.61 Skorpion (vz. means \"vzor\" in Chech, or model in English) submachine gun was designed as a dual purpose weapon, intended to be used as an close combat assault weapon as well as a personal defence weapon, instead of the pistols. Small size makes this weapon wery suitable for concealed carry or for use in confined space, such as cars or aircrafts, so this gun became popular among both police, security and counter-terror units, as well as among some terroristic groups. \n\nvz.61 uses relatively weak 7.65mm Browning cartridge, so it employs simple blowback principle to operate. Gun features ambidextrous cocking handle (thwo small button-shaped handles on each side of the receiver). The safety/firing mode switch is located at the left side above the firing handle. Gun can be fired in single shots or in full auto. To decrease rate of fire to practical rate, vz.61 features rate reducer, that located in the handle and catches the bolt in the rearward position for the small amount of time after the each shot. \n\nThe vz.61 may be carried in the special holster, and may be fired single-handed or with two-hands grip, with or without the stock ectension, so it has slightly longer effective range than any pistol of the same caliber. \n\nThe variants of the vz.61 include almost itenthical to vz.61 models vz.82 and vz.83. Main difference is that those SMGs are chambered in different 9mm cartridges. The only external difference is that 9mm versions use straight box magazines, instead of the original curved box magazines. \n\nvz.61 and its variants are in use by some Chech, Slovenian, Egypt and Lybian units, as well as in other countries. "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Skorpion Vz61 .32 caliber Machine Pistol"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 71
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 201
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 32
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 20
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 2
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "d20_smarms006"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "d20_smarms006"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "320"
+        }
+      }
+    ]
+  }
+}

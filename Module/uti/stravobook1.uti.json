@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "THE VON STRAVOKOV'S LEGACY\n\n\nIn a land far to the east crossing the Dead Sea lye's Sylvania. A land with majestic mountains, and Dark forests. So dark in fact it is also known as the \"Land of Eternal Night\". Why even the name Sylvania means \"forest land\".\n\nThis Country is secretly governed by a Ventrue CLan known as the von Stravokov's. Ancient rulers both loved, and feared by their inhabiting population. For following the laws of the land you where taken care of, and your lands prospered. Disobedience however was not taken lightly, and met with an iron fist form of punishment.\n\nThe People of Sylvania rumored about the Count's, some say they are vampires, as they are never seen by day. Others disregard the claims, praising their justified rule above all other inquiry's. Currently three Counts rule Sylvania. Count Vladimir, the most powerful and oldest amongst the von Stravokov's. He spends most of his nights consulting with the Noblemen. discussing Laws and the problems of the dark lands current affairs. \n\nThen there is Count Manfred. Spending most of his nights in his laboratory, conducting spells and experiments. Some of the other Vampires refer to him as being \"reborn\" behind his back for his curiosity, and dabbling in the Blood Magic of the Tremere.\n\nAnd then there is Count Viktor.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The Red Count (Legacy of Viktor von Stravokov) Volume 1: The Von Stravokov Legacy"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 161
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "TheRedCountLegacyoftheViktorvonS"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "stravobook1"
+  }
+}

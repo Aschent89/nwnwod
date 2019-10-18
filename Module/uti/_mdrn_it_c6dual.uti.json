@@ -1,0 +1,205 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 290
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 61
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 50
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 350
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 14074,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Colt Detective Special is one of famous Colt sixguns. Very popular among plain-cloth cops, security men and others, who needed a compact, reliable handgun. Colt Detective Special was introduced in 1927 and manufactured until 1936. Lately, Colt at least twice reintroduced this popular revolver, last time in 1973 as the Colt Detective Special 3rd issue (now discontinued). \n\nThe Colt Detective Special is a classic-style, swing out cylinder, double action compact revolver with fixed blade front sight and notch-style rear sights and full lenght ejector rod."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Colt Detective Special is one of famous Colt sixguns. Very popular among plain-cloth cops, security men and others, who needed a compact, reliable handgun. Colt Detective Special was introduced in 1927 and manufactured until 1936. Lately, Colt at least twice reintroduced this popular revolver, last time in 1973 as the Colt Detective Special 3rd issue (now discontinued). \n\nThe Colt Detective Special is a classic-style, swing out cylinder, double action compact revolver with fixed blade front sight and notch-style rear sights and full lenght ejector rod."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 14073,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Colt .38 Detective (dual-wield)"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 33
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 203
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 4
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 31
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 16
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 14
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 28
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 6
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 151
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 152
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "_mdrn_it_c6dual"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "_mdrn_it_c6dual"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "AmmoType"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "380"
+        }
+      }
+    ]
+  }
+}

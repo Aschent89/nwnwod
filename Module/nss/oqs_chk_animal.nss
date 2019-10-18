@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName oqs_chk_animal
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Ondaderthad
+//:: Created On: 21/08/2007 12:41:39 PM
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Make sure the player has the required skills
+    if(!GetHasSkill(SKILL_ANIMAL_EMPATHY, GetPCSpeaker()))
+        return FALSE;
+
+    return TRUE;
+}
