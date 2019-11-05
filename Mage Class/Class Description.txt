@@ -1,0 +1,47 @@
+Mage (Advanced Class)
+
+"Magick lives.  The Art of Change never went away.  Though the age of sorcerers has faded to mythology, magick holds a real and vibrant role in the world we know.   Don’t think so? Look around you.  We fly over oceans and look across time.  The distance between Dallas and Tokyo can fit in your pocket.  You could craft whole worlds out of numbers on a screen, or visit Africa without leaving your chair.  If that’s not magickal, what is?  Magick isn’t witches on brooms or demons conjured in the night.  It can be, but it isn’t limited to that. Magick is the force of possibility… and now, more than perhaps ever before, it seems as though all things are possible."
+
+Reality is not fixed, but rather a set of agreed upon assumptions enforced by the collective will of humanity, the Sleepers.  Mages are those people who recognize that reality is not static, and realize that through the application of their will, usually channelled through rituals or other similar "mystical" or "scientific" practices, reality can be changed.
+
+The specifics of their own beliefs, called a Paradigm, usually guides a mage into joining one of the following factions:
+
+• One of the nine mystical Traditions.  An ancient fellowship of mages of varying points of view whose devotion to mystic wonder ranges from weird science to bloody rituals.  They seek a return to the days of High Magick or a new dawn of mystic potential. Bitter enemies of the Technocracy, they appear to have been losing the battle for reality.
+
+• One of the five conventions of the Technocracy.  An organization founded at the beginning of the age of reason to bring science and truth to humanity.  They enforce global order under their enlightened guidance and protection.  Dedicated to wiping out Reality Deviants, they’ve spent over 500 years at war with the mystic Traditions.
+
+• One of the Disparate Crafts.  Mage sects who refuse to join a side and work instead to protect their ancestral ways and nurture their chosen people.  Often dismissed in the battle for reality, these groups have largely gone underground and now begin to band together for mutual protection.
+
+• The Marauders, mages whose paradigm has overwhelmed their sense of reality and see chaos as the ultimate truth.
+
+• The Nephandi, mages seeking to destroy or corrupt the world to whom light and hope are the ultimate hypocrisy.
+
+Ideally, mages strive toward a lofty goal: Ascension.  Problem is, they disagree about what Ascension means.  Should it be personal transcendence or universal peace? Does it look like heaven or does it strive against hell?  Is magick given by some god, or does it come from deep inside?  Will it be magic, faith, or science that makes the world a better place? Everyone’s got answers, but no one knows the truth.  And so, like religious creeds or political factions, mages fight about their ideals.  Out of good intentions, they drag their world toward an abyss.
+
+Prerequisites:
+Feat: Awakened
+Special: Must be Human.  (Acquiring a supernatural subrace such as Vampire will make you unable to cast mage spells or gain mage levels.)
+
+- Hit Die: d6.
+- Skill Points: 7 + Int Modifier.
+- Primary saving throw: Will.
+- Base attack bonus: 1/2 level.
+- Defense Bonus: 1-5.
+
+Class Skills: Computer Use (Int), Concentration (Con), Craft (chemical) (Int),  Craft (electronic) (Int),  Craft (mechanical) (Int), Craft (pharmaceutical) (Int), Craft (visual arts) (Int), Craft (writing) (Int), Decipher Script (Int), Investigate (Int), Knowledge (arcane lore, art, current events, earth and life sciences, physical sciences, popular culture, technology, theology) (Int), Profession (Wis), and Research (Int), Spellcraft (Int).
+
+Talents (Level granted):
+  
+Versatile Spellcasting (1) - Mages can cast any NWN spell, from any NWN class. (So wizard spells, druid spells, paladin spells etc.)
+
+Automatic Still Spell (1) - Mages do not incur spell failure when wearing armor.
+
+Familiar Potential (1) - Mages are not automatically able to summon a familiar, but can take summon familiar as a general feat.
+
+Mage Sect (1) - Mages must choose a sect.  Mechanically this only determines their Affinity School options.  But narratively this influences how a mage casts their Magick as well as their opinions, beliefs and philosophy.
+
+Affinity School (1) - Mages must choose an Affinity School.  This qualifies them to take spell focus in the school as a general feat.
+
+Paradox (1) - Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.  Because of it casting vulgar magick, especially in public, is not without consequence.
+
+Scribe Scroll (2) - Mages can create a scroll of any spell they know.
