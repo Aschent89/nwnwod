@@ -39,41 +39,6 @@
         "__struct_id": 6,
         "Area_Name": {
           "type": "resref",
-          "value": "welcome"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "theembrace"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "humanchoice"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "firstchange"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "chooseyourrole"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
           "value": "_nbde"
         }
       },
@@ -690,13 +655,6 @@
         "__struct_id": 6,
         "Area_Name": {
           "type": "resref",
-          "value": "uppersamedicrypt"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
           "value": "lowersamedicrypt"
         }
       },
@@ -705,6 +663,13 @@
         "Area_Name": {
           "type": "resref",
           "value": "area002"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "ors_noaccess"
         }
       }
     ]
@@ -889,23 +854,23 @@
   },
   "Mod_Entry_Area": {
     "type": "resref",
-    "value": "welcome"
+    "value": "ooc_lounge"
   },
   "Mod_Entry_Dir_X": {
     "type": "float",
-    "value": -0.07356492429971695
+    "value": 0.0
   },
   "Mod_Entry_Dir_Y": {
     "type": "float",
-    "value": -0.9972904324531555
+    "value": 1.0
   },
   "Mod_Entry_X": {
     "type": "float",
-    "value": 39.0
+    "value": 30.0
   },
   "Mod_Entry_Y": {
     "type": "float",
-    "value": 85.0
+    "value": 26.0
   },
   "Mod_Entry_Z": {
     "type": "float",
@@ -927,6 +892,34 @@
         "Mod_Hak": {
           "type": "cexostring",
           "value": "wod_top"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "country int v1.1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "q_!tilereskins"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "q_!tilesets"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "q_tilesets"
         }
       },
       {
@@ -1186,7 +1179,7 @@
   },
   "Mod_MinGameVer": {
     "type": "cexostring",
-    "value": "1.77"
+    "value": "1.80"
   },
   "Mod_MinPerHour": {
     "type": "byte",
@@ -1204,15 +1197,15 @@
   },
   "Mod_OnActvtItem": {
     "type": "resref",
-    "value": "wrap_mod_onact"
+    "value": "x2_mod_def_act"
   },
   "Mod_OnClientEntr": {
     "type": "resref",
-    "value": "d20_on_enter"
+    "value": "wod_mod_clienten"
   },
   "Mod_OnClientLeav": {
     "type": "resref",
-    "value": "wrap_mod_onexit"
+    "value": ""
   },
   "Mod_OnCutsnAbort": {
     "type": "resref",

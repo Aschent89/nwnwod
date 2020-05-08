@@ -1,0 +1,708 @@
+{
+  "__data_type": "GIC ",
+  "Creature List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      }
+    ]
+  },
+  "Door List": {
+    "type": "list",
+    "value": []
+  },
+  "Encounter List": {
+    "type": "list",
+    "value": []
+  },
+  "List": {
+    "type": "list",
+    "value": []
+  },
+  "Placeable List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 2 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "MODULE-WIDE BASE TREASURE CONTAINER\r\n\r\nThis is the medium treasure container for the entire module. Place whatever items you want distributed to the players in MEDIUM treasure scripts in this container. Place this container in an INACCESSIBLE area -- players should NEVER be able to reach it.\r\n\r\nYou should only have ONE of these containers in a module.\r\n"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "MODULE-WIDE BASE TREASURE CONTAINER\r\n\r\nThis is the low treasure container for the entire module. Place whatever items you want distributed to the players in LOW treasure scripts in this container. Place this container in an INACCESSIBLE area -- players should NEVER be able to reach it.\r\n\r\nYou should only have ONE of these containers in a module.\r\n"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 2 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "This is the Commodities and Contracts System Chest.\r\n\r\nYou will need a BUY Chest for each Commodity/Bounty an NPC will be control of. The NPC must have the same Tag as the Chest.\r\n\r\nSimply place up to 10 items in this chest and the conversation will automatically set these up.\r\n\r\nChest Values mean something.\r\n\r\nHP - Percentage of the NWN GP Value for Buying and Selling (100% is same price).\r\n\r\nFortitude Save - High Price Season\r\n  0 - All Seasons Same Price\r\n  1 - Winter\r\n  2 - Spring\r\n  3 - Summer\r\n  4 - Autumn\r\n\r\nReflex Save - Bonus Percentage for Bulk deliveries (Range 0 to 100)\r\n\r\nWill Save - Minimum Quantity for Bulk Bonus (Range 0 to 250)\r\n\r\nReflex and Will Saves are not used in Selling."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "This is the Commodities and Contracts System Chest.\r\n\r\nYou will need a BUY Chest for each Commodity/Bounty an NPC will be control of. The NPC must have the same Tag as the Chest.\r\n\r\nSimply place up to 10 items in this chest and the conversation will automatically set these up.\r\n\r\nChest Values mean something.\r\n\r\nHP - Percentage of the NWN GP Value for Buying and Selling (100% is same price).\r\n\r\nFortitude Save - High Price Season\r\n  0 - All Seasons Same Price\r\n  1 - Winter\r\n  2 - Spring\r\n  3 - Summer\r\n  4 - Autumn\r\n\r\nReflex Save - Bonus Percentage for Bulk deliveries (Range 0 to 100)\r\n\r\nWill Save - Minimum Quantity for Bulk Bonus (Range 0 to 250)\r\n\r\nReflex and Will Saves are not used in Selling."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "MODULE-WIDE BASE TREASURE CONTAINER\r\n\r\nThis is the high treasure container for the entire module. Place whatever items you want distributed to the players in HIGH treasure scripts in this container. Place this container in an INACCESSIBLE area -- players should NEVER be able to reach it.\r\n\r\nYou should only have ONE of these containers in a module.\r\n"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "MODULE-WIDE BASE TREASURE CONTAINER\r\n\r\nThis is the unique treasure container for the entire module. Place whatever items you want distributed to the players in UNIQUE treasure scripts in this container. Place this container in an INACCESSIBLE area -- players should NEVER be able to reach it.\r\n\r\nYou should only have ONE of these containers in a module.\r\n\r\nNOTE -- items placed in this chest will only be distributed once ever in a module. Once they are given out, the items will be removed from the chest. "
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chest - 1 (Low treasure script)"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Signpost - 3"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Merchants Shingle - 6"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Merchants Shingle - 6"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Draconic Signs by Anaeles\r\n"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Source: Placeable Pak by Schazzwozzer\r If set to usable, the crystal will stop 'shining' if clicked. Edited by SBird for CEP."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Source: Placeable Pak by Schazzwozzer Edited by SBird for CEP."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Source: Placeable Pak by Schazzwozzer Edited by SBird for CEP."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Source: Placeable Pak by Schazzwozzer Edited by SBird for CEP."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Statue - Stone"
+        }
+      }
+    ]
+  },
+  "SoundList": {
+    "type": "list",
+    "value": []
+  },
+  "StoreList": {
+    "type": "list",
+    "value": []
+  },
+  "TriggerList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": "ORSv5 Builder's Guide Configuration:\r\n\r\nDescription:\r\nORSv5 Simple Area Transitioning is a 'No-Click' variant of the standard NWN Area Transitions. These transtions setup much faster than linking transtions the 'Old Way' plus there is nothing to click. Linking areas is simply painting the ORS_Transition Trigger and editing the variables to the Destination Area and Compass Location of Trigger in the From Area (i.e.  WDWA2   and  S). The From Area Trigger will find the Destination Area and place the Creature at the proper spot.\r\n\r\nThis script works for any creature. With the OAI as the Module AI creatures automatically migrate and roam.....when they enter an ORS_Transition they will transition and continue to roam and migrate.....Naturally.\r\n\r\nFeatures:\r\n- No Complicated Grids (Helps with building in the ORS Grid System)....Any Area Tag will work. Area Tags MUST be Unique!!\r\n- Easy to build with.\r\n- Works perfectly in combination with Bioware Transitions.\r\n- Each Area can keep any Naming Convention you have.\r\n- Low CPU hit with smart code.\r\n- 10 Second Anti-Cheat\r\n\r\nThis system requires 16x16 Areas for the ORS. It is excellent for above ground locations where travel from location to location happen. Since the Old NWN Transitions still function you can use them for Underground and Irregular shaped areas.\r\n\r\nTip: To Enter and Leave Irregular shaped areas.....use Door Style Transitions instead of painted AT Triggers. It looks nicer and keeps the feel of Free Roaming. \r\n\r\nCredits:\r\nJaga Te'lesin - ALL-IN-ONE SEAMLESS AREA TRANSITIONER for the Area Location Math.\r\n\r\nPalette Location\r\nTriggers>Special>Custom 5\r\n\r\n1) Open Destination Area and Copy the Area Tag\r\n\r\n2) Paint this Trigger down.....try to keep the width roughly 2 to 3 Meters if possible. This is to insure accidental transitions during exploration. 3 Meters is plenty for any creature in NWN.\r\n\r\nAcceptable Locations are:\r\nNorth, Northeast, Northwest\r\nSouth, Southeast, Southwest\r\nEast\r\nWest\r\n\r\nPlease See Tutorial Module for Example on how to set up ORS Transitions.\r\n\r\n3) Edit a Painted Trigger then Click Advanced Tab then click Variables\r\n\r\n4) Variable => DestAreaTag  paste/type  Destination Area Tag\r\n\r\n5) Variable => CompassLocation  paste/type  Compass Location of the Trigger in the From Area.\r\nN, NE, NW, S, SE, SW, E, W\r\n\r\nFor example.....\r\nTo/Destination Area => WDW_A2\r\nFrom/Source Area => WDW_A1\r\nTrigger Location in From/Source Area => South.....  S  <= Variable\r\n\r\nSo when the player enters this trigger the S will tell the script which Math to use to place the Player at the Proper spot in the To/Destination Area with that particular Tag. So....in essence.....you could Transition three or four or very long distance across your map/grid.\r\n\r\n6) Click Ok....Edit the rest in this area.....done."
+        }
+      }
+    ]
+  },
+  "WaypointList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": "This is the default waypoint you may place to set a patrol path for a creature or NPC.\r\n1. Create the creature and either use its current Tag or fill in a new one.\r\n2. Place or make sure the WalkWayPoints() is within the body of the On Spawn script for the creature.\r\n3. Place a series of waypoints along the route you wish the creature to walk.\r\n4. Select all of the newly created waypoints and right click. Choose the Create Set option.\r\n5. The waypoint set will have a set name of \"WP_\" + NPC Tag. Thus if an NPC with the Tag \"Guard\" will have a waypoint set called \"WP_Guard\". Note that Tags are case sensitive."
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": "On the Advanced tab, replace <Place text here> with whatever information you wish to appear on the Map of an area."
+        }
+      }
+    ]
+  }
+}

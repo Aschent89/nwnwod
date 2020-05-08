@@ -211,7 +211,7 @@ int CLASS_TYPE_OCCULTIST = 55;
 
 int SKILL_BALANCE = 27;
 int SKILL_CLIMB = 28;
-int SKILL_COMPUTER_USE = 29;
+const int SKILL_COMPUTER_USE = 29;
 int SKILL_CRAFT_CHEMICAL = 30;
 int SKILL_CRAFT_ELECTRONIC = 31;
 int SKILL_CRAFT_MECHANICAL = 32;
@@ -397,3 +397,5 @@ int APPEARANCE_TYPE_MDRN_EWING_SMALL = 2003;
 2024      "[mdrn]hover16"                                       ****           v016                           v016                ****               W             L             2.1             1                   1                  1                  VFAST        2.58         3.66        1.1          2.0             1          1           1.9              H                1                4              1           1           ****               5                9                  -1               52               1             60             30             head_g              0            1
 2025      "[mdrn]hover17"                                       ****           v017                           v017                ****               W             L             2.1             1                   1                  1                  VFAST        2.58         3.66        1.1          2.0             1          1           1.9              H                1                4              1           1           ****               5                9                  -1               52               1             60             30             head_g              0            1
 */
+
+//void main(){}

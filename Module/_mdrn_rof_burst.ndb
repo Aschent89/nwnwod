@@ -1,0 +1,353 @@
+NDB V1.0
+0000004 0000001 0000172 0000023 0000082
+n00 _mdrn_include
+n01 _mdrn_char_core
+n02 _mdrn_rof
+N03 _mdrn_rof_burst
+s 03 vector
+sf f x
+sf f y
+sf f z
+f ffffffff ffffffff 000 i MDRN_DEBUG
+f ffffffff ffffffff 000 i INFAMOUS_THRESHOLD
+f ffffffff ffffffff 000 s PCSKIN
+f ffffffff ffffffff 000 s PCFIST
+f ffffffff ffffffff 000 i CLASS_TYPE_TOUGH
+f ffffffff ffffffff 000 i CLASS_TYPE_CHARISMATIC
+f ffffffff ffffffff 000 i CLASS_TYPE_ACOLYTE
+f ffffffff ffffffff 000 i CLASS_TYPE_DEDICATED
+f ffffffff ffffffff 000 i CLASS_TYPE_STRONG
+f ffffffff ffffffff 000 i CLASS_TYPE_SMART
+f ffffffff ffffffff 000 i CLASS_TYPE_FAST
+f ffffffff ffffffff 000 i CLASS_TYPE_MAGE
+f ffffffff ffffffff 000 i FEAT_DOUBLE_TAP
+f ffffffff ffffffff 000 i FEAT_AGILERIPOSTE
+f ffffffff ffffffff 000 i FEAT_AIRCRAFTOP_HELICOPTER
+f ffffffff ffffffff 000 i FEAT_ANIMALAFFINITY
+f ffffffff ffffffff 000 i FEAT_ATHLETIC
+f ffffffff ffffffff 000 i FEAT_ATTENTIVE
+f ffffffff ffffffff 000 i FEAT_AUTOFIRE
+f ffffffff ffffffff 000 i FEAT_BRAWL
+f ffffffff ffffffff 000 i FEAT_BUILDER_CHEMICAL
+f ffffffff ffffffff 000 i FEAT_BUILDER_ELECTRONIC
+f ffffffff ffffffff 000 i FEAT_BUILDER_MECHANICAL
+f ffffffff ffffffff 000 i FEAT_BUILDER_STRCTURAL
+f ffffffff ffffffff 000 i FEAT_BURST_FIRE
+f ffffffff ffffffff 000 i FEAT_CAUTIOUS
+f ffffffff ffffffff 000 i FEAT_CONFIDENT
+f ffffffff ffffffff 000 i FEAT_DEAD_AIM
+f ffffffff ffffffff 000 i FEAT_DECEPTIVE
+f ffffffff ffffffff 000 i FEAT_EDUCATED
+f ffffffff ffffffff 000 i FEAT_ENDURANCE
+f ffffffff ffffffff 000 i FEAT_FARSHOT
+f ffffffff ffffffff 000 i FEAT_FOCUSED
+f ffffffff ffffffff 000 i FEAT_FRIGHTFUL_PRESENCE
+f ffffffff ffffffff 000 i FEAT_GEARHEAD
+f ffffffff ffffffff 000 i FEAT_GUIDE
+f ffffffff ffffffff 000 i FEAT_IMPROVED_BRAWL
+f ffffffff ffffffff 000 i FEAT_LOW_PROFILE
+f ffffffff ffffffff 000 i FEAT_MEDICAL_EXPERT
+f ffffffff ffffffff 000 i FEAT_METICULOUS
+f ffffffff ffffffff 000 i FEAT_NIMBLE
+f ffffffff ffffffff 000 i FEAT_PERSONAL_FIREARMS_PROFICIENCY
+f ffffffff ffffffff 000 i FEAT_RENOWN
+f ffffffff ffffffff 000 i FEAT_RUN
+f ffffffff ffffffff 000 i FEAT_RELOAD
+f ffffffff ffffffff 000 i FEAT_STREET_FIGHTING
+f ffffffff ffffffff 000 i FEAT_STUDIOUS
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_HEAVY
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_BOAT
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_SHIP
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_TRACKED
+f ffffffff ffffffff 000 i FEAT_TRACK
+f ffffffff ffffffff 000 i FEAT_TRUSTWORTHY
+f ffffffff ffffffff 000 i FEAT_WINDFALL
+f ffffffff ffffffff 000 i FEAT_ADVANCED_FIREARMS_PROFICIENCY
+f ffffffff ffffffff 000 i FEAT_EXOTIC_FIREARMS_PROFICIENCY
+f ffffffff ffffffff 000 i FEAT_AIRCRAFTOP_JET
+f ffffffff ffffffff 000 i FEAT_QUICK_RELOAD
+f ffffffff ffffffff 000 i FEAT_WEAPON_PROFICIENCY_ARCHAIC
+f ffffffff ffffffff 000 i SKILL_BALANCE
+f ffffffff ffffffff 000 i SKILL_CLIMB
+f ffffffff ffffffff 000 i SKILL_COMPUTER_USE
+f ffffffff ffffffff 000 i SKILL_CRAFT_CHEMICAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_ELECTRONIC
+f ffffffff ffffffff 000 i SKILL_CRAFT_MECHANICAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_PHARMACEUTICAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_STRUCTURAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_VISUAL_ART
+f ffffffff ffffffff 000 i SKILL_CRAFT_WRITING
+f ffffffff ffffffff 000 i SKILL_DECIPHER_SCRIPT
+f ffffffff ffffffff 000 i SKILL_DEMOLITIONS
+f ffffffff ffffffff 000 i SKILL_DISABLE_DEVICE
+f ffffffff ffffffff 000 i SKILL_DISGUISE
+f ffffffff ffffffff 000 i SKILL_DRIVE
+f ffffffff ffffffff 000 i SKILL_ESCAPE_ARTIST
+f ffffffff ffffffff 000 i SKILL_FORGERY
+f ffffffff ffffffff 000 i SKILL_GAMBLE
+f ffffffff ffffffff 000 i SKILL_GATHER_INFORMATION
+f ffffffff ffffffff 000 i SKILL_INVESTIGATE
+f ffffffff ffffffff 000 i SKILL_JUMP
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_ARCANE_LORE
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_ART
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_BEHAVIORAL_SCIENCES
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_BUSINESS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_CIVICS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_CURRENT_EVENTS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_EARTH_SCIENCES
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_HISTORY
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_PHYSICAL_SCIENCES
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_POPULAR_CULTURE
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_STREETWISE
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_TACTICS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_TECHNOLOGY
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_THEOLOGY_AND_PHILOSOPHY
+f ffffffff ffffffff 000 i SKILL_NAVIGATE
+f ffffffff ffffffff 000 i SKILL_PILOT
+f ffffffff ffffffff 000 i SKILL_REPAIR
+f ffffffff ffffffff 000 i SKILL_RESEARCH
+f ffffffff ffffffff 000 i SKILL_SENSE_MOTIVE
+f ffffffff ffffffff 000 i SKILL_SLEIGHT_OF_HAND
+f ffffffff ffffffff 000 i SKILL_SURVIVAL
+f ffffffff ffffffff 000 i SKILL_PROFESSION
+f ffffffff ffffffff 000 i SKILL_HANDLE_ANIMAL
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAGAZINE
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_BOX
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_CYLINDER
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_INTERNAL
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_LINKED
+f ffffffff ffffffff 000 i ITEM_PROPERTY_RATE_OF_FIRE
+f ffffffff ffffffff 000 i IP_CONST_ROF_SINGLESHOT
+f ffffffff ffffffff 000 i IP_CONST_ROF_SEMI_AUTOMATIC
+f ffffffff ffffffff 000 i IP_CONST_ROF_AUTOMATIC
+f ffffffff ffffffff 000 i BASE_ITEM_HEAVYARM_D12
+f ffffffff ffffffff 000 i BASE_ITEM_HEAVYARM_D10
+f ffffffff ffffffff 000 i BASE_ITEM_SMALLARM_D8
+f ffffffff ffffffff 000 i BASE_ITEM_SMALLARM_D6
+f ffffffff ffffffff 000 i BASE_ITEM_HEAVY_WEAPON
+f ffffffff ffffffff 000 i BASE_ITEM_AMMO_ROUNDS
+f ffffffff ffffffff 000 i BASE_ITEM_AMMO_SMALL
+f ffffffff ffffffff 000 i BASE_ITEM_AMMO_HEAVY
+f ffffffff ffffffff 000 i INVENTORY_SLOT_AMMO_SMALL
+f ffffffff ffffffff 000 i INVENTORY_SLOT_AMMO_HEAVY
+f ffffffff ffffffff 000 i REPUTATION_RECOGNIZED
+f ffffffff ffffffff 000 i REPUTATION_IGNORED
+f ffffffff ffffffff 000 i ATTITUDE_FAMOUS
+f ffffffff ffffffff 000 i ATTITUDE_INFAMOUS
+f ffffffff ffffffff 000 i DAMAGE_TYPE_BALLISTIC
+f ffffffff ffffffff 000 i DAMAGE_TYPE_ENERGY
+f 000005a0 00000638 001 v SendDebugMessage
+fp s
+f 0000076a 000007e3 003 s DebugGet2DAString
+fp s
+fp s
+fp i
+f ffffffff ffffffff 000 o InvalidObject
+f ffffffff ffffffff 000 e4 InvalidItemProperty
+f ffffffff ffffffff 002 i getItemHasProperty
+fp o
+fp e4
+f ffffffff ffffffff 000 v MdrnDebugger
+f ffffffff ffffffff 001 s ipTypeToString
+fp i
+f ffffffff ffffffff 001 s ipSkillSubTypeToString
+fp i
+f ffffffff ffffffff 001 s FeatNameToString
+fp i
+f ffffffff ffffffff 001 s ipParam1ToString
+fp i
+f ffffffff ffffffff 002 s ipParam1ValueToString
+fp i
+fp i
+f ffffffff ffffffff 002 o GetPCCoreInInventory
+fp o
+fp s
+f ffffffff ffffffff 002 i GetIsWearingPCCore
+fp o
+fp s
+f ffffffff ffffffff 002 v EquipPCCore
+fp o
+fp s
+f ffffffff ffffffff 002 o GetPCCore
+fp o
+fp s
+f ffffffff ffffffff 002 i GetIsPassiveFeatEffectApplied
+fp e4
+fp o
+f ffffffff ffffffff 002 i AddPassiveFeatSkillBonus
+fp i
+fp o
+f ffffffff ffffffff 001 v LoadPassiveFeats
+fp o
+f ffffffff ffffffff 002 e4 GetMdrnIPAttackBonus
+fp o
+fp i
+f ffffffff ffffffff 002 i GetMdrnAttackBonus
+fp o
+fp i
+f ffffffff ffffffff 002 v MdrnIncreaseAttackBonus
+fp i
+fp o
+f ffffffff ffffffff 002 v MdrnDecreaseAttackBonus
+fp i
+fp o
+f ffffffff ffffffff 002 v SetMdrnAttackBonus
+fp i
+fp o
+f ffffffff ffffffff 001 i GetCoreItemSlot
+fp s
+f ffffffff ffffffff 002 v MdrnAttackBonusIncrease
+fp i
+fp o
+f ffffffff ffffffff 002 v MdrnAttackBonusDecrease
+fp i
+fp o
+f ffffffff ffffffff 003 v ManageWeaponProfs
+fp o
+fp o
+fp i
+f ffffffff ffffffff 001 o GetGun
+fp o
+f 00000638 0000076a 001 i GetGunRate
+fp o
+f ffffffff ffffffff 001 i GetGunMagazine
+fp o
+f ffffffff ffffffff 001 i GetGunMagazineSize
+fp o
+f 000007e3 000008f7 001 i GetAmmoType
+fp i
+f 000008f7 000009ba 001 i GetAmmoSlot
+fp i
+f ffffffff ffffffff 004 v CreateAmmoMag
+fp o
+fp o
+fp i
+fp i
+f ffffffff ffffffff 001 v DestroyAmmoMag
+fp o
+f ffffffff ffffffff 002 i ReloadAmmo
+fp o
+fp o
+f ffffffff ffffffff 002 v ManageEquipedGuns
+fp o
+fp o
+f ffffffff ffffffff 002 v ManageEquipedAmmo
+fp o
+fp o
+f ffffffff ffffffff 002 v ManageUnequipedGuns
+fp o
+fp o
+f ffffffff ffffffff 002 v ManageUnequipedAmmo
+fp o
+fp o
+f ffffffff ffffffff 001 v ManageNPCCombatRoundEnd
+fp o
+f ffffffff ffffffff 001 v ManageNPCAmmo
+fp o
+f 00000015 000005a0 000 v main
+f 0000000d 00000015 000 v #loader
+v 00000017 00000598 00000000 o oTarget
+v 000000bb 00000598 00000004 o oWeapon
+v 00000195 00000598 00000008 i iGunType
+v 000001b2 00000598 0000000c i iAmmoType
+v 000001d2 00000598 00000010 o oAmmo
+v 000001fd 00000598 00000014 i iAmmoCount
+v 000002cb 00000598 00000018 e0 eBurstAttackDecrease
+v 00000348 0000058c 0000001c e0 eDamage
+v 0000052b 0000058c 00000020 e0 eHit
+v 000005a0 00000630 00000000 s sText
+v 000005d0 00000624 00000004 o oPC
+v 00000638 00000768 00000000 i #retval
+v 00000638 00000762 00000004 o oItem
+v 0000063a 0000075c 00000008 e4 ipCurProp
+v 00000685 0000070d 0000000c i iSubType
+v 0000076a 000007e1 00000000 s #retval
+v 0000076a 000007db 00000004 i row
+v 0000076a 000007db 00000008 s column
+v 0000076a 000007db 0000000c s name
+v 000007e3 000008f5 00000000 i #retval
+v 000007e3 000008ef 00000004 i iItemType
+v 000008f7 000009b8 00000000 i #retval
+v 000008f7 000009b2 00000004 i iItemType
+l03 0000007 00000015 0000002a
+l03 0000009 0000002a 00000069
+l03 0000010 00000069 00000079
+l03 0000011 0000007f 000000a7
+l03 0000012 000000a7 000000b3
+l03 0000015 000000b9 000000da
+l03 0000016 000000da 000000f0
+l03 0000017 000000f0 00000135
+l03 0000019 0000013b 0000015e
+l03 0000020 0000015e 0000016a
+l03 0000023 00000170 00000193
+l03 0000024 00000193 000001b0
+l03 0000025 000001b0 000001d0
+l03 0000026 000001d0 000001fb
+l03 0000027 000001fb 00000218
+l03 0000028 00000218 00000228
+l03 0000029 0000022e 00000261
+l03 0000030 00000261 0000026d
+l03 0000032 00000273 0000028b
+l03 0000033 00000291 000002a4
+l03 0000034 000002aa 000002ac
+l03 0000035 000002ac 000002c9
+l03 0000038 000002c9 000002ef
+l03 0000039 000002ef 00000302
+l03 0000040 00000308 00000327
+l03 0000043 0000032d 00000340
+l03 0000044 00000346 00000348
+l03 0000045 00000348 00000358
+l03 0000046 0000035e 000003af
+l03 0000047 000003b5 000003b7
+l03 0000048 000003cd 0000041e
+l03 0000049 00000424 00000426
+l03 0000050 0000043c 0000048d
+l03 0000051 00000493 00000495
+l03 0000052 000004ab 000004fc
+l03 0000053 00000502 00000504
+l03 0000054 00000504 00000529
+l03 0000056 00000529 0000054a
+l03 0000057 0000054a 0000056b
+l03 0000059 0000056b 0000058c
+l03 0000065 0000059e 000005a0
+l00 0000020 000005a0 000005ae
+l00 0000021 000005b4 000005c1
+l00 0000022 000005c1 000005ce
+l00 0000023 000005ce 000005e3
+l00 0000024 000005e3 000005f6
+l00 0000025 000005f6 0000060b
+l00 0000026 0000060b 0000061e
+l00 0000029 00000630 00000638
+l02 0000068 00000638 00000655
+l02 0000070 00000655 00000668
+l02 0000072 00000668 0000067d
+l02 0000073 00000683 000006a0
+l02 0000074 000006a0 000006eb
+l02 0000076 000006eb 0000070d
+l02 0000078 00000719 00000734
+l02 0000081 0000073a 0000075c
+l02 0000082 00000762 0000076a
+l00 0000038 0000076a 00000778
+l00 0000039 0000077e 000007b5
+l00 0000040 000007bb 000007bd
+l00 0000041 000007bd 000007db
+l00 0000042 000007db 000007e3
+l02 0000121 000007e3 00000849
+l02 0000122 00000849 00000849
+l02 0000123 00000849 00000869
+l02 0000124 00000869 00000869
+l02 0000125 00000869 00000889
+l02 0000126 00000889 00000889
+l02 0000127 00000889 000008a9
+l02 0000128 000008a9 000008a9
+l02 0000129 000008a9 000008c9
+l02 0000131 000008cf 000008ef
+l02 0000132 000008ef 000008f7
+l02 0000135 000008f7 00000912
+l02 0000136 00000912 0000094c
+l02 0000137 0000094c 0000094c
+l02 0000138 0000094c 0000096c
+l02 0000139 0000096c 0000096c
+l02 0000140 0000096c 0000098c
+l02 0000142 00000992 000009b2
+l02 0000143 000009b2 000009ba

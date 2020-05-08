@@ -282,7 +282,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141587495803833
+          "value": -3.141586065292358
         },
         "CloseLockDC": {
           "type": "byte",
@@ -5274,7 +5274,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141587495803833
+          "value": -3.141586065292358
         },
         "CloseLockDC": {
           "type": "byte",
@@ -5493,7 +5493,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 1.570794463157654
+          "value": 1.570794224739075
         },
         "CloseLockDC": {
           "type": "byte",
@@ -5978,121 +5978,6 @@
                 "type": "byte",
                 "value": 0
               }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "Comment": {
-                "type": "cexostring",
-                "value": ""
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "Comment": {
-                "type": "cexostring",
-                "value": ""
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "Comment": {
-                "type": "cexostring",
-                "value": ""
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor001"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "Comment": {
-                "type": "cexostring",
-                "value": ""
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor002"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "Comment": {
-                "type": "cexostring",
-                "value": ""
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor003"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
             }
           ]
         },
@@ -6132,6 +6017,10 @@
             },
             {
               "__struct_id": 1,
+              "Comment": {
+                "type": "cexostring",
+                "value": ""
+              },
               "X": {
                 "type": "float",
                 "value": 0.0
@@ -6147,6 +6036,10 @@
             },
             {
               "__struct_id": 1,
+              "Comment": {
+                "type": "cexostring",
+                "value": ""
+              },
               "X": {
                 "type": "float",
                 "value": -0.0607452392578125
@@ -6162,6 +6055,10 @@
             },
             {
               "__struct_id": 1,
+              "Comment": {
+                "type": "cexostring",
+                "value": ""
+              },
               "X": {
                 "type": "float",
                 "value": 10.08867645263672
@@ -6177,6 +6074,10 @@
             },
             {
               "__struct_id": 1,
+              "Comment": {
+                "type": "cexostring",
+                "value": ""
+              },
               "X": {
                 "type": "float",
                 "value": 10.08866882324219
@@ -6277,6 +6178,10 @@
           "type": "byte",
           "value": 1
         },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
         "CreatureList": {
           "type": "list",
           "value": [
@@ -6316,101 +6221,6 @@
               "SingleSpawn": {
                 "type": "byte",
                 "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor001"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor002"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor003"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
               }
             }
           ]
@@ -6632,101 +6442,6 @@
                 "type": "byte",
                 "value": 0
               }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor001"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor002"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor003"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
             }
           ]
         },
@@ -6942,25 +6657,6 @@
               "ResRef": {
                 "type": "resref",
                 "value": "nw_zombie02"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
               },
               "SingleSpawn": {
                 "type": "byte",
@@ -7186,101 +6882,6 @@
                 "type": "byte",
                 "value": 0
               }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor001"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor002"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 1
-              },
-              "CR": {
-                "type": "float",
-                "value": 7.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "samedibokor003"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 1
-              }
             }
           ]
         },
@@ -7496,25 +7097,6 @@
               "ResRef": {
                 "type": "resref",
                 "value": "nw_zombie02"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
               },
               "SingleSpawn": {
                 "type": "byte",
@@ -7740,25 +7322,6 @@
                 "type": "byte",
                 "value": 0
               }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
             }
           ]
         },
@@ -7974,25 +7537,6 @@
               "ResRef": {
                 "type": "resref",
                 "value": "nw_zombie02"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
               },
               "SingleSpawn": {
                 "type": "byte",
@@ -8218,25 +7762,6 @@
                 "type": "byte",
                 "value": 0
               }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
             }
           ]
         },
@@ -8452,25 +7977,6 @@
               "ResRef": {
                 "type": "resref",
                 "value": "nw_zombie02"
-              },
-              "SingleSpawn": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 0,
-              "Appearance": {
-                "type": "int",
-                "value": 88
-              },
-              "CR": {
-                "type": "float",
-                "value": 4.0
-              },
-              "ResRef": {
-                "type": "resref",
-                "value": "jujuzombie"
               },
               "SingleSpawn": {
                 "type": "byte",
@@ -15200,7 +14706,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.9326589107513428
+          "value": -0.9326586127281189
         },
         "BodyBag": {
           "type": "byte",
@@ -16100,7 +15606,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 2.994325399398804
+          "value": 2.994324207305908
         },
         "BodyBag": {
           "type": "byte",
@@ -16775,7 +16281,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 0.834484338760376
+          "value": 0.8344839811325073
         },
         "BodyBag": {
           "type": "byte",
@@ -21950,7 +21456,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.9326590299606323
+          "value": -0.9326587319374085
         },
         "BodyBag": {
           "type": "byte",
@@ -37250,7 +36756,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.920694589614868
+          "value": -2.920693397521973
         },
         "BodyBag": {
           "type": "byte",
@@ -37475,7 +36981,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 1.963492631912231
+          "value": 1.963492035865784
         },
         "BodyBag": {
           "type": "byte",
@@ -46250,7 +45756,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 3.141587972640991
+          "value": 3.141586542129517
         },
         "BodyBag": {
           "type": "byte",
@@ -47600,7 +47106,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.724345445632935
+          "value": -2.724344253540039
         },
         "BodyBag": {
           "type": "byte",

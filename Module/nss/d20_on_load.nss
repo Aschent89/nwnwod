@@ -3,16 +3,10 @@
     Sets module variables
 */
 #include "x2_inc_switches"
-#include "mvd_02_init"
 #include "nwnx_events"
 
 void main()
 {
-    MvD_02_ModInit();
-    ExecuteScript("ors_mod_onload",OBJECT_SELF); // Olander's Realistic Systems - Master Configurations Script
-    ExecuteScript("x2_mod_def_load",OBJECT_SELF); // Default Bioware
-    ExecuteScript("oai_mod_onload",OBJECT_SELF); // Olander and Psycho's AI
-    ExecuteScript("fvex_mod_onload",OBJECT_SELF); // Fallen's Vampire System
 
     // this stops dropping of random NWN treasure
     SetLocalInt(GetModule(), "X2_L_NOTREASURE", TRUE);
@@ -33,7 +27,7 @@ void main()
     ExecuteScript("sly_music_onload",GetModule());
     SetModuleSwitch(MODULE_SWITCH_ENABLE_TAGBASED_SCRIPTS, TRUE);
     // Event subscription NWNX
-    NWNX_Events_SubscribeEvent("NWNX_ON_USE_FEAT_BEFORE","anim_reload");
+    //NWNX_Events_SubscribeEvent("NWNX_ON_USE_FEAT_BEFORE","anim_reload");
 }
 
 

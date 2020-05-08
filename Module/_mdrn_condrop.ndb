@@ -1,0 +1,183 @@
+NDB V1.0
+0000002 0000001 0000142 0000004 0000017
+n00 _mdrn_include
+N01 _mdrn_condrop
+s 03 vector
+sf f x
+sf f y
+sf f z
+f ffffffff ffffffff 000 i MDRN_DEBUG
+f ffffffff ffffffff 000 i INFAMOUS_THRESHOLD
+f ffffffff ffffffff 000 s PCSKIN
+f ffffffff ffffffff 000 s PCFIST
+f ffffffff ffffffff 000 i CLASS_TYPE_TOUGH
+f ffffffff ffffffff 000 i CLASS_TYPE_CHARISMATIC
+f ffffffff ffffffff 000 i CLASS_TYPE_ACOLYTE
+f ffffffff ffffffff 000 i CLASS_TYPE_DEDICATED
+f ffffffff ffffffff 000 i CLASS_TYPE_STRONG
+f ffffffff ffffffff 000 i CLASS_TYPE_SMART
+f ffffffff ffffffff 000 i CLASS_TYPE_FAST
+f ffffffff ffffffff 000 i CLASS_TYPE_MAGE
+f ffffffff ffffffff 000 i FEAT_DOUBLE_TAP
+f ffffffff ffffffff 000 i FEAT_AGILERIPOSTE
+f ffffffff ffffffff 000 i FEAT_AIRCRAFTOP_HELICOPTER
+f ffffffff ffffffff 000 i FEAT_ANIMALAFFINITY
+f ffffffff ffffffff 000 i FEAT_ATHLETIC
+f ffffffff ffffffff 000 i FEAT_ATTENTIVE
+f ffffffff ffffffff 000 i FEAT_AUTOFIRE
+f ffffffff ffffffff 000 i FEAT_BRAWL
+f ffffffff ffffffff 000 i FEAT_BUILDER_CHEMICAL
+f ffffffff ffffffff 000 i FEAT_BUILDER_ELECTRONIC
+f ffffffff ffffffff 000 i FEAT_BUILDER_MECHANICAL
+f ffffffff ffffffff 000 i FEAT_BUILDER_STRCTURAL
+f ffffffff ffffffff 000 i FEAT_BURST_FIRE
+f ffffffff ffffffff 000 i FEAT_CAUTIOUS
+f ffffffff ffffffff 000 i FEAT_CONFIDENT
+f ffffffff ffffffff 000 i FEAT_DEAD_AIM
+f ffffffff ffffffff 000 i FEAT_DECEPTIVE
+f ffffffff ffffffff 000 i FEAT_EDUCATED
+f ffffffff ffffffff 000 i FEAT_ENDURANCE
+f ffffffff ffffffff 000 i FEAT_FARSHOT
+f ffffffff ffffffff 000 i FEAT_FOCUSED
+f ffffffff ffffffff 000 i FEAT_FRIGHTFUL_PRESENCE
+f ffffffff ffffffff 000 i FEAT_GEARHEAD
+f ffffffff ffffffff 000 i FEAT_GUIDE
+f ffffffff ffffffff 000 i FEAT_IMPROVED_BRAWL
+f ffffffff ffffffff 000 i FEAT_LOW_PROFILE
+f ffffffff ffffffff 000 i FEAT_MEDICAL_EXPERT
+f ffffffff ffffffff 000 i FEAT_METICULOUS
+f ffffffff ffffffff 000 i FEAT_NIMBLE
+f ffffffff ffffffff 000 i FEAT_PERSONAL_FIREARMS_PROFICIENCY
+f ffffffff ffffffff 000 i FEAT_RENOWN
+f ffffffff ffffffff 000 i FEAT_RUN
+f ffffffff ffffffff 000 i FEAT_RELOAD
+f ffffffff ffffffff 000 i FEAT_STREET_FIGHTING
+f ffffffff ffffffff 000 i FEAT_STUDIOUS
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_HEAVY
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_BOAT
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_SHIP
+f ffffffff ffffffff 000 i FEAT_SURFACE_VEHICLE_OP_TRACKED
+f ffffffff ffffffff 000 i FEAT_TRACK
+f ffffffff ffffffff 000 i FEAT_TRUSTWORTHY
+f ffffffff ffffffff 000 i FEAT_WINDFALL
+f ffffffff ffffffff 000 i FEAT_ADVANCED_FIREARMS_PROFICIENCY
+f ffffffff ffffffff 000 i FEAT_EXOTIC_FIREARMS_PROFICIENCY
+f ffffffff ffffffff 000 i FEAT_AIRCRAFTOP_JET
+f ffffffff ffffffff 000 i FEAT_QUICK_RELOAD
+f ffffffff ffffffff 000 i FEAT_WEAPON_PROFICIENCY_ARCHAIC
+f ffffffff ffffffff 000 i SKILL_BALANCE
+f ffffffff ffffffff 000 i SKILL_CLIMB
+f ffffffff ffffffff 000 i SKILL_COMPUTER_USE
+f ffffffff ffffffff 000 i SKILL_CRAFT_CHEMICAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_ELECTRONIC
+f ffffffff ffffffff 000 i SKILL_CRAFT_MECHANICAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_PHARMACEUTICAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_STRUCTURAL
+f ffffffff ffffffff 000 i SKILL_CRAFT_VISUAL_ART
+f ffffffff ffffffff 000 i SKILL_CRAFT_WRITING
+f ffffffff ffffffff 000 i SKILL_DECIPHER_SCRIPT
+f ffffffff ffffffff 000 i SKILL_DEMOLITIONS
+f ffffffff ffffffff 000 i SKILL_DISABLE_DEVICE
+f ffffffff ffffffff 000 i SKILL_DISGUISE
+f ffffffff ffffffff 000 i SKILL_DRIVE
+f ffffffff ffffffff 000 i SKILL_ESCAPE_ARTIST
+f ffffffff ffffffff 000 i SKILL_FORGERY
+f ffffffff ffffffff 000 i SKILL_GAMBLE
+f ffffffff ffffffff 000 i SKILL_GATHER_INFORMATION
+f ffffffff ffffffff 000 i SKILL_INVESTIGATE
+f ffffffff ffffffff 000 i SKILL_JUMP
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_ARCANE_LORE
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_ART
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_BEHAVIORAL_SCIENCES
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_BUSINESS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_CIVICS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_CURRENT_EVENTS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_EARTH_SCIENCES
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_HISTORY
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_PHYSICAL_SCIENCES
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_POPULAR_CULTURE
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_STREETWISE
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_TACTICS
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_TECHNOLOGY
+f ffffffff ffffffff 000 i SKILL_KNOWLEDGE_THEOLOGY_AND_PHILOSOPHY
+f ffffffff ffffffff 000 i SKILL_NAVIGATE
+f ffffffff ffffffff 000 i SKILL_PILOT
+f ffffffff ffffffff 000 i SKILL_REPAIR
+f ffffffff ffffffff 000 i SKILL_RESEARCH
+f ffffffff ffffffff 000 i SKILL_SENSE_MOTIVE
+f ffffffff ffffffff 000 i SKILL_SLEIGHT_OF_HAND
+f ffffffff ffffffff 000 i SKILL_SURVIVAL
+f ffffffff ffffffff 000 i SKILL_PROFESSION
+f ffffffff ffffffff 000 i SKILL_HANDLE_ANIMAL
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAGAZINE
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_BOX
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_CYLINDER
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_INTERNAL
+f ffffffff ffffffff 000 i ITEM_PROPERTY_MAG_LINKED
+f ffffffff ffffffff 000 i ITEM_PROPERTY_RATE_OF_FIRE
+f ffffffff ffffffff 000 i IP_CONST_ROF_SINGLESHOT
+f ffffffff ffffffff 000 i IP_CONST_ROF_SEMI_AUTOMATIC
+f ffffffff ffffffff 000 i IP_CONST_ROF_AUTOMATIC
+f ffffffff ffffffff 000 i BASE_ITEM_HEAVYARM_D12
+f ffffffff ffffffff 000 i BASE_ITEM_HEAVYARM_D10
+f ffffffff ffffffff 000 i BASE_ITEM_SMALLARM_D8
+f ffffffff ffffffff 000 i BASE_ITEM_SMALLARM_D6
+f ffffffff ffffffff 000 i BASE_ITEM_HEAVY_WEAPON
+f ffffffff ffffffff 000 i BASE_ITEM_AMMO_ROUNDS
+f ffffffff ffffffff 000 i BASE_ITEM_AMMO_SMALL
+f ffffffff ffffffff 000 i BASE_ITEM_AMMO_HEAVY
+f ffffffff ffffffff 000 i INVENTORY_SLOT_AMMO_SMALL
+f ffffffff ffffffff 000 i INVENTORY_SLOT_AMMO_HEAVY
+f ffffffff ffffffff 000 i REPUTATION_RECOGNIZED
+f ffffffff ffffffff 000 i REPUTATION_IGNORED
+f ffffffff ffffffff 000 i ATTITUDE_FAMOUS
+f ffffffff ffffffff 000 i ATTITUDE_INFAMOUS
+f ffffffff ffffffff 000 i DAMAGE_TYPE_BALLISTIC
+f ffffffff ffffffff 000 i DAMAGE_TYPE_ENERGY
+f 00000075 0000010d 001 v SendDebugMessage
+fp s
+f ffffffff ffffffff 003 s DebugGet2DAString
+fp s
+fp s
+fp i
+f ffffffff ffffffff 000 o InvalidObject
+f ffffffff ffffffff 000 e4 InvalidItemProperty
+f ffffffff ffffffff 002 i getItemHasProperty
+fp o
+fp e4
+f ffffffff ffffffff 000 v MdrnDebugger
+f ffffffff ffffffff 001 s ipTypeToString
+fp i
+f ffffffff ffffffff 001 s ipSkillSubTypeToString
+fp i
+f ffffffff ffffffff 001 s FeatNameToString
+fp i
+f ffffffff ffffffff 001 s ipParam1ToString
+fp i
+f ffffffff ffffffff 002 s ipParam1ValueToString
+fp i
+fp i
+f 0000010d 000001c7 000 v GetDamageAndFall
+f 00000015 00000075 000 v main
+f 0000000d 00000015 000 v #loader
+v 00000035 0000006d 00000000 o oTarget
+v 00000075 00000105 00000000 s sText
+v 000000a5 000000f9 00000004 o oPC
+v 00000132 000001bf 00000000 i iConScore
+l01 0000015 00000015 00000033
+l01 0000016 00000033 00000048
+l01 0000017 00000048 0000006d
+l01 0000019 00000073 00000075
+l00 0000020 00000075 00000083
+l00 0000021 00000089 00000096
+l00 0000022 00000096 000000a3
+l00 0000023 000000a3 000000b8
+l00 0000024 000000b8 000000cb
+l00 0000025 000000cb 000000e0
+l00 0000026 000000e0 000000f3
+l00 0000029 00000105 0000010d
+l01 0000006 0000010d 00000130
+l01 0000007 00000130 00000151
+l01 0000008 00000151 0000017b
+l01 0000009 00000181 000001b9
+l01 0000011 000001c5 000001c7
