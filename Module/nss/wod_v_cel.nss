@@ -10,8 +10,6 @@ void main()
     object oItem = GetItemPossessedBy(oPC, "WOD_PC_PROPS");
     object target = GetSpellTargetObject();
 
-    // Making fear effect.
-
      if(!(checkBlood(oPC)))
      {
         FloatingTextStringOnCreature("You are out of vitae!", oPC);
