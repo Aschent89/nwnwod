@@ -1169,10 +1169,6 @@
       }
     ]
   },
-  "Mod_ID": {
-    "type": "void",
-    "value": "–´´!ÝcÃê2\u0030î7Úy\u0018‚"
-  },
   "Mod_IsSaveGame": {
     "type": "byte",
     "value": 0

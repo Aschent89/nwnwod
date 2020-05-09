@@ -1,4 +1,0 @@
-E:\Documents\GitHub\nwnwod\Module\bin\x64\Test\Module.exe.config
-E:\Documents\GitHub\nwnwod\Module\bin\x64\Test\Module.exe
-E:\Documents\GitHub\nwnwod\Module\obj\x64\Test\Module.csproj.CoreCompileInputs.cache
-E:\Documents\GitHub\nwnwod\Module\obj\x64\Test\Module.exe

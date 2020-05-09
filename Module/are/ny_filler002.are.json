@@ -3771,10 +3771,6 @@
     "type": "resref",
     "value": "dgt04"
   },
-  "Version": {
-    "type": "dword",
-    "value": 2
-  },
   "Width": {
     "type": "int",
     "value": 6

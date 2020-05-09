@@ -1149,7 +1149,7 @@
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.02459030970931053
+          "value": -0.02459078654646874
         },
         "XPosition": {
           "type": "float",
@@ -5025,7 +5025,7 @@
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.02459030970931053
+          "value": -0.02459078654646874
         },
         "XPosition": {
           "type": "float",
@@ -11599,7 +11599,7 @@
               "__struct_id": 2,
               "Orientation": {
                 "type": "float",
-                "value": -3.018827438354492
+                "value": -3.018826961517334
               },
               "X": {
                 "type": "float",
@@ -11862,7 +11862,7 @@
               "__struct_id": 2,
               "Orientation": {
                 "type": "float",
-                "value": -3.043374061584473
+                "value": -3.043373584747315
               },
               "X": {
                 "type": "float",
@@ -21375,7 +21375,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 3.141539812088013
+          "value": 3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -24987,7 +24987,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 2.945196628570557
+          "value": 2.945196151733398
         },
         "BodyBag": {
           "type": "byte",
@@ -25441,7 +25441,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141539812088013
+          "value": -3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -26345,7 +26345,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 2.748848676681519
+          "value": 2.74884819984436
         },
         "BodyBag": {
           "type": "byte",
@@ -26570,7 +26570,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141546487808228
+          "value": -3.141546010971069
         },
         "BodyBag": {
           "type": "byte",
@@ -27251,7 +27251,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141539812088013
+          "value": -3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -27701,7 +27701,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141539812088013
+          "value": -3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -28153,7 +28153,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141539812088013
+          "value": -3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -28828,7 +28828,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141539812088013
+          "value": -3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -29053,7 +29053,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141539812088013
+          "value": -3.141539335250855
         },
         "BodyBag": {
           "type": "byte",
@@ -29503,7 +29503,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.02454318664968014
+          "value": -0.02454318292438984
         },
         "BodyBag": {
           "type": "byte",
@@ -32030,7 +32030,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.02454318664968014
+          "value": -0.02454318292438984
         },
         "BodyBag": {
           "type": "byte",
@@ -48557,7 +48557,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 1.748427820302823e-007
+          "value": 1.748427536085728e-007
         },
         "BodyBag": {
           "type": "byte",
@@ -49015,7 +49015,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 3.141500949859619
+          "value": 3.141500473022461
         },
         "BodyBag": {
           "type": "byte",
@@ -49279,7 +49279,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -49508,7 +49508,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -49737,7 +49737,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -49962,7 +49962,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -50187,7 +50187,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -50412,7 +50412,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -50637,7 +50637,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -50862,7 +50862,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -51087,7 +51087,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141544342041016
+          "value": -3.141543865203857
         },
         "BodyBag": {
           "type": "byte",
@@ -52306,13 +52306,13 @@
               "DescIdentified": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by Dieudonné Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35×16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
+                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by DieudonnÃ© Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35Ã—16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
                 }
               },
               "Description": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by Dieudonné Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35×16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
+                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by DieudonnÃ© Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35Ã—16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
                 }
               },
               "Identified": {
@@ -52529,13 +52529,13 @@
               "DescIdentified": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by Dieudonné Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35×16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
+                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by DieudonnÃ© Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35Ã—16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
                 }
               },
               "Description": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by Dieudonné Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35×16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
+                  "0": "Ammo Caliber: .25\n\nIdeal as a concealed weapon, the Fabrique Nationale Baby Browning is a small blowback-operated semi-automatic pistol designed by DieudonnÃ© Saive based on a design by John Browning (among Browning's last designs) and chambered in .25 ACP (6.35Ã—16mmSR). The pistol features a 6 round magazine capacity and is a striker-fired, single action, blow back mechanism. The manual thumb operated safety locks the slide in the closed position when engaged using side thumb pressure."
                 }
               },
               "Identified": {
@@ -69949,13 +69949,13 @@
               "DescIdentified": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Ammo Caliber: 7.62mm\n\n\"Swedish Mausers\" are a family of bolt-action rifles based on an improved variant of Mauser's earlier Model 1893, but using the 6.5x55mm cartridge, and incorporating unique design elements as requested by Sweden. These are the m/94 (Model 1894) carbine, m/96 (Model 1896) long rifle, m/38 (Model 1938) short rifle and m/41 (Model 1941) sniper rifle. In 1898 production began at Carl Gustafs stads Gevärsfaktori in Eskilstuna, Sweden. All Swedish Mausers were chambered for the 6.5 x 55mm Swedish Mauser cartridge, and all Swedish-made actions were proof-tested with a single cartridge developing 66,000psi. Swedish Mausers were manufactured by Waffenfabrik Muser Oberndorf  in Germany and in Sweden by Carl Gustafs stads Gevärsfaktori and Husqvarna Vapenfabriks Aktiebolag. All Swedish Mausers, whether built in Germany or Sweden, were fabricated using a Swedish-supplied high grade tool steel alloyed with nickel, copper, and vanadium, a product noted for its strength and corrosion resistance.\n\nThese rifles, like other pre-1898 Mausers, \"cock-on-closing\" (similar to the contemporary Lee-Enfield rifle) instead of the \"cock-on-opening\" style found on the German Gewehr 98.\n\nThe Model 1896 rifle (6,5 mm Gevär m/96) was adopted in 1896 for infantry use, replacing the Model 1867-89 Remington rolling block rifle. Swedish production (under license) started in 1898 at Carl Gustafs, but additional rifles were produced by Mauser during 1899 and 1900 because of delays in shipping additional production machinery from Germany to Sweden.\n\nMany m/94 and m/96 rifles were successfully converted by Carl Gustafs and Norma into the CG 63 Competition Rifle chambered in 6.5x55mm and 7.62x51mm NATO. These rifles are known to be very accurate, with heavy free-floating barrels, diopter sights (many models), target stocks and tuned triggers.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
+                  "0": "Ammo Caliber: 7.62mm\n\n\"Swedish Mausers\" are a family of bolt-action rifles based on an improved variant of Mauser's earlier Model 1893, but using the 6.5x55mm cartridge, and incorporating unique design elements as requested by Sweden. These are the m/94 (Model 1894) carbine, m/96 (Model 1896) long rifle, m/38 (Model 1938) short rifle and m/41 (Model 1941) sniper rifle. In 1898 production began at Carl Gustafs stads GevÃ¤rsfaktori in Eskilstuna, Sweden. All Swedish Mausers were chambered for the 6.5 x 55mm Swedish Mauser cartridge, and all Swedish-made actions were proof-tested with a single cartridge developing 66,000psi. Swedish Mausers were manufactured by Waffenfabrik Muser Oberndorf  in Germany and in Sweden by Carl Gustafs stads GevÃ¤rsfaktori and Husqvarna Vapenfabriks Aktiebolag. All Swedish Mausers, whether built in Germany or Sweden, were fabricated using a Swedish-supplied high grade tool steel alloyed with nickel, copper, and vanadium, a product noted for its strength and corrosion resistance.\n\nThese rifles, like other pre-1898 Mausers, \"cock-on-closing\" (similar to the contemporary Lee-Enfield rifle) instead of the \"cock-on-opening\" style found on the German Gewehr 98.\n\nThe Model 1896 rifle (6,5 mm GevÃ¤r m/96) was adopted in 1896 for infantry use, replacing the Model 1867-89 Remington rolling block rifle. Swedish production (under license) started in 1898 at Carl Gustafs, but additional rifles were produced by Mauser during 1899 and 1900 because of delays in shipping additional production machinery from Germany to Sweden.\n\nMany m/94 and m/96 rifles were successfully converted by Carl Gustafs and Norma into the CG 63 Competition Rifle chambered in 6.5x55mm and 7.62x51mm NATO. These rifles are known to be very accurate, with heavy free-floating barrels, diopter sights (many models), target stocks and tuned triggers.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
                 }
               },
               "Description": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Ammo Caliber: 7.62mm\n\n\"Swedish Mausers\" are a family of bolt-action rifles based on an improved variant of Mauser's earlier Model 1893, but using the 6.5x55mm cartridge, and incorporating unique design elements as requested by Sweden. These are the m/94 (Model 1894) carbine, m/96 (Model 1896) long rifle, m/38 (Model 1938) short rifle and m/41 (Model 1941) sniper rifle. In 1898 production began at Carl Gustafs stads Gevärsfaktori in Eskilstuna, Sweden. All Swedish Mausers were chambered for the 6.5 x 55mm Swedish Mauser cartridge, and all Swedish-made actions were proof-tested with a single cartridge developing 66,000psi. Swedish Mausers were manufactured by Waffenfabrik Muser Oberndorf  in Germany and in Sweden by Carl Gustafs stads Gevärsfaktori and Husqvarna Vapenfabriks Aktiebolag. All Swedish Mausers, whether built in Germany or Sweden, were fabricated using a Swedish-supplied high grade tool steel alloyed with nickel, copper, and vanadium, a product noted for its strength and corrosion resistance.\n\nThese rifles, like other pre-1898 Mausers, \"cock-on-closing\" (similar to the contemporary Lee-Enfield rifle) instead of the \"cock-on-opening\" style found on the German Gewehr 98.\n\nThe Model 1896 rifle (6,5 mm Gevär m/96) was adopted in 1896 for infantry use, replacing the Model 1867-89 Remington rolling block rifle. Swedish production (under license) started in 1898 at Carl Gustafs, but additional rifles were produced by Mauser during 1899 and 1900 because of delays in shipping additional production machinery from Germany to Sweden.\n\nMany m/94 and m/96 rifles were successfully converted by Carl Gustafs and Norma into the CG 63 Competition Rifle chambered in 6.5x55mm and 7.62x51mm NATO. These rifles are known to be very accurate, with heavy free-floating barrels, diopter sights (many models), target stocks and tuned triggers.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
+                  "0": "Ammo Caliber: 7.62mm\n\n\"Swedish Mausers\" are a family of bolt-action rifles based on an improved variant of Mauser's earlier Model 1893, but using the 6.5x55mm cartridge, and incorporating unique design elements as requested by Sweden. These are the m/94 (Model 1894) carbine, m/96 (Model 1896) long rifle, m/38 (Model 1938) short rifle and m/41 (Model 1941) sniper rifle. In 1898 production began at Carl Gustafs stads GevÃ¤rsfaktori in Eskilstuna, Sweden. All Swedish Mausers were chambered for the 6.5 x 55mm Swedish Mauser cartridge, and all Swedish-made actions were proof-tested with a single cartridge developing 66,000psi. Swedish Mausers were manufactured by Waffenfabrik Muser Oberndorf  in Germany and in Sweden by Carl Gustafs stads GevÃ¤rsfaktori and Husqvarna Vapenfabriks Aktiebolag. All Swedish Mausers, whether built in Germany or Sweden, were fabricated using a Swedish-supplied high grade tool steel alloyed with nickel, copper, and vanadium, a product noted for its strength and corrosion resistance.\n\nThese rifles, like other pre-1898 Mausers, \"cock-on-closing\" (similar to the contemporary Lee-Enfield rifle) instead of the \"cock-on-opening\" style found on the German Gewehr 98.\n\nThe Model 1896 rifle (6,5 mm GevÃ¤r m/96) was adopted in 1896 for infantry use, replacing the Model 1867-89 Remington rolling block rifle. Swedish production (under license) started in 1898 at Carl Gustafs, but additional rifles were produced by Mauser during 1899 and 1900 because of delays in shipping additional production machinery from Germany to Sweden.\n\nMany m/94 and m/96 rifles were successfully converted by Carl Gustafs and Norma into the CG 63 Competition Rifle chambered in 6.5x55mm and 7.62x51mm NATO. These rifles are known to be very accurate, with heavy free-floating barrels, diopter sights (many models), target stocks and tuned triggers.\n\nThe Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon."
                 }
               },
               "Identified": {
@@ -87223,13 +87223,13 @@
               "DescIdentified": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Staves in martial history include the English quarterstaff and the French bâton, and there are many martial arts, such as Italian Liu-bo, based around such staff-like weapons.\n\nThis one is made of a durable metal alloy."
+                  "0": "Staves in martial history include the English quarterstaff and the French bÃ¢ton, and there are many martial arts, such as Italian Liu-bo, based around such staff-like weapons.\n\nThis one is made of a durable metal alloy."
                 }
               },
               "Description": {
                 "type": "cexolocstring",
                 "value": {
-                  "0": "Staves in martial history include the English quarterstaff and the French bâton, and there are many martial arts, such as Italian Liu-bo, based around such staff-like weapons.\n\nThis one is made of a durable metal alloy."
+                  "0": "Staves in martial history include the English quarterstaff and the French bÃ¢ton, and there are many martial arts, such as Italian Liu-bo, based around such staff-like weapons.\n\nThis one is made of a durable metal alloy."
                 }
               },
               "Identified": {
@@ -93809,7 +93809,7 @@
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.3827235996723175
+          "value": -0.3827240169048309
         },
         "XPosition": {
           "type": "float",
@@ -93817,7 +93817,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.9238628745079041
+          "value": -0.9238626956939697
         },
         "YPosition": {
           "type": "float",

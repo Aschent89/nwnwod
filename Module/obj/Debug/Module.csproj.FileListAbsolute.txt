@@ -1,7 +1,0 @@
-E:\Documents\GitHub\nwnwod\Module\bin\Debug\Module.exe.config
-E:\Documents\GitHub\nwnwod\Module\bin\Debug\Module.exe
-E:\Documents\GitHub\nwnwod\Module\bin\Debug\Module.pdb
-E:\Documents\GitHub\nwnwod\Module\obj\Debug\Module.csprojAssemblyReference.cache
-E:\Documents\GitHub\nwnwod\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
-E:\Documents\GitHub\nwnwod\Module\obj\Debug\Module.exe
-E:\Documents\GitHub\nwnwod\Module\obj\Debug\Module.pdb

@@ -6179,10 +6179,6 @@
     "type": "resref",
     "value": "dgt04"
   },
-  "Version": {
-    "type": "dword",
-    "value": 10
-  },
   "Width": {
     "type": "int",
     "value": 10

@@ -7383,10 +7383,6 @@
     "type": "resref",
     "value": "flow_pa"
   },
-  "Version": {
-    "type": "dword",
-    "value": 8
-  },
   "Width": {
     "type": "int",
     "value": 12

@@ -1707,10 +1707,6 @@
     "type": "resref",
     "value": "shp02"
   },
-  "Version": {
-    "type": "dword",
-    "value": 164
-  },
   "Width": {
     "type": "int",
     "value": 6

@@ -2911,10 +2911,6 @@
     "type": "resref",
     "value": "gi"
   },
-  "Version": {
-    "type": "dword",
-    "value": 5
-  },
   "Width": {
     "type": "int",
     "value": 8
