@@ -130,6 +130,12 @@ int NWNX_Creature_GetFeatCountByLevel(object creature, int level);
 /// @return The feat id at the index.
 int NWNX_Creature_GetFeatByLevel(object creature, int level, int index);
 
+/// @brief Returns the creature level where the specified feat was learned.
+/// @param creature The creature object.
+/// @param feat The feat id.
+/// @return The character level that the specified feat was granted, otherwise 0 if the creature does not have this feat.
+int NWNX_Creature_GetFeatGrantLevel(object creature, int feat);
+
 /// @brief Get the total number of feats known by creature.
 /// @param creature The creature object.
 /// @return The total feat count for the creature.
@@ -314,11 +320,13 @@ void NWNX_Creature_ClearMemorisedSpell(object creature, int class, int level, in
 /// @brief Gets whether or not creature has a specialist school of wizardry.
 /// @param creature The creature object.
 /// @return TRUE if the wizard specializes.
+/// @deprecated Use GetSpecialization(). This will be removed in future NWNX releases.
 int NWNX_Creature_GetWizardSpecialization(object creature);
 
 /// @brief Sets creature's wizard specialist school.
 /// @param creature The creature object.
 /// @param school The wizard school constant.
+/// @deprecated Use NWNX_Creature_SetSpecialization(). This will be removed in future NWNX releases.
 void NWNX_Creature_SetWizardSpecialization(object creature, int school);
 
 /// @brief Gets the maximum hit points for creature for level.
@@ -375,12 +383,14 @@ void NWNX_Creature_SetAlignmentLawChaos(object creature, int value);
 /// @brief Gets one of creature's cleric domains.
 /// @param creature The creature object.
 /// @param index The first or second domain.
+/// @deprecated Use GetDomain(). This will be removed in future NWNX releases.
 int NWNX_Creature_GetClericDomain(object creature, int index);
 
 /// @brief Sets one of creature's cleric domains.
 /// @param creature The creature object.
 /// @param index The first or second domain.
 /// @param domain The domain constant to set.
+/// @deprecated Use NWNX_Creature_SetDomain(). This will be removed in future NWNX releases.
 void NWNX_Creature_SetClericDomain(object creature, int index, int domain);
 
 /// @brief Get the soundset index for creature.
@@ -568,9 +578,7 @@ void NWNX_Creature_SetFeatRemainingUses(object creature, int feat, int uses);
 /// @param abilityScore An ABILITY_* constant.
 /// @param isOffhand Whether the attack is an offhand attack.
 /// @return The bonus value.
-int NWNX_Creature_GetTotalEffectBonus(object creature, int bonusType=NWNX_CREATURE_BONUS_TYPE_ATTACK,
-        object target=OBJECT_INVALID, int isElemental=0, int isForceMax=0, int savetype=-1,
-        int saveSpecificType=-1, int skill=-1, int abilityScore=-1, int isOffhand=FALSE);
+int NWNX_Creature_GetTotalEffectBonus(object creature, int bonusType=NWNX_CREATURE_BONUS_TYPE_ATTACK, object target=OBJECT_INVALID, int isElemental=0, int isForceMax=0, int savetype=-1, int saveSpecificType=-1, int skill=-1, int abilityScore=-1, int isOffhand=FALSE);
 
 /// @brief Set the original first or last name of creature
 /// @param creature The creature object.
@@ -620,6 +628,44 @@ int NWNX_Creature_GetDisarmable(object creature);
 /// @param creature The creature object.
 /// @param disarmable Set to TRUE if the creature can be disarmed.
 void NWNX_Creature_SetDisarmable(object creature, int disarmable);
+
+/// @brief Gets one of creature's domains.
+/// @param creature The creature object.
+/// @param class The class id from classes.2da. (Not class index 0-2)
+/// @param index The first or second domain.
+/// @deprecated Use GetDomain(). This will be removed in future NWNX releases.
+int NWNX_Creature_GetDomain(object creature, int class, int index);
+
+/// @brief Sets one of creature's domains.
+/// @param creature The creature object.
+/// @param class The class id from classes.2da. (Not class index 0-2)
+/// @param index The first or second domain.
+/// @param domain The domain constant to set.
+void NWNX_Creature_SetDomain(object creature, int class, int index, int domain);
+
+/// @brief Gets the creature's specialist school.
+/// @param creature The creature object.
+/// @param class The class id from classes.2da. (Not class index 0-2)
+/// @deprecated Use GetSpecialization(). This will be removed in future NWNX releases.
+int NWNX_Creature_GetSpecialization(object creature, int class);
+
+/// @brief Sets creature's specialist school.
+/// @param creature The creature object.
+/// @param class The class id from classes.2da. (Not class index 0-2)
+/// @param school The school constant.
+void NWNX_Creature_SetSpecialization(object creature, int class, int school);
+
+/// @brief Sets oCreatures faction to be the faction with id nFactionId.
+/// @param oCreature The creature.
+/// @param nFactionId The faction id we want the creature to join.
+void NWNX_Creature_SetFaction(object oCreature, int nFactionId);
+
+/// @brief Gets the faction id from oCreature
+/// @param oCreature the creature we wish to query against
+/// @return faction id as an integer, -1 when used against invalid creature or invalid object.
+int NWNX_Creature_GetFaction(object oCreature);
+
+
 
 /// @}
 
@@ -693,6 +739,15 @@ int NWNX_Creature_GetFeatCount(object creature)
     NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
 
     NWNX_CallFunction(NWNX_Creature, sFunc);
+    return NWNX_GetReturnValueInt(NWNX_Creature, sFunc);
+}
+
+int NWNX_Creature_GetFeatGrantLevel(object creature, int feat)
+{
+    string sFunc = "GetFeatGrantLevel";
+
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, feat);
+    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
     return NWNX_GetReturnValueInt(NWNX_Creature, sFunc);
 }
 
@@ -1092,44 +1147,26 @@ void NWNX_Creature_SetAlignmentLawChaos(object creature, int value)
 
 int NWNX_Creature_GetClericDomain(object creature, int index)
 {
-    string sFunc = "GetClericDomain";
-
-    NWNX_PushArgumentInt(NWNX_Creature, sFunc, index);
-    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
-
-    NWNX_CallFunction(NWNX_Creature, sFunc);
-    return NWNX_GetReturnValueInt(NWNX_Creature, sFunc);
+    WriteTimestampedLogEntry("NWNX_Creature: GetClericDomain() is deprecated. Please use the basegame's GetDomain() instead");
+    return GetDomain(creature, index, CLASS_TYPE_CLERIC);
 }
 
 void NWNX_Creature_SetClericDomain(object creature, int index, int domain)
 {
-    string sFunc = "SetClericDomain";
-
-    NWNX_PushArgumentInt(NWNX_Creature, sFunc, domain);
-    NWNX_PushArgumentInt(NWNX_Creature, sFunc, index);
-    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
-
-    NWNX_CallFunction(NWNX_Creature, sFunc);
+    WriteTimestampedLogEntry("NWNX_Creature: SetClericDomain() is deprecated. Please use NWNX_Creature_SetDomain() instead");
+    NWNX_Creature_SetDomain(creature, CLASS_TYPE_CLERIC, index, domain);
 }
 
 int NWNX_Creature_GetWizardSpecialization(object creature)
 {
-    string sFunc = "GetWizardSpecialization";
-
-    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
-
-    NWNX_CallFunction(NWNX_Creature, sFunc);
-    return NWNX_GetReturnValueInt(NWNX_Creature, sFunc);
+    WriteTimestampedLogEntry("NWNX_Creature: GetWizardSpecialization() is deprecated. Please use the basegame's GetSpecialization() instead");
+    return GetSpecialization(creature, CLASS_TYPE_WIZARD);
 }
 
 void NWNX_Creature_SetWizardSpecialization(object creature, int school)
 {
-    string sFunc = "SetWizardSpecialization";
-
-    NWNX_PushArgumentInt(NWNX_Creature, sFunc, school);
-    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
-
-    NWNX_CallFunction(NWNX_Creature, sFunc);
+    WriteTimestampedLogEntry("NWNX_Creature: SetWizardSpecialization() is deprecated. Please use NWNX_Creature_SetSpecialization() instead");
+    NWNX_Creature_SetSpecialization(creature, CLASS_TYPE_WIZARD, school);
 }
 
 int NWNX_Creature_GetSoundset(object creature)
@@ -1437,8 +1474,7 @@ void NWNX_Creature_SetFeatRemainingUses(object creature, int feat, int uses)
     NWNX_CallFunction(NWNX_Creature, sFunc);
 }
 
-int NWNX_Creature_GetTotalEffectBonus(object creature, int bonusType=NWNX_CREATURE_BONUS_TYPE_ATTACK, object target=OBJECT_INVALID, int isElemental=0,
-    int isForceMax=0, int savetype=-1, int saveSpecificType=-1, int skill=-1, int abilityScore=-1, int isOffhand=FALSE)
+int NWNX_Creature_GetTotalEffectBonus(object creature, int bonusType=NWNX_CREATURE_BONUS_TYPE_ATTACK, object target=OBJECT_INVALID, int isElemental=0, int isForceMax=0, int savetype=-1, int saveSpecificType=-1, int skill=-1, int abilityScore=-1, int isOffhand=FALSE)
 {
     string sFunc = "GetTotalEffectBonus";
 
@@ -1547,4 +1583,57 @@ void NWNX_Creature_SetDisarmable(object creature, int disarmable)
     NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
 
     NWNX_CallFunction(NWNX_Creature, sFunc);
+}
+
+int NWNX_Creature_GetDomain(object creature, int class, int index)
+{
+    WriteTimestampedLogEntry("NWNX_Creature: GetDomain() is deprecated. Please use the basegame's GetDomain() instead");
+
+    return GetDomain(creature, index, class);
+}
+
+void NWNX_Creature_SetDomain(object creature, int class, int index, int domain)
+{
+    string sFunc = "SetDomain";
+
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, domain);
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, index);
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, class);
+    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
+
+    NWNX_CallFunction(NWNX_Creature, sFunc);
+}
+
+int NWNX_Creature_GetSpecialization(object creature, int class)
+{
+    WriteTimestampedLogEntry("NWNX_Creature: GetSpecialization() is deprecated. Please use the basegame's GetSpecialization() instead");
+
+    return GetSpecialization(creature, class);
+}
+
+void NWNX_Creature_SetSpecialization(object creature, int class, int school)
+{
+    string sFunc = "SetSpecialization";
+
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, school);
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, class);
+    NWNX_PushArgumentObject(NWNX_Creature, sFunc, creature);
+
+    NWNX_CallFunction(NWNX_Creature, sFunc);
+}
+
+void NWNX_Creature_SetFaction(object oCreature, int nFactionId)
+{
+    string sFunc = "SetFaction";
+    NWNX_PushArgumentInt(NWNX_Creature, sFunc, nFactionId);
+    NWNX_PushArgumentObject(NWNX_Creature, sFunc, oCreature);
+    NWNX_CallFunction(NWNX_Creature, sFunc);
+}
+
+int NWNX_Creature_GetFaction(object oCreature)
+{
+    string sFunc = "GetFaction";
+    NWNX_PushArgumentObject(NWNX_Creature, sFunc, oCreature);
+    NWNX_CallFunction(NWNX_Creature, sFunc);
+    return NWNX_GetReturnValueInt(NWNX_Creature, sFunc);
 }

@@ -63,9 +63,7 @@ const int NWNX_ELC_SUBTYPE_SPELL_INVALID_SPELL_GAIN_BARD_SORCERER   = 34;
 const int NWNX_ELC_SUBTYPE_SPELL_INVALID_SPELL_GAIN_OTHER_CLASSES   = 35;
 const int NWNX_ELC_SUBTYPE_INVALID_SPELL                            = 36;
 const int NWNX_ELC_SUBTYPE_SPELL_INVALID_SPELL_LEVEL                = 37;
-const int NWNX_ELC_SUBTYPE_SPELL_MINIMUM_ABILITY_BARD_SORCERER      = 38;
-const int NWNX_ELC_SUBTYPE_SPELL_MINIMUM_ABILITY_WIZARD             = 39;
-const int NWNX_ELC_SUBTYPE_SPELL_MINIMUM_ABILITY_OTHER_CLASSES      = 40;
+const int NWNX_ELC_SUBTYPE_SPELL_MINIMUM_ABILITY                    = 40;
 const int NWNX_ELC_SUBTYPE_SPELL_RESTRICTED_SPELL_SCHOOL            = 41;
 const int NWNX_ELC_SUBTYPE_SPELL_ALREADY_KNOWN                      = 42;
 const int NWNX_ELC_SUBTYPE_SPELL_WIZARD_EXCEEDS_NUMSPELLS_TO_ADD    = 43;
@@ -238,6 +236,13 @@ int NWNX_ELC_GetValidationFailureFeatID()
 }
 
 int NWNX_ELC_GetValidationFailureSpellID()
+{
+    string sFunc = "GetValidationFailureSpellID";
+
+    NWNX_CallFunction(NWNX_ELC, sFunc);
+    return NWNX_GetReturnValueInt(NWNX_ELC, sFunc);
+}
+
 {
     string sFunc = "GetValidationFailureSpellID";
 
