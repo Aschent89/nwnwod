@@ -26,3 +26,5 @@ This is for team members and players.  For players, you can submit bugs you find
 
 ## Contributing
 If you want to contribute, create a fork off this repository.  Any work you do will automatically be saved to the appropriate folder when you `nasher unpack` your saved work.  The only except to this is scripts.  New scripts will be saved to the `module` base folder so they're easy to find.
+
+Thank you to tinygiant98 for your help with Nasher and this readme! You can check out his team's Dark Sun project at https://github.comtinygiant98/darksun
