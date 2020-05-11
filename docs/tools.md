@@ -20,28 +20,28 @@ In order to clone, fork and contribute to this project, you will need a GitHub a
 1. Go to the [join page](https://github.com/join) for GitHub.
 2. Complete the registration process
 3. Remember your username and password, you'll need this when you install and setup Git.
-4. Navigate to the [Dark Sun repository](https://github.com/tinygiant98/darksun).
+4. Navigate to the [Final Nights repository](https://github.com/Cavcode/nwnwod).
 5. Create a fork off of this repository by clicking on the Fork button.  Ensure you're clicking on the button, not the number next to the button. ![GitHub Fork](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
     
-    *Note:  When the forking process is complete, GitHub will automatically take you to your new forked repository homepage.  This is your repository and you can do anything you want with it without affecting the primary module repository.  You should see `<your_user_name>/darksun` near the top with `tinygiant98/darksun` just below it.*
+    *Note:  When the forking process is complete, GitHub will automatically take you to your new forked repository homepage.  This is your repository and you can do anything you want with it without affecting the primary module repository.  You should see `<your_user_name>/nwnwod` near the top with `cavcode/nwnwod` just below it.*
 
     *Note:  If you want to receive updates for changes, issues, etc., on the primary repository, you can click on the `watch` button and `star` button.*
 
-6. Copy the web address of your new forked repository.  The value you need for the next steps will be `https://github.com/<your_user_name>/darksun.git`  You can copy the url from the top of your browser, click on the green clone/download button and copy the value you find there, or just write it down.
+6. Copy the web address of your new forked repository.  The value you need for the next steps will be `https://github.com/<your_user_name>/nwnwod.git`  You can copy the url from the top of your browser, click on the green clone/download button and copy the value you find there, or just write it down.
 
     ![Stuff](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
 
 ## Git
 
-In order to efficiently contribute to the Dark Sun project, you need a git client.  Git is source control software which tracks changes to selected code and allows reversion, if necessary.  Following are the steps to obtain, install and configure your git client.  For those on Windows, you will get a tool called Git Bash which is a version of PowerShell or a command line utility.  However, any command line utility or terminal can be used to accomplish the tasks required to setup Git.
+In order to efficiently contribute to the Final Nights project, you need a git client.  Git is source control software which tracks changes to selected code and allows reversion, if necessary.  Following are the steps to obtain, install and configure your git client.  For those on Windows, you will get a tool called Git Bash which is a version of PowerShell or a command line utility.  However, any command line utility or terminal can be used to accomplish the tasks required to setup Git.
 
 1. [Download](https://git-scm.com/downloads) and install git for your operating system.
 
     *Note:  If you're not interested in the command line interface, there are several [visual Git clients](https://git-scm.com/downloads/guis) that you can use.  I'm not familiar with any of them as the command line serves all necessary purposes.  If you choose to use a GUI/visual client, you're on your own for learning and employing it.*
 
-2. Create a new folder on your computer.  The location is optional.  I keep all of my local repositories in a folder on my desktop called `Git_Repositories`.  Avoid spaces in the title to make it easier to navigate from the command line.  Within your new folder, create a Dark Sun specific folder.  For ease of navigation, I called mine `ds`, but you can name it anything you want.  If you use these folder names, the address of your folder should be something like: `C:\Users\<your_name>\Desktop\Git_Repositories\ds`.
+2. Create a new folder on your computer.  The location is optional.  I keep all of my local repositories in a folder on my desktop called `Git_Repositories`.  Avoid spaces in the title to make it easier to navigate from the command line.  Within your new folder, create a Final Nights specific folder.  For ease of navigation, I called mine `ds`, but you can name it anything you want.  If you use these folder names, the address of your folder should be something like: `C:\Users\<your_name>\Desktop\Git_Repositories\ds`.
 
-3. In your command line utility (powershell, git bash, vscode terminal, etc.), navigate to your Dark Sun directory (`ds` in the example above).
+3. In your command line utility (powershell, git bash, vscode terminal, etc.), navigate to your Final Nights directory (`ds` in the example above).
 
     *Note:  Each command line utility displays your current folder in a different way, but it should be obvious where you are.  Use the command `dir` to see what folders are in your current directory, `cd ..` to move backward one level in the folder structure, or `cd <folder_name>` to move to another folder.*
 
@@ -54,15 +54,15 @@ In order to efficiently contribute to the Dark Sun project, you need a git clien
 
 5. Clone the forked repository you created when you were making your GitHub account.  To do this, type the following into your command line:  
     ```
-    git clone https://github.com/<your_user_name>/darksun.git
+    git clone https://github.com/<your_user_name>/nwnwod.git
     ``` 
     and press enter.  If you correctly entered the repository address, you should see some activity and reports showing copied files.  These files are being copied from your forked repository to your computer.  
 
 6. Add an upstream to your forked repository so you can retrieve updates from the primary module repository.  Since you are not working on the primary repository, any updates to the primary repository will not automatically update to the fork you're working on.  If you want to retrieve updates from the primary repository to ensure you always have the most recent data, you need to add an upstream to your local repository.  On the command line, type the following: 
     ```
-    git remote add upstream https://github.com/tinygiant98/darksun.git
+    git remote add upstream https://github.com/cavcode/nwnwod.git
     ``` 
-    and press enter.  You are using the primary repository (`tinygiant98/darksun`) as your upstream, not your forked repository, so type the command exactly as you see above.  Adding this upstream does not automatically keep your forked repository updated with the primary repository's content.  I'll show you how to do that later.
+    and press enter.  You are using the primary repository (`cavcode/nwnwod`) as your upstream, not your forked repository, so type the command exactly as you see above.  Adding this upstream does not automatically keep your forked repository updated with the primary repository's content.  I'll show you how to do that later.
 
 Ok, that's it for Git. Let's work on the rest.
 
@@ -90,7 +90,7 @@ Since we've already installed Nimble, installing neverwinter.nim is extremely ea
 
 ## Nasher
 
-Nasher is a module maintenance tool written and maintained by Michael Sinclair (squattingmonk).  Although not strictly a requirement, using Nasher will greatly reduce your workload and shorten your workflow when deploying content to the Dark Sun module.  Nasher can be run through docker, though if you're not familiar with docker, I recommend installing it directly.
+Nasher is a module maintenance tool written and maintained by Michael Sinclair (squattingmonk).  Although not strictly a requirement, using Nasher will greatly reduce your workload and shorten your workflow when deploying content to the Final Nights module.  Nasher can be run through docker, though if you're not familiar with docker, I recommend installing it directly.
 
 Since we already have the nimble programming language installed via choosenim, installing Nasher is easy. 
 
@@ -118,7 +118,7 @@ Since we already have the nimble programming language installed via choosenim, i
 
 ## Questions
 
-If you have any questions about installing these tools, and you're sure you followed the instructions above correctly, you're best bet is to get onto the [Dark Sun discord](https://discordapp.com/channels/468225176773984256/468225176773984258) and ask a question about installing the tools.  If you're not a member of our discord, you can [join](https://discord.gg/8ZxgMRc).  If you tag me (@tinygiant) in your post, I'll likely answer pretty quickly.  If you don't tag me, I may not see the question at all, but one of our many other team members might be able to help.  I'm happy to answer discord DMs also if you don't want to join the discord.
+If you have any questions about installing these tools, and you're sure you followed the instructions above correctly, you're best bet is to get onto the [Final Nights discord](https://discordapp.com/channels/468225176773984256/468225176773984258) and ask a question about installing the tools.  If you're not a member of our discord, you can [join](https://discord.gg/8ZxgMRc).  If you tag me (@tinygiant) in your post, I'll likely answer pretty quickly.  If you don't tag me, I may not see the question at all, but one of our many other team members might be able to help.  I'm happy to answer discord DMs also if you don't want to join the discord.
 
 ## Conclusion
 

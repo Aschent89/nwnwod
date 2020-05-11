@@ -38,7 +38,7 @@ These definitions are provided to help you understand what some of the Git termi
 
 `Remote Repository` - the files that are on the GitHub servers.  Changes to these files will only occur when you request an upstream pull or when you push committed changes.
 
-`Upstream` - the controlling repository for your fork.  This is the repository you forked off of.  In our case, it's the primary repository located at https://github.com/tinygiant98/darksun.
+`Upstream` - the controlling repository for your fork.  This is the repository you forked off of.  In our case, it's the primary repository located at https://github.com/cavcode/nwnwod.
 
 `Working Tree` - another name for the files in your local repository.  Typically, working tree is referenced as being clean (no changed files) or dirty (files have been changed, but not committed and pushed).
 
@@ -76,7 +76,7 @@ These definitions tell you what each of the major Nasher commands do.  Reading t
 
 # Workflow
 
-Here is the general workflow I've developed and it seems to be relatively efficient in adding new content.  Any references to "local" or "remote" repositories in this document are specifically referencing your forked repository (`https://github.com/<your-user-name>/darksun`).  Any reference to the "primary" repository is referencing the primary Dark Sun repository (`https://github.com/tinygiant98/darksun`).
+Here is the general workflow I've developed and it seems to be relatively efficient in adding new content.  Any references to "local" or "remote" repositories in this document are specifically referencing your forked repository (`https://github.com/<your-user-name>/nwnwod`).  Any reference to the "primary" repository is referencing the primary Final Nights repository (`https://github.com/cavcode/nwnwod`).
 
 * [Updating Your Forked Repository](#updating-your-forked-repository)
 * [Building the Module](#building-the-module)
@@ -89,7 +89,7 @@ Here is the general workflow I've developed and it seems to be relatively effici
 * [Getting your Questions Answered](#questions)
 * [The Next Step](#conclusion)
 
-All calls to installed tools will be via the command line interface.  Graphical user interfaces will not be discussed here.  If you use a GUI, you are responsible for learning and using your installed system.  The installed tools I'll reference in this tutorial are `git` and `nasher`.  All commands should work readily in your command line utility so long as you have navigated to your primary Dark Sun forked repository folder.  If you followed the example in the tools installation tutorial, that repository will be located at `C:\Users\<username>\Desktop\Git_Repositories\ds`.  If you chose to locate your repository somewhere else, ensure you are in your chosen location before running any of the commands below.
+All calls to installed tools will be via the command line interface.  Graphical user interfaces will not be discussed here.  If you use a GUI, you are responsible for learning and using your installed system.  The installed tools I'll reference in this tutorial are `git` and `nasher`.  All commands should work readily in your command line utility so long as you have navigated to your primary Final Nights forked repository folder.  If you followed the example in the tools installation tutorial, that repository will be located at `C:\Users\<username>\Desktop\Git_Repositories\ds`.  If you chose to locate your repository somewhere else, ensure you are in your chosen location before running any of the commands below.
 
 ## Updating Your Forked Repository
 
@@ -223,7 +223,7 @@ Well, we're finally here.  All of your hard work has paid off and it's now in yo
 
 ## Request Review of New Content
 
-This is also known as a pull request.  To submit a pull request, go to your forked repository's home page on git hub (`https://github.com/<your-user-name>/darksun`).  Near the top, underneat the summary section that shows all of the commit and branch numbers, but above the files, you should see a couple of buttons that look like this: ![pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
+This is also known as a pull request.  To submit a pull request, go to your forked repository's home page on git hub (`https://github.com/<your-user-name>/nwnwod`).  Near the top, underneat the summary section that shows all of the commit and branch numbers, but above the files, you should see a couple of buttons that look like this: ![pull request button](https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
 
 Click on the `New Pull Request` button.  The next screen will show you all of the changes you've made, including file additions.  It will also request you add some text as to why you're requesting this pull to the primary repository.  Add some discussion as to what changes you made, what your intent behavior for the new items is and any other pertinent information necessary to ensure smooth integration into the primary repostitory.  When you're done, click on the big green button and either send the pull request or save it as a draft request for later submission.
 
@@ -231,7 +231,7 @@ Click on the `New Pull Request` button.  The next screen will show you all of th
 
 ## Questions
 
-If you have any questions about installing these tools, and you're sure you followed the instructions above correctly, you're best bet is to get onto the [Dark Sun discord](https://discordapp.com/channels/468225176773984256/468225176773984258) and ask a question about installing the tools.  If you're not a member of our discord, you can [join](https://discord.gg/8ZxgMRc).  If you tag me (@tinygiant) in your post, I'll likely answer pretty quickly.  If you don't tag me, I may not see the question at all, but one of our many other team members might be able to help.  I'm happy to answer discord DMs also if you don't want to join the discord.
+If you have any questions about installing these tools, and you're sure you followed the instructions above correctly, you're best bet is to get onto the [Final Nights discord](https://discordapp.com/channels/468225176773984256/468225176773984258) and ask a question about installing the tools.  If you're not a member of our discord, you can [join](https://discord.gg/8ZxgMRc).  If you tag me (@tinygiant) in your post, I'll likely answer pretty quickly.  If you don't tag me, I may not see the question at all, but one of our many other team members might be able to help.  I'm happy to answer discord DMs also if you don't want to join the discord.
 
 ## Conclusion
 
